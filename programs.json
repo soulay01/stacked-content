@@ -1,0 +1,2229 @@
+[
+  {
+    "id": "full-body-3",
+    "name": "Ganzkörper 3×",
+    "description": "Der klassische Einstieg: dreimal pro Woche der ganze Körper mit Langhantel-Grundübungen. Jede Muskelgruppe wird mehrfach pro Woche trainiert, ideal zum Kraft- und Muskelaufbau für Anfänger.",
+    "level": "beginner",
+    "daysPerWeek": 3,
+    "sessionMinutes": 60,
+    "requiresEquipment": [
+      "barbell",
+      "dumbbells",
+      "bench",
+      "rack",
+      "safeties"
+    ],
+    "days": [
+      {
+        "id": "full-a",
+        "name": "Ganzkörper A",
+        "exercises": [
+          {
+            "exerciseId": "back-squat",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 3
+          },
+          {
+            "exerciseId": "bench-press",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 3
+          },
+          {
+            "exerciseId": "bent-over-row",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 3
+          },
+          {
+            "exerciseId": "romanian-deadlift",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 3
+          },
+          {
+            "exerciseId": "lateral-raise",
+            "sets": 4,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "crunch",
+            "sets": 2,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "full-b",
+        "name": "Ganzkörper B",
+        "exercises": [
+          {
+            "exerciseId": "overhead-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 3
+          },
+          {
+            "exerciseId": "conventional-deadlift",
+            "sets": 3,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 180,
+            "targetRIR": 3
+          },
+          {
+            "exerciseId": "dumbbell-bench-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 3
+          },
+          {
+            "exerciseId": "inverted-row",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "goblet-squat",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-curl",
+            "sets": 2,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "lying-leg-raise",
+            "sets": 2,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 60,
+            "targetRIR": 2
+          }
+        ]
+      },
+      {
+        "id": "full-c",
+        "name": "Ganzkörper C",
+        "exercises": [
+          {
+            "exerciseId": "back-squat",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 3
+          },
+          {
+            "exerciseId": "bench-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 3
+          },
+          {
+            "exerciseId": "one-arm-dumbbell-row",
+            "sets": 4,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "slider-leg-curl",
+            "sets": 4,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "lateral-raise",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "overhead-triceps-extension",
+            "sets": 2,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "hammer-curl",
+            "sets": 2,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "full-body-3-dumbbell-only",
+    "name": "Ganzkörper 3× nur Kurzhanteln",
+    "description": "Komplettes Ganzkörpertraining nur mit Kurzhanteln und einer Bank. Einbeinige Beinübungen, Drücken und Rudern halten die Belastung hoch, ohne dass Rack oder Langhantel nötig sind.",
+    "level": "beginner",
+    "daysPerWeek": 3,
+    "sessionMinutes": 60,
+    "requiresEquipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "days": [
+      {
+        "id": "db-a",
+        "name": "Ganzkörper A",
+        "exercises": [
+          {
+            "exerciseId": "goblet-squat",
+            "sets": 4,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-bench-press",
+            "sets": 4,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "one-arm-dumbbell-row",
+            "sets": 4,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-rdl",
+            "sets": 4,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "lateral-raise",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "hammer-curl",
+            "sets": 2,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          }
+        ]
+      },
+      {
+        "id": "db-b",
+        "name": "Ganzkörper B",
+        "exercises": [
+          {
+            "exerciseId": "bulgarian-split-squat",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-shoulder-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-bent-over-row",
+            "sets": 4,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "single-leg-rdl",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "push-up",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "lateral-raise",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "dumbbell-curl",
+            "sets": 2,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "overhead-triceps-extension",
+            "sets": 2,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "db-c",
+        "name": "Ganzkörper C",
+        "exercises": [
+          {
+            "exerciseId": "walking-lunge",
+            "sets": 4,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-bench-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "one-arm-dumbbell-row",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-leg-curl",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 75,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "lateral-raise",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "dumbbell-skullcrusher",
+            "sets": 2,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-calf-raise",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "upper-lower-4",
+    "name": "Upper/Lower 4×",
+    "description": "Zweimal Oberkörper, zweimal Unterkörper pro Woche. Jede Muskelgruppe wird zweimal belastet, Tag A mit schweren Grundübungen, Tag B mit mehr Volumen. Der Allrounder für Muskelaufbau.",
+    "level": "intermediate",
+    "daysPerWeek": 4,
+    "sessionMinutes": 70,
+    "requiresEquipment": [
+      "barbell",
+      "dumbbells",
+      "bench",
+      "inclineBench",
+      "rack",
+      "safeties",
+      "pullUpBar"
+    ],
+    "days": [
+      {
+        "id": "upper-a",
+        "name": "Oberkörper A",
+        "exercises": [
+          {
+            "exerciseId": "bench-press",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "bent-over-row",
+            "sets": 4,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "overhead-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "pull-up",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "reverse-fly",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "dumbbell-curl",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "skullcrusher",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          }
+        ]
+      },
+      {
+        "id": "lower-a",
+        "name": "Unterkörper A",
+        "exercises": [
+          {
+            "exerciseId": "back-squat",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "romanian-deadlift",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "bulgarian-split-squat",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "slider-leg-curl",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "barbell-calf-raise",
+            "sets": 4,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "hanging-leg-raise",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          }
+        ]
+      },
+      {
+        "id": "upper-b",
+        "name": "Oberkörper B",
+        "exercises": [
+          {
+            "exerciseId": "incline-bench-press",
+            "sets": 4,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "chin-up",
+            "sets": 4,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "seated-dumbbell-shoulder-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "chest-supported-dumbbell-row",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "incline-dumbbell-fly",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 75,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "lateral-raise",
+            "sets": 4,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "overhead-triceps-extension",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "lower-b",
+        "name": "Unterkörper B",
+        "exercises": [
+          {
+            "exerciseId": "conventional-deadlift",
+            "sets": 3,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 180,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "front-squat",
+            "sets": 3,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "hip-thrust",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "walking-lunge",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-leg-curl",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 75,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "dumbbell-calf-raise",
+            "sets": 4,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "ab-rollout",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "push-pull-legs-5",
+    "name": "Push/Pull/Legs 5×",
+    "description": "Fünf Trainingstage: Push, Pull und Beine, dazu ein gemischter Oberkörper- und ein Unterkörpertag. Brust, Rücken und Beine kommen jeweils zweimal pro Woche mit hohem Volumen dran. Für Fortgeschrittene mit Zeit.",
+    "level": "advanced",
+    "daysPerWeek": 5,
+    "sessionMinutes": 70,
+    "requiresEquipment": [
+      "barbell",
+      "dumbbells",
+      "bench",
+      "inclineBench",
+      "rack",
+      "safeties",
+      "pullUpBar",
+      "dipBars"
+    ],
+    "days": [
+      {
+        "id": "push",
+        "name": "Push",
+        "exercises": [
+          {
+            "exerciseId": "bench-press",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "overhead-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "incline-dumbbell-press",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 105,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "lateral-raise",
+            "sets": 4,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "tricep-dip",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "overhead-triceps-extension",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "pull",
+        "name": "Pull",
+        "exercises": [
+          {
+            "exerciseId": "pull-up",
+            "sets": 4,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "bent-over-row",
+            "sets": 4,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "one-arm-dumbbell-row",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "reverse-fly",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "barbell-curl",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "hammer-curl",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "legs",
+        "name": "Beine",
+        "exercises": [
+          {
+            "exerciseId": "back-squat",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "romanian-deadlift",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "bulgarian-split-squat",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "slider-leg-curl",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "barbell-calf-raise",
+            "sets": 4,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "hanging-leg-raise",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          }
+        ]
+      },
+      {
+        "id": "upper",
+        "name": "Oberkörper",
+        "exercises": [
+          {
+            "exerciseId": "dumbbell-bench-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "chin-up",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "seated-dumbbell-shoulder-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "chest-supported-dumbbell-row",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-fly",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 75,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "lateral-raise",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "ez-bar-curl",
+            "sets": 2,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "lower",
+        "name": "Unterkörper",
+        "exercises": [
+          {
+            "exerciseId": "conventional-deadlift",
+            "sets": 3,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 180,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "front-squat",
+            "sets": 3,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "hip-thrust",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "walking-lunge",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-leg-curl",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 75,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "dumbbell-calf-raise",
+            "sets": 4,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "ab-rollout",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "short-strong-3",
+    "name": "Kurz & Stark 3×45",
+    "description": "Drei effiziente Einheiten à 45 Minuten: wenige, dafür schwere Grundübungen, kurze Pausen bei den Zusatzübungen. Für alle, die wenig Zeit haben und trotzdem zweimal pro Woche jede Muskelgruppe belasten wollen.",
+    "level": "intermediate",
+    "daysPerWeek": 3,
+    "sessionMinutes": 45,
+    "requiresEquipment": [
+      "barbell",
+      "dumbbells",
+      "bench",
+      "inclineBench",
+      "rack",
+      "safeties",
+      "pullUpBar"
+    ],
+    "days": [
+      {
+        "id": "short-a",
+        "name": "Kraft A",
+        "exercises": [
+          {
+            "exerciseId": "back-squat",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "bench-press",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "bent-over-row",
+            "sets": 4,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "slider-leg-curl",
+            "sets": 4,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 60,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "reverse-fly",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "short-b",
+        "name": "Kraft B",
+        "exercises": [
+          {
+            "exerciseId": "conventional-deadlift",
+            "sets": 3,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "overhead-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 105,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "pull-up",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 10,
+            "restSeconds": 105,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "incline-dumbbell-press",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "lateral-raise",
+            "sets": 4,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "dumbbell-curl",
+            "sets": 2,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 45,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "short-c",
+        "name": "Kraft C",
+        "exercises": [
+          {
+            "exerciseId": "front-squat",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-bench-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "one-arm-dumbbell-row",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "romanian-deadlift",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 105,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "bulgarian-split-squat",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "lateral-raise",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "overhead-triceps-extension",
+            "sets": 2,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "home-barbell-rack-4",
+    "name": "Home Gym Rack 4×",
+    "description": "Zugeschnitten auf das klassische Heim-Setup: Langhantel, Kurzhanteln, verstellbare Bank, Power Rack mit Safeties, Klimmzugstange und Dip-Griffe. Vier Tage Oberkörper und Unterkörper, jede Muskelgruppe zweimal pro Woche.",
+    "level": "intermediate",
+    "daysPerWeek": 4,
+    "sessionMinutes": 70,
+    "requiresEquipment": [
+      "barbell",
+      "dumbbells",
+      "bench",
+      "inclineBench",
+      "rack",
+      "safeties",
+      "pullUpBar",
+      "dipBars"
+    ],
+    "days": [
+      {
+        "id": "home-upper-a",
+        "name": "Oberkörper A",
+        "exercises": [
+          {
+            "exerciseId": "bench-press",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "pull-up",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "overhead-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "pendlay-row",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "chest-dip",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 105,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "ez-bar-curl",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "skullcrusher",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          }
+        ]
+      },
+      {
+        "id": "home-lower-a",
+        "name": "Unterkörper A",
+        "exercises": [
+          {
+            "exerciseId": "back-squat",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "romanian-deadlift",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "bulgarian-split-squat",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "slider-leg-curl",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "barbell-calf-raise",
+            "sets": 4,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "hanging-leg-raise",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          }
+        ]
+      },
+      {
+        "id": "home-upper-b",
+        "name": "Oberkörper B",
+        "exercises": [
+          {
+            "exerciseId": "incline-bench-press",
+            "sets": 4,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "chin-up",
+            "sets": 4,
+            "repMin": 5,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "seated-dumbbell-shoulder-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "chest-supported-dumbbell-row",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "lateral-raise",
+            "sets": 4,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "reverse-fly",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "hammer-curl",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "home-lower-b",
+        "name": "Unterkörper B",
+        "exercises": [
+          {
+            "exerciseId": "conventional-deadlift",
+            "sets": 3,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 180,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "front-squat",
+            "sets": 3,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "hip-thrust",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "walking-lunge",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-leg-curl",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 75,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "dumbbell-calf-raise",
+            "sets": 4,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 60,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "ab-rollout",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lose-strong-3",
+    "name": "Fett weg, Kraft behalten 3×",
+    "description": "Für die Diät: drei Ganzkörper-Einheiten mit schweren Grundübungen halten deine Muskeln, danach ein kurzer Finisher (8 bis 12 Minuten) treibt den Verbrauch hoch. Schwer heben, sauber bleiben, nicht bis zum Muskelversagen.",
+    "level": "beginner",
+    "daysPerWeek": 3,
+    "sessionMinutes": 55,
+    "requiresEquipment": [
+      "barbell",
+      "dumbbells",
+      "bench",
+      "rack",
+      "safeties"
+    ],
+    "goalTags": [
+      "lose",
+      "maintain"
+    ],
+    "days": [
+      {
+        "id": "lose-a",
+        "name": "Kraft A + Finisher",
+        "exercises": [
+          {
+            "exerciseId": "back-squat",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "bench-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "bent-over-row",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "plank",
+            "sets": 2,
+            "repMin": 30,
+            "repMax": 45,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-swing",
+            "sets": 3,
+            "repMin": 15,
+            "repMax": 20,
+            "restSeconds": 30,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "mountain-climber",
+            "sets": 3,
+            "repMin": 20,
+            "repMax": 30,
+            "restSeconds": 30,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "lose-b",
+        "name": "Kraft B + Finisher",
+        "exercises": [
+          {
+            "exerciseId": "conventional-deadlift",
+            "sets": 3,
+            "repMin": 5,
+            "repMax": 8,
+            "restSeconds": 180,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "overhead-press",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 8,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "one-arm-dumbbell-row",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 10,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "walking-lunge",
+            "sets": 2,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "burpee",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 30,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "jump-rope",
+            "sets": 3,
+            "repMin": 60,
+            "repMax": 100,
+            "restSeconds": 30,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "lose-c",
+        "name": "Kraft C + Finisher",
+        "exercises": [
+          {
+            "exerciseId": "romanian-deadlift",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 10,
+            "restSeconds": 150,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-bench-press",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "hip-thrust",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 10,
+            "restSeconds": 120,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-shoulder-press",
+            "sets": 2,
+            "repMin": 8,
+            "repMax": 10,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-thruster",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 30,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "high-knees",
+            "sets": 3,
+            "repMin": 30,
+            "repMax": 45,
+            "restSeconds": 30,
+            "targetRIR": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lose-strong-3-dumbbell",
+    "name": "Fett weg, nur Kurzhanteln 3×",
+    "description": "Die Abnehm-Variante mit Kurzhanteln und Bank: schwere Beinübungen, Drücken und Rudern halten die Muskeln, ein kurzer Zirkel am Ende den Verbrauch. Kein Rack und keine Langhantel nötig.",
+    "level": "beginner",
+    "daysPerWeek": 3,
+    "sessionMinutes": 50,
+    "requiresEquipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "goalTags": [
+      "lose",
+      "maintain"
+    ],
+    "days": [
+      {
+        "id": "lose-d-a",
+        "name": "Kraft A + Zirkel",
+        "exercises": [
+          {
+            "exerciseId": "bulgarian-split-squat",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 10,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-bench-press",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 10,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-bent-over-row",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 10,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "plank",
+            "sets": 2,
+            "repMin": 30,
+            "repMax": 45,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-swing",
+            "sets": 3,
+            "repMin": 15,
+            "repMax": 20,
+            "restSeconds": 30,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "mountain-climber",
+            "sets": 3,
+            "repMin": 20,
+            "repMax": 30,
+            "restSeconds": 30,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "lose-d-b",
+        "name": "Kraft B + Zirkel",
+        "exercises": [
+          {
+            "exerciseId": "dumbbell-rdl",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 10,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-shoulder-press",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 10,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "one-arm-dumbbell-row",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 10,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "goblet-squat",
+            "sets": 2,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-thruster",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 30,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "burpee",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 30,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "lose-d-c",
+        "name": "Kraft C + Zirkel",
+        "exercises": [
+          {
+            "exerciseId": "walking-lunge",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "incline-dumbbell-press",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 10,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-hip-thrust",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-bent-over-row",
+            "sets": 2,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "squat-jump",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 15,
+            "restSeconds": 30,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "high-knees",
+            "sets": 3,
+            "repMin": 30,
+            "repMax": 45,
+            "restSeconds": 30,
+            "targetRIR": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lose-short-25-3",
+    "name": "Kurz & Straff 3×25",
+    "description": "Wenig Zeit, trotzdem Kraft halten: Drei Einheiten à etwa 25 Minuten mit wenigen Grundübungen und kurzen Pausen. Gut für Tage, an denen die Energie im Defizit niedrig ist.",
+    "level": "beginner",
+    "daysPerWeek": 3,
+    "sessionMinutes": 25,
+    "requiresEquipment": [
+      "dumbbells"
+    ],
+    "goalTags": [
+      "lose",
+      "maintain"
+    ],
+    "days": [
+      {
+        "id": "lose-s-a",
+        "name": "Kurz A",
+        "exercises": [
+          {
+            "exerciseId": "goblet-squat",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 60,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "push-up",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-bent-over-row",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-swing",
+            "sets": 2,
+            "repMin": 15,
+            "repMax": 20,
+            "restSeconds": 30,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "lose-s-b",
+        "name": "Kurz B",
+        "exercises": [
+          {
+            "exerciseId": "dumbbell-rdl",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 60,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-shoulder-press",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "reverse-lunge",
+            "sets": 2,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "mountain-climber",
+            "sets": 3,
+            "repMin": 20,
+            "repMax": 30,
+            "restSeconds": 30,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "lose-s-c",
+        "name": "Kurz C",
+        "exercises": [
+          {
+            "exerciseId": "dumbbell-thruster",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "one-arm-dumbbell-row",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "glute-bridge",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "burpee",
+            "sets": 2,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 30,
+            "targetRIR": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lose-bodyweight-3",
+    "name": "Zuhause ohne Geräte 3×",
+    "description": "Abnehmen ohne Equipment: Kniebeugen, Liegestütze und Brücken halten die Kraft, kurze Intervalle mit Seilspringen, Burpees und Mountain Climbers treiben den Verbrauch hoch. Etwa 30 Minuten.",
+    "level": "beginner",
+    "daysPerWeek": 3,
+    "sessionMinutes": 30,
+    "requiresEquipment": [],
+    "goalTags": [
+      "lose",
+      "maintain"
+    ],
+    "days": [
+      {
+        "id": "lose-b-a",
+        "name": "Ohne Geräte A",
+        "exercises": [
+          {
+            "exerciseId": "bodyweight-squat",
+            "sets": 3,
+            "repMin": 15,
+            "repMax": 20,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "push-up",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "glute-bridge",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 20,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "plank",
+            "sets": 2,
+            "repMin": 30,
+            "repMax": 45,
+            "restSeconds": 30,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "mountain-climber",
+            "sets": 3,
+            "repMin": 20,
+            "repMax": 30,
+            "restSeconds": 30,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "jumping-jack",
+            "sets": 3,
+            "repMin": 30,
+            "repMax": 50,
+            "restSeconds": 30,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "lose-b-b",
+        "name": "Ohne Geräte B",
+        "exercises": [
+          {
+            "exerciseId": "split-squat-bodyweight",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "incline-push-up",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "superman",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 15,
+            "restSeconds": 30,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dead-bug",
+            "sets": 2,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 30,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "burpee",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 30,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "high-knees",
+            "sets": 3,
+            "repMin": 30,
+            "repMax": 45,
+            "restSeconds": 30,
+            "targetRIR": 1
+          }
+        ]
+      },
+      {
+        "id": "lose-b-c",
+        "name": "Ohne Geräte C",
+        "exercises": [
+          {
+            "exerciseId": "squat-jump",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "diamond-push-up",
+            "sets": 3,
+            "repMin": 6,
+            "repMax": 12,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "single-leg-calf-raise",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 30,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "lying-leg-raise",
+            "sets": 2,
+            "repMin": 10,
+            "repMax": 15,
+            "restSeconds": 30,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "jump-rope",
+            "sets": 3,
+            "repMin": 60,
+            "repMax": 100,
+            "restSeconds": 30,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "mountain-climber",
+            "sets": 3,
+            "repMin": 20,
+            "repMax": 30,
+            "restSeconds": 30,
+            "targetRIR": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maintain-balanced-3",
+    "name": "Halten & Fit 3×",
+    "description": "Ausgewogen zum Gewicht halten: drei Ganzkörper-Einheiten mit mittlerem Volumen, dazu je ein kurzer Konditionsteil. Du bleibst kräftig und fit, ohne dich zu überlasten.",
+    "level": "beginner",
+    "daysPerWeek": 3,
+    "sessionMinutes": 50,
+    "requiresEquipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "goalTags": [
+      "maintain"
+    ],
+    "days": [
+      {
+        "id": "keep-a",
+        "name": "Fit A",
+        "exercises": [
+          {
+            "exerciseId": "goblet-squat",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-bench-press",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-bent-over-row",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "plank",
+            "sets": 2,
+            "repMin": 30,
+            "repMax": 45,
+            "restSeconds": 45,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "jump-rope",
+            "sets": 2,
+            "repMin": 60,
+            "repMax": 100,
+            "restSeconds": 30,
+            "targetRIR": 2
+          }
+        ]
+      },
+      {
+        "id": "keep-b",
+        "name": "Fit B",
+        "exercises": [
+          {
+            "exerciseId": "dumbbell-rdl",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-shoulder-press",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "one-arm-dumbbell-row",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "reverse-lunge",
+            "sets": 2,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "mountain-climber",
+            "sets": 2,
+            "repMin": 20,
+            "repMax": 30,
+            "restSeconds": 30,
+            "targetRIR": 2
+          }
+        ]
+      },
+      {
+        "id": "keep-c",
+        "name": "Fit C",
+        "exercises": [
+          {
+            "exerciseId": "walking-lunge",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 75,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "incline-dumbbell-press",
+            "sets": 3,
+            "repMin": 8,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-hip-thrust",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 90,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "hammer-curl",
+            "sets": 2,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 60,
+            "targetRIR": 2
+          },
+          {
+            "exerciseId": "dumbbell-thruster",
+            "sets": 2,
+            "repMin": 10,
+            "repMax": 12,
+            "restSeconds": 30,
+            "targetRIR": 2
+          }
+        ]
+      }
+    ]
+  }
+]

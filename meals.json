@@ -1,0 +1,4158 @@
+[
+  {
+    "id": "banane-erdnuss-shake",
+    "name": "Banane-Erdnuss-Shake",
+    "mealType": [
+      "shake",
+      "snack",
+      "fruehstueck"
+    ],
+    "items": [
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 300
+      },
+      {
+        "foodId": "banane",
+        "amount": 120
+      },
+      {
+        "foodId": "erdnussmus",
+        "amount": 30
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 40
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alles in den Mixer, 30 Sekunden mixen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "erdnuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "schoko-hafer-shake",
+    "name": "Schoko-Hafer-Shake",
+    "mealType": [
+      "shake",
+      "fruehstueck",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 300
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 50
+      },
+      {
+        "foodId": "kakaopulver",
+        "amount": 10
+      },
+      {
+        "foodId": "honig",
+        "amount": 20
+      },
+      {
+        "foodId": "mandelmus",
+        "amount": 20
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alles in den Mixer geben und cremig mixen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "beeren-skyr-shake",
+    "name": "Beeren-Skyr-Shake",
+    "mealType": [
+      "shake",
+      "fruehstueck",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "skyr",
+        "amount": 200
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 200
+      },
+      {
+        "foodId": "beerenmix-tk",
+        "amount": 100
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 40
+      },
+      {
+        "foodId": "honig",
+        "amount": 20
+      },
+      {
+        "foodId": "mandelmus",
+        "amount": 15
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alle Zutaten mixen, bis ein glatter Shake entsteht.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "mango-lassi-shake",
+    "name": "Mango-Lassi-Shake",
+    "mealType": [
+      "shake",
+      "snack",
+      "fruehstueck"
+    ],
+    "items": [
+      {
+        "foodId": "joghurt-3-5",
+        "amount": 250
+      },
+      {
+        "foodId": "mango",
+        "amount": 150
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 150
+      },
+      {
+        "foodId": "honig",
+        "amount": 20
+      },
+      {
+        "foodId": "milchpulver",
+        "amount": 20
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Mango klein schneiden, mit allen Zutaten mixen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "whey-erdnuss-power-shake",
+    "name": "Whey-Erdnuss-Power-Shake",
+    "mealType": [
+      "shake",
+      "nach_training",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "whey",
+        "amount": 30
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 300
+      },
+      {
+        "foodId": "banane",
+        "amount": 120
+      },
+      {
+        "foodId": "erdnussmus",
+        "amount": 30
+      },
+      {
+        "foodId": "maltodextrin",
+        "amount": 30
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Milch zuerst in den Mixer, dann Pulver, Banane und Erdnussmus dazu, 30 Sekunden mixen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "erdnuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "weight-gainer-shake",
+    "name": "Weight-Gainer-Shake",
+    "mealType": [
+      "shake",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "weight-gainer",
+        "amount": 100
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 400
+      },
+      {
+        "foodId": "banane",
+        "amount": 100
+      },
+      {
+        "foodId": "erdnussmus",
+        "amount": 20
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Milch, Pulver, Banane und Erdnussmus im Mixer glatt rühren.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "erdnuesse",
+      "soja"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "avocado-schoko-shake",
+    "name": "Avocado-Schoko-Shake",
+    "mealType": [
+      "shake",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "avocado",
+        "amount": 100
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 300
+      },
+      {
+        "foodId": "kakaopulver",
+        "amount": 10
+      },
+      {
+        "foodId": "honig",
+        "amount": 20
+      },
+      {
+        "foodId": "sahne",
+        "amount": 50
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Avocado entkernen, mit allen Zutaten cremig mixen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "vegan-kokos-ananas-shake",
+    "name": "Vegane Kokos-Ananas-Bombe",
+    "mealType": [
+      "shake",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "kokosmilch",
+        "amount": 200
+      },
+      {
+        "foodId": "ananas",
+        "amount": 150
+      },
+      {
+        "foodId": "banane",
+        "amount": 100
+      },
+      {
+        "foodId": "protein-vegan",
+        "amount": 30
+      },
+      {
+        "foodId": "ahornsirup",
+        "amount": 20
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alles in den Mixer geben und eine Minute mixen.",
+    "diet": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "contains": [],
+    "tastes": [
+      "frisch",
+      "herzhaft",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "hafer-dattel-shake",
+    "name": "Hafer-Dattel-Shake (vegan)",
+    "mealType": [
+      "shake",
+      "fruehstueck",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "haferdrink",
+        "amount": 300
+      },
+      {
+        "foodId": "datteln",
+        "amount": 60
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 40
+      },
+      {
+        "foodId": "mandelmus",
+        "amount": 25
+      },
+      {
+        "foodId": "kakaopulver",
+        "amount": 5
+      }
+    ],
+    "prepMinutes": 4,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Datteln entsteinen, alles fein mixen.",
+    "diet": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "cashew-dattel-shake",
+    "name": "Cashew-Dattel-Shake (vegan)",
+    "mealType": [
+      "shake",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "sojadrink",
+        "amount": 300
+      },
+      {
+        "foodId": "cashewmus",
+        "amount": 40
+      },
+      {
+        "foodId": "datteln",
+        "amount": 50
+      },
+      {
+        "foodId": "banane",
+        "amount": 100
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alle Zutaten mixen, bis kein Dattelstück mehr zu sehen ist.",
+    "diet": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "contains": [
+      "nuesse",
+      "soja"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "kakao-sahne-shake",
+    "name": "Kakao-Sahne-Shake",
+    "mealType": [
+      "shake",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 250
+      },
+      {
+        "foodId": "sahne",
+        "amount": 100
+      },
+      {
+        "foodId": "kakao-trinkpulver",
+        "amount": 30
+      },
+      {
+        "foodId": "honig",
+        "amount": 15
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alles kräftig verrühren oder kurz mixen, kalt trinken.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose"
+    ],
+    "tastes": [
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "erdbeer-quark-shake",
+    "name": "Erdbeer-Quark-Shake",
+    "mealType": [
+      "shake",
+      "fruehstueck",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "magerquark",
+        "amount": 150
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 250
+      },
+      {
+        "foodId": "erdbeere",
+        "amount": 150
+      },
+      {
+        "foodId": "honig",
+        "amount": 25
+      },
+      {
+        "foodId": "sahne",
+        "amount": 50
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 30
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alles in den Mixer, 30 Sekunden mixen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "pfirsich-joghurt-shake",
+    "name": "Pfirsich-Joghurt-Shake",
+    "mealType": [
+      "shake",
+      "fruehstueck",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "joghurt-griechisch",
+        "amount": 200
+      },
+      {
+        "foodId": "pfirsich-dose",
+        "amount": 150
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 200
+      },
+      {
+        "foodId": "honig",
+        "amount": 20
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 30
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Pfirsiche abtropfen lassen, mit allem anderen mixen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "nutella-banane-shake",
+    "name": "Nuss-Nougat-Banane-Shake",
+    "mealType": [
+      "shake",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 300
+      },
+      {
+        "foodId": "banane",
+        "amount": 120
+      },
+      {
+        "foodId": "nutella",
+        "amount": 40
+      },
+      {
+        "foodId": "sahne",
+        "amount": 50
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alles im Mixer cremig mixen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "casein-nacht-shake",
+    "name": "Casein-Erdnuss-Nachtshake",
+    "mealType": [
+      "shake",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "casein",
+        "amount": 40
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 300
+      },
+      {
+        "foodId": "erdnussmus",
+        "amount": 20
+      },
+      {
+        "foodId": "honig",
+        "amount": 20
+      },
+      {
+        "foodId": "banane",
+        "amount": 80
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Alles mixen. Wird dick und cremig, nach Wunsch mit etwas mehr Milch verdünnen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "erdnuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "trinknahrung-banane-mix",
+    "name": "Trinknahrung-Banane-Mix",
+    "mealType": [
+      "shake",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "trinknahrung",
+        "amount": 200
+      },
+      {
+        "foodId": "whey",
+        "amount": 20
+      },
+      {
+        "foodId": "banane",
+        "amount": 100
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 30
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Trinknahrung mit Whey, Banane und Haferflocken mixen. Mildert den Geschmack der Trinknahrung.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "kirsch-schoko-shake",
+    "name": "Kirsch-Schoko-Shake",
+    "mealType": [
+      "shake",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 250
+      },
+      {
+        "foodId": "kirsche",
+        "amount": 100
+      },
+      {
+        "foodId": "kakao-trinkpulver",
+        "amount": 30
+      },
+      {
+        "foodId": "mandelmus",
+        "amount": 20
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 40
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Kirschen entsteinen, mit allem anderen mixen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "mandel-marzipan-shake",
+    "name": "Mandel-Marzipan-Shake",
+    "mealType": [
+      "shake",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 300
+      },
+      {
+        "foodId": "marzipan",
+        "amount": 40
+      },
+      {
+        "foodId": "mandelmus",
+        "amount": 20
+      },
+      {
+        "foodId": "banane",
+        "amount": 80
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Marzipan klein schneiden und mit allem mixen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "apfel-hafer-shake",
+    "name": "Apfel-Hafer-Shake",
+    "mealType": [
+      "shake",
+      "fruehstueck"
+    ],
+    "items": [
+      {
+        "foodId": "apfelmus",
+        "amount": 150
+      },
+      {
+        "foodId": "joghurt-3-5",
+        "amount": 200
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 50
+      },
+      {
+        "foodId": "honig",
+        "amount": 20
+      },
+      {
+        "foodId": "walnuesse",
+        "amount": 20
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alles mixen, bis die Haferflocken fein zerkleinert sind.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "heidelbeer-protein-shake",
+    "name": "Heidelbeer-Protein-Shake",
+    "mealType": [
+      "shake",
+      "nach_training",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "skyr",
+        "amount": 200
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 250
+      },
+      {
+        "foodId": "blaubeere",
+        "amount": 100
+      },
+      {
+        "foodId": "whey",
+        "amount": 25
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 40
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alles in den Mixer, 30 Sekunden mixen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "orangen-joghurt-shake",
+    "name": "Orangen-Joghurt-Shake",
+    "mealType": [
+      "shake",
+      "fruehstueck",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "orangensaft",
+        "amount": 200
+      },
+      {
+        "foodId": "joghurt-3-5",
+        "amount": 200
+      },
+      {
+        "foodId": "banane",
+        "amount": 100
+      },
+      {
+        "foodId": "honig",
+        "amount": 20
+      },
+      {
+        "foodId": "milchpulver",
+        "amount": 30
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alles mixen und sofort trinken.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "kokos-schoko-shake-vegan",
+    "name": "Kokos-Schoko-Shake (vegan)",
+    "mealType": [
+      "shake",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "kokosmilch",
+        "amount": 150
+      },
+      {
+        "foodId": "sojadrink",
+        "amount": 200
+      },
+      {
+        "foodId": "kakaopulver",
+        "amount": 10
+      },
+      {
+        "foodId": "ahornsirup",
+        "amount": 25
+      },
+      {
+        "foodId": "cashewmus",
+        "amount": 20
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alles mixen, gut gekühlt trinken.",
+    "diet": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "contains": [
+      "nuesse",
+      "soja"
+    ],
+    "tastes": [
+      "herzhaft",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "eiweiss-kakao-shake",
+    "name": "Eiweiß-Kakao-Shake",
+    "mealType": [
+      "shake",
+      "nach_training",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "eiweissdrink",
+        "amount": 330
+      },
+      {
+        "foodId": "kakao-trinkpulver",
+        "amount": 30
+      },
+      {
+        "foodId": "sahne",
+        "amount": 50
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 30
+      },
+      {
+        "foodId": "erdnussmus",
+        "amount": 15
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alles kurz mixen. Der Eiweißdrink sorgt für den Proteinkick.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "erdnuesse"
+    ],
+    "tastes": [
+      "herzhaft",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "maltodextrin-saft-drink",
+    "name": "Maltodextrin-Saft-Drink",
+    "mealType": [
+      "vor_training",
+      "shake"
+    ],
+    "items": [
+      {
+        "foodId": "maltodextrin",
+        "amount": 50
+      },
+      {
+        "foodId": "apfelsaft",
+        "amount": 300
+      },
+      {
+        "foodId": "banane",
+        "amount": 100
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Maltodextrin im Saft auflösen, Banane dazu mixen. 30-60 Minuten vor dem Training trinken.",
+    "diet": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "contains": [],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "banane-whey-milch-shake",
+    "name": "Banane-Whey-Milch-Shake",
+    "mealType": [
+      "nach_training",
+      "shake"
+    ],
+    "items": [
+      {
+        "foodId": "whey",
+        "amount": 40
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 300
+      },
+      {
+        "foodId": "banane",
+        "amount": 120
+      },
+      {
+        "foodId": "honig",
+        "amount": 15
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alles mixen und direkt nach dem Training trinken.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "haferdrink-protein-shake",
+    "name": "Hafer-Protein-Shake (vegan)",
+    "mealType": [
+      "shake",
+      "fruehstueck",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "haferdrink",
+        "amount": 300
+      },
+      {
+        "foodId": "protein-vegan",
+        "amount": 30
+      },
+      {
+        "foodId": "banane",
+        "amount": 120
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 40
+      },
+      {
+        "foodId": "mandelmus",
+        "amount": 20
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alles mixen, nach Bedarf mehr Haferdrink zugeben.",
+    "diet": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "skyr-granola-schale",
+    "name": "Skyr-Granola-Schale",
+    "mealType": [
+      "fruehstueck",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "skyr",
+        "amount": 250
+      },
+      {
+        "foodId": "granola",
+        "amount": 60
+      },
+      {
+        "foodId": "honig",
+        "amount": 15
+      },
+      {
+        "foodId": "blaubeere",
+        "amount": 80
+      },
+      {
+        "foodId": "walnuesse",
+        "amount": 20
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 2,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Skyr in eine Schale, Granola, Beeren, Walnüsse und Honig darübergeben.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "hafer-joghurt-bowl",
+    "name": "Hafer-Joghurt-Bowl",
+    "mealType": [
+      "fruehstueck",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "haferflocken",
+        "amount": 60
+      },
+      {
+        "foodId": "joghurt-3-5",
+        "amount": 200
+      },
+      {
+        "foodId": "banane",
+        "amount": 100
+      },
+      {
+        "foodId": "honig",
+        "amount": 15
+      },
+      {
+        "foodId": "walnuesse",
+        "amount": 20
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Haferflocken mit Joghurt verrühren, Banane in Scheiben und Walnüsse obendrauf.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "erdnuss-banane-toast",
+    "name": "Erdnussmus-Banane-Toast",
+    "mealType": [
+      "fruehstueck",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "toast",
+        "amount": 84
+      },
+      {
+        "foodId": "erdnussmus",
+        "amount": 45
+      },
+      {
+        "foodId": "banane",
+        "amount": 120
+      },
+      {
+        "foodId": "honig",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": true,
+    "steps": "Toast kurz toasten, mit Erdnussmus bestreichen, Banane in Scheiben und Honig darüber.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "erdnuesse"
+    ],
+    "tastes": [
+      "herzhaft",
+      "suess",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "avocado-ei-vollkornbrot",
+    "name": "Avocado-Ei-Vollkornbrot",
+    "mealType": [
+      "fruehstueck",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "vollkornbrot",
+        "amount": 90
+      },
+      {
+        "foodId": "avocado",
+        "amount": 100
+      },
+      {
+        "foodId": "ei-gekocht",
+        "amount": 100
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 4,
+    "volumeScore": 3,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Avocado zerdrücken, aufs Brot streichen, Ei in Scheiben darauf, mit Olivenöl beträufeln.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "ei"
+    ],
+    "tastes": [
+      "frisch",
+      "herzhaft",
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "thunfisch-frischkaese-wrap",
+    "name": "Thunfisch-Frischkäse-Wrap",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "wrap",
+        "amount": 120
+      },
+      {
+        "foodId": "thunfisch-dose",
+        "amount": 130
+      },
+      {
+        "foodId": "frischkaese",
+        "amount": 40
+      },
+      {
+        "foodId": "gurke",
+        "amount": 50
+      },
+      {
+        "foodId": "tomate",
+        "amount": 50
+      },
+      {
+        "foodId": "mais-dose",
+        "amount": 50
+      }
+    ],
+    "prepMinutes": 5,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Wrap mit Frischkäse bestreichen, Thunfisch, Gemüse und Mais darauf geben, einrollen.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "gluten",
+      "fisch"
+    ],
+    "tastes": [
+      "herzhaft"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "hummus-avocado-wrap",
+    "name": "Hummus-Avocado-Wrap (vegan)",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "wrap",
+        "amount": 120
+      },
+      {
+        "foodId": "hummus",
+        "amount": 100
+      },
+      {
+        "foodId": "avocado",
+        "amount": 60
+      },
+      {
+        "foodId": "tomate",
+        "amount": 60
+      },
+      {
+        "foodId": "rucola",
+        "amount": 20
+      }
+    ],
+    "prepMinutes": 4,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Wrap mit Hummus bestreichen, Avocado, Tomate und Rucola darauf, einrollen.",
+    "diet": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "sesam"
+    ],
+    "tastes": [
+      "frisch",
+      "herzhaft",
+      "suess"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "quark-nuss-schale",
+    "name": "Quark-Nuss-Schale",
+    "mealType": [
+      "snack",
+      "fruehstueck"
+    ],
+    "items": [
+      {
+        "foodId": "quark-40",
+        "amount": 200
+      },
+      {
+        "foodId": "mandelmus",
+        "amount": 20
+      },
+      {
+        "foodId": "honig",
+        "amount": 20
+      },
+      {
+        "foodId": "rosinen",
+        "amount": 30
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 30
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 2,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Quark mit Honig glattrühren, Mandelmus, Rosinen und Haferflocken unterheben.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "caprese-broetchen",
+    "name": "Caprese-Brötchen mit Pesto",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "broetchen",
+        "amount": 110
+      },
+      {
+        "foodId": "mozzarella",
+        "amount": 125
+      },
+      {
+        "foodId": "tomate",
+        "amount": 100
+      },
+      {
+        "foodId": "pesto-gruen",
+        "amount": 20
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Brötchen aufschneiden, mit Pesto bestreichen, Mozzarella und Tomate belegen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "herzhaft"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "schinken-kaese-sandwich",
+    "name": "Schinken-Käse-Sandwich",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "toast",
+        "amount": 112
+      },
+      {
+        "foodId": "kochschinken",
+        "amount": 50
+      },
+      {
+        "foodId": "gouda",
+        "amount": 50
+      },
+      {
+        "foodId": "butter",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 4,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Toast mit Butter bestreichen, mit Schinken und Käse belegen und zusammenklappen.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "lachs-frischkaese-bagel",
+    "name": "Lachs-Frischkäse-Bagel",
+    "mealType": [
+      "fruehstueck",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "bagel",
+        "amount": 95
+      },
+      {
+        "foodId": "frischkaese",
+        "amount": 50
+      },
+      {
+        "foodId": "raeucherlachs",
+        "amount": 60
+      },
+      {
+        "foodId": "gurke",
+        "amount": 50
+      },
+      {
+        "foodId": "avocado",
+        "amount": 50
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Bagel halbieren, mit Frischkäse bestreichen, Lachs, Gurke und Avocado darauf.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "gluten",
+      "fisch"
+    ],
+    "tastes": [
+      "herzhaft"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "dattel-nuss-teller",
+    "name": "Dattel-Nuss-Teller (vegan)",
+    "mealType": [
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "datteln",
+        "amount": 80
+      },
+      {
+        "foodId": "mandeln",
+        "amount": 40
+      },
+      {
+        "foodId": "walnuesse",
+        "amount": 20
+      },
+      {
+        "foodId": "cashew",
+        "amount": 30
+      }
+    ],
+    "prepMinutes": 1,
+    "volumeScore": 1,
+    "texture": "weich",
+    "appetiteFriendly": true,
+    "steps": "Einfach auf einem Teller anrichten. Datteln entsteinen, wenn nötig.",
+    "diet": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "contains": [
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "muesli-schale-milch",
+    "name": "Müsli mit Milch und Banane",
+    "mealType": [
+      "fruehstueck"
+    ],
+    "items": [
+      {
+        "foodId": "muesli",
+        "amount": 80
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 250
+      },
+      {
+        "foodId": "banane",
+        "amount": 100
+      },
+      {
+        "foodId": "mandelmus",
+        "amount": 15
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 2,
+    "texture": "weich",
+    "appetiteFriendly": true,
+    "steps": "Müsli in eine Schale, Milch, Banane und Mandelmus dazugeben.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "griechischer-joghurt-honig-nuss",
+    "name": "Griechischer Joghurt mit Honig und Nüssen",
+    "mealType": [
+      "fruehstueck",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "joghurt-griechisch",
+        "amount": 250
+      },
+      {
+        "foodId": "honig",
+        "amount": 25
+      },
+      {
+        "foodId": "walnuesse",
+        "amount": 30
+      },
+      {
+        "foodId": "rosinen",
+        "amount": 20
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 2,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Joghurt in eine Schale, Honig, Walnüsse und Rosinen darübergeben.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "huettenkaese-nuss-brot",
+    "name": "Hüttenkäse-Nuss-Brot",
+    "mealType": [
+      "snack",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "vollkornbrot",
+        "amount": 90
+      },
+      {
+        "foodId": "huettenkaese",
+        "amount": 150
+      },
+      {
+        "foodId": "walnuesse",
+        "amount": 25
+      },
+      {
+        "foodId": "honig",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Brot mit Hüttenkäse belegen, Walnüsse und Honig darüber.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "herzhaft",
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "pudding-sahne-keks",
+    "name": "Vanillepudding mit Sahne und Keksen",
+    "mealType": [
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "pudding-vanille",
+        "amount": 250
+      },
+      {
+        "foodId": "sahne",
+        "amount": 60
+      },
+      {
+        "foodId": "haferkekse",
+        "amount": 40
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 2,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Pudding in ein Glas geben, Sahne obendrauf und Kekse zerbröseln.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "kaese-salami-brett",
+    "name": "Käse-Salami-Brett mit Brötchen",
+    "mealType": [
+      "abend",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "broetchen",
+        "amount": 110
+      },
+      {
+        "foodId": "gouda",
+        "amount": 60
+      },
+      {
+        "foodId": "salami",
+        "amount": 30
+      },
+      {
+        "foodId": "butter",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 3,
+    "texture": "fest",
+    "appetiteFriendly": false,
+    "steps": "Brötchen mit Butter, Käse und Salami belegen.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "herzhaft"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "milchreis-mandel-schale",
+    "name": "Milchreis mit Mandelmus",
+    "mealType": [
+      "snack",
+      "fruehstueck"
+    ],
+    "items": [
+      {
+        "foodId": "milchreis",
+        "amount": 250
+      },
+      {
+        "foodId": "mandelmus",
+        "amount": 25
+      },
+      {
+        "foodId": "rosinen",
+        "amount": 30
+      },
+      {
+        "foodId": "sahne",
+        "amount": 30
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 2,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Milchreis in eine Schale, Mandelmus, Rosinen und Sahne darübergeben.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "herzhaft"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "reiswaffeln-erdnuss-banane",
+    "name": "Reiswaffeln mit Erdnussmus und Banane",
+    "mealType": [
+      "snack",
+      "vor_training"
+    ],
+    "items": [
+      {
+        "foodId": "reiswaffeln",
+        "amount": 40
+      },
+      {
+        "foodId": "erdnussmus",
+        "amount": 45
+      },
+      {
+        "foodId": "banane",
+        "amount": 120
+      },
+      {
+        "foodId": "honig",
+        "amount": 15
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 3,
+    "texture": "knusprig",
+    "appetiteFriendly": true,
+    "steps": "Waffeln mit Erdnussmus bestreichen, Banane in Scheiben drauf und mit Honig beträufeln.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "erdnuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "nachos-guacamole-cheddar",
+    "name": "Nachos mit Guacamole und Cheddar",
+    "mealType": [
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "tortillachips",
+        "amount": 60
+      },
+      {
+        "foodId": "guacamole",
+        "amount": 100
+      },
+      {
+        "foodId": "cheddar",
+        "amount": 40
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 2,
+    "texture": "knusprig",
+    "appetiteFriendly": false,
+    "steps": "Chips auf einem Teller verteilen, Guacamole und Cheddar in Stücken dazu.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose"
+    ],
+    "tastes": [
+      "herzhaft"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "haehnchen-reis-sahne-pfanne",
+    "name": "Hähnchen-Reis-Pfanne mit Sahnesauce",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "haehnchenbrust",
+        "amount": 150
+      },
+      {
+        "foodId": "reis",
+        "amount": 90
+      },
+      {
+        "foodId": "sahne",
+        "amount": 80
+      },
+      {
+        "foodId": "brokkoli",
+        "amount": 100
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 25,
+    "volumeScore": 4,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Reis kochen. Hähnchen in Würfeln in Öl anbraten, Brokkoli dazu, mit Sahne ablöschen, mit Reis servieren.",
+    "diet": [],
+    "contains": [
+      "laktose"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "spaghetti-bolognese-reichhaltig",
+    "name": "Spaghetti Bolognese (reichhaltig)",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "nudeln",
+        "amount": 100
+      },
+      {
+        "foodId": "rinderhack",
+        "amount": 150
+      },
+      {
+        "foodId": "tomatensauce",
+        "amount": 150
+      },
+      {
+        "foodId": "parmesan",
+        "amount": 15
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 10
+      },
+      {
+        "foodId": "zwiebel",
+        "amount": 50
+      }
+    ],
+    "prepMinutes": 20,
+    "volumeScore": 4,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Nudeln kochen. Zwiebel und Hack in Öl anbraten, Tomatensauce zugeben, mit Parmesan servieren.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "lachs-kartoffeln-sahnesauce",
+    "name": "Lachs mit Kartoffeln und Sahnespinat",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "lachs",
+        "amount": 150
+      },
+      {
+        "foodId": "kartoffeln",
+        "amount": 300
+      },
+      {
+        "foodId": "sahne",
+        "amount": 60
+      },
+      {
+        "foodId": "spinat",
+        "amount": 100
+      },
+      {
+        "foodId": "butter",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 25,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Kartoffeln kochen. Lachs in Butter braten, Spinat mit Sahne erhitzen, alles anrichten.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "fisch"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "pasta-pesto-haehnchen",
+    "name": "Pasta mit Pesto und Hähnchen",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "nudeln",
+        "amount": 100
+      },
+      {
+        "foodId": "pesto-gruen",
+        "amount": 40
+      },
+      {
+        "foodId": "haehnchenbrust-gegart",
+        "amount": 120
+      },
+      {
+        "foodId": "parmesan",
+        "amount": 15
+      },
+      {
+        "foodId": "pinienkerne",
+        "amount": 15
+      }
+    ],
+    "prepMinutes": 12,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Nudeln kochen, mit Pesto und gegartem Hähnchen mischen, Pinienkerne und Parmesan darüber.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "gnocchi-kaese-auflauf",
+    "name": "Gnocchi-Käse-Auflauf",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "gnocchi",
+        "amount": 250
+      },
+      {
+        "foodId": "kaese-sahnesauce",
+        "amount": 150
+      },
+      {
+        "foodId": "mozzarella",
+        "amount": 80
+      },
+      {
+        "foodId": "tomate",
+        "amount": 100
+      },
+      {
+        "foodId": "spinat",
+        "amount": 50
+      }
+    ],
+    "prepMinutes": 15,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Gnocchi mit Sauce, Tomate und Spinat in eine Form geben, Mozzarella darüber, 10 Minuten überbacken.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "linsen-kokos-curry-reis",
+    "name": "Rote-Linsen-Kokos-Curry mit Reis (vegan)",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "reis",
+        "amount": 80
+      },
+      {
+        "foodId": "linsen-rot",
+        "amount": 70
+      },
+      {
+        "foodId": "kokosmilch",
+        "amount": 150
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 10
+      },
+      {
+        "foodId": "spinat",
+        "amount": 100
+      },
+      {
+        "foodId": "zwiebel",
+        "amount": 50
+      }
+    ],
+    "prepMinutes": 20,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Reis kochen. Zwiebel in Öl anschwitzen, Linsen und Kokosmilch zugeben, 12 Minuten köcheln, Spinat unterrühren.",
+    "diet": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "contains": [],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "tofu-erdnuss-nudelpfanne",
+    "name": "Tofu-Erdnuss-Nudelpfanne (vegan)",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "tofu",
+        "amount": 150
+      },
+      {
+        "foodId": "reisnudeln",
+        "amount": 80
+      },
+      {
+        "foodId": "erdnussmus",
+        "amount": 30
+      },
+      {
+        "foodId": "sojasauce",
+        "amount": 20
+      },
+      {
+        "foodId": "gemuesemix-tk",
+        "amount": 150
+      },
+      {
+        "foodId": "rapsoel",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 15,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Nudeln einweichen/kochen. Tofu und Gemüse in Öl braten, mit Erdnussmus und Sojasauce ablöschen, Nudeln untermischen.",
+    "diet": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "erdnuesse",
+      "soja"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "hack-kartoffel-auflauf",
+    "name": "Hack-Kartoffel-Auflauf",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "kartoffeln",
+        "amount": 300
+      },
+      {
+        "foodId": "hack-gemischt",
+        "amount": 125
+      },
+      {
+        "foodId": "bechamel",
+        "amount": 100
+      },
+      {
+        "foodId": "gouda",
+        "amount": 40
+      },
+      {
+        "foodId": "zwiebel",
+        "amount": 50
+      }
+    ],
+    "prepMinutes": 25,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Kartoffeln in Scheiben vorkochen, mit angebratenem Hack und Béchamel schichten, Käse darüber und kurz überbacken.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "omelett-schinken-kaese",
+    "name": "Omelett mit Schinken und Käse",
+    "mealType": [
+      "hauptmahlzeit",
+      "fruehstueck",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "ei",
+        "amount": 220
+      },
+      {
+        "foodId": "kochschinken",
+        "amount": 50
+      },
+      {
+        "foodId": "gouda",
+        "amount": 40
+      },
+      {
+        "foodId": "butter",
+        "amount": 15
+      },
+      {
+        "foodId": "broetchen",
+        "amount": 55
+      }
+    ],
+    "prepMinutes": 10,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Eier verquirlen, in Butter stocken lassen, mit Schinken und Käse füllen, Brötchen dazu.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "gluten",
+      "ei"
+    ],
+    "tastes": [
+      "herzhaft"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "couscous-halloumi-bowl",
+    "name": "Couscous-Halloumi-Bowl",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "couscous",
+        "amount": 80
+      },
+      {
+        "foodId": "halloumi",
+        "amount": 100
+      },
+      {
+        "foodId": "paprika",
+        "amount": 100
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 15
+      },
+      {
+        "foodId": "kichererbsen-dose",
+        "amount": 100
+      }
+    ],
+    "prepMinutes": 12,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Couscous mit heißem Wasser quellen lassen. Halloumi und Paprika anbraten, Kichererbsen untermischen, Olivenöl darüber.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "kartoffel-haehnchen-gratin",
+    "name": "Kartoffel-Hähnchen-Gratin",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "kartoffeln",
+        "amount": 300
+      },
+      {
+        "foodId": "haehnchenbrust",
+        "amount": 120
+      },
+      {
+        "foodId": "sahne",
+        "amount": 100
+      },
+      {
+        "foodId": "gouda",
+        "amount": 40
+      }
+    ],
+    "prepMinutes": 25,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Kartoffeln und Hähnchen in Scheiben schichten, Sahne darüber, Käse drauf und überbacken.",
+    "diet": [],
+    "contains": [
+      "laktose"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "chili-reis-cheddar",
+    "name": "Chili con Carne mit Reis und Cheddar",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "chili",
+        "amount": 350
+      },
+      {
+        "foodId": "reis-express",
+        "amount": 200
+      },
+      {
+        "foodId": "cheddar",
+        "amount": 30
+      },
+      {
+        "foodId": "schmand",
+        "amount": 30
+      }
+    ],
+    "prepMinutes": 5,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Chili erhitzen, Reis in der Mikrowelle erwärmen, Cheddar und Schmand obendrauf.",
+    "diet": [],
+    "contains": [
+      "laktose"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "thunfisch-nudel-auflauf",
+    "name": "Thunfisch-Nudel-Auflauf",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "nudeln",
+        "amount": 100
+      },
+      {
+        "foodId": "thunfisch-dose",
+        "amount": 130
+      },
+      {
+        "foodId": "sahne",
+        "amount": 80
+      },
+      {
+        "foodId": "mais-dose",
+        "amount": 50
+      },
+      {
+        "foodId": "mozzarella",
+        "amount": 60
+      }
+    ],
+    "prepMinutes": 20,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Nudeln kochen, mit Thunfisch, Mais und Sahne mischen, Mozzarella darüber, überbacken.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "gluten",
+      "fisch"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "schnitzel-pommes-ketchup",
+    "name": "Schnitzel mit Pommes",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "schnitzel-paniert",
+        "amount": 120
+      },
+      {
+        "foodId": "pommes-ofen",
+        "amount": 200
+      },
+      {
+        "foodId": "ketchup",
+        "amount": 30
+      },
+      {
+        "foodId": "mayonnaise",
+        "amount": 20
+      }
+    ],
+    "prepMinutes": 20,
+    "volumeScore": 3,
+    "texture": "knusprig",
+    "appetiteFriendly": false,
+    "steps": "Schnitzel und Pommes im Backofen backen, mit Ketchup und Mayo servieren.",
+    "diet": [],
+    "contains": [
+      "gluten",
+      "ei"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "lachs-reis-avocado-bowl",
+    "name": "Lachs-Reis-Avocado-Bowl",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "lachs",
+        "amount": 120
+      },
+      {
+        "foodId": "reis",
+        "amount": 80
+      },
+      {
+        "foodId": "avocado",
+        "amount": 100
+      },
+      {
+        "foodId": "sojasauce",
+        "amount": 15
+      },
+      {
+        "foodId": "sesam",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 22,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Reis kochen, Lachs braten, mit Avocado und Sesam in einer Schüssel anrichten, mit Sojasauce würzen.",
+    "diet": [],
+    "contains": [
+      "gluten",
+      "fisch",
+      "soja",
+      "sesam"
+    ],
+    "tastes": [
+      "herzhaft",
+      "suess",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "suesskartoffel-kichererbsen-curry",
+    "name": "Süßkartoffel-Kichererbsen-Curry (vegan)",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "suesskartoffel",
+        "amount": 250
+      },
+      {
+        "foodId": "kichererbsen-dose",
+        "amount": 150
+      },
+      {
+        "foodId": "kokosmilch",
+        "amount": 150
+      },
+      {
+        "foodId": "reis",
+        "amount": 60
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 25,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Süßkartoffel würfeln und mit Kichererbsen und Kokosmilch weich köcheln, Reis separat kochen.",
+    "diet": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "contains": [],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "bratwurst-kartoffelpueree-rotkohl",
+    "name": "Bratwurst mit Kartoffelpüree und Rotkohl",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "bratwurst",
+        "amount": 200
+      },
+      {
+        "foodId": "kartoffelpueree",
+        "amount": 250
+      },
+      {
+        "foodId": "rotkohl",
+        "amount": 150
+      }
+    ],
+    "prepMinutes": 15,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Bratwurst braten, Püree zubereiten, Rotkohl erhitzen.",
+    "diet": [],
+    "contains": [
+      "laktose"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "tortellini-sahnesauce-schinken",
+    "name": "Tortellini in Käse-Sahnesauce mit Schinken",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "tortellini",
+        "amount": 200
+      },
+      {
+        "foodId": "kaese-sahnesauce",
+        "amount": 150
+      },
+      {
+        "foodId": "kochschinken",
+        "amount": 50
+      },
+      {
+        "foodId": "parmesan",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 8,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Tortellini kochen, Sauce mit Schinken erhitzen, vermengen, Parmesan darüber.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "gluten",
+      "ei"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "spinat-ei-kartoffeln",
+    "name": "Spinat mit Ei und Kartoffeln",
+    "mealType": [
+      "hauptmahlzeit",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "kartoffeln",
+        "amount": 300
+      },
+      {
+        "foodId": "spinat",
+        "amount": 200
+      },
+      {
+        "foodId": "ei",
+        "amount": 165
+      },
+      {
+        "foodId": "butter",
+        "amount": 20
+      },
+      {
+        "foodId": "sahne",
+        "amount": 50
+      }
+    ],
+    "prepMinutes": 25,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Kartoffeln kochen. Spinat mit Sahne erhitzen, Eier als Spiegelei braten und alles anrichten.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "ei"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain"
+    ]
+  },
+  {
+    "id": "reis-banane-honig",
+    "name": "Reis mit Banane und Honig",
+    "mealType": [
+      "vor_training",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "reis-express",
+        "amount": 200
+      },
+      {
+        "foodId": "honig",
+        "amount": 20
+      },
+      {
+        "foodId": "banane",
+        "amount": 120
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": true,
+    "steps": "Reis in der Mikrowelle erwärmen, Banane in Scheiben und Honig darüber.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [],
+    "tastes": [
+      "herzhaft",
+      "suess",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "toast-marmelade-banane",
+    "name": "Toast mit Marmelade und Banane",
+    "mealType": [
+      "vor_training",
+      "fruehstueck"
+    ],
+    "items": [
+      {
+        "foodId": "toast",
+        "amount": 84
+      },
+      {
+        "foodId": "marmelade",
+        "amount": 40
+      },
+      {
+        "foodId": "banane",
+        "amount": 120
+      },
+      {
+        "foodId": "honig",
+        "amount": 15
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": true,
+    "steps": "Toast toasten, mit Marmelade bestreichen, Banane in Scheiben darauf.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten"
+    ],
+    "tastes": [
+      "herzhaft",
+      "suess",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "porridge-banane-rosinen",
+    "name": "Porridge mit Banane und Rosinen",
+    "mealType": [
+      "vor_training",
+      "fruehstueck"
+    ],
+    "items": [
+      {
+        "foodId": "haferflocken",
+        "amount": 80
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 250
+      },
+      {
+        "foodId": "banane",
+        "amount": 120
+      },
+      {
+        "foodId": "rosinen",
+        "amount": 30
+      },
+      {
+        "foodId": "honig",
+        "amount": 15
+      }
+    ],
+    "prepMinutes": 5,
+    "volumeScore": 3,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Haferflocken in der Milch 3 Minuten aufkochen, Banane, Rosinen und Honig dazugeben.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "suess",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "reiswaffeln-marmelade-dattel",
+    "name": "Reiswaffeln mit Marmelade und Datteln",
+    "mealType": [
+      "vor_training",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "reiswaffeln",
+        "amount": 40
+      },
+      {
+        "foodId": "marmelade",
+        "amount": 40
+      },
+      {
+        "foodId": "banane",
+        "amount": 120
+      },
+      {
+        "foodId": "honig",
+        "amount": 15
+      },
+      {
+        "foodId": "datteln",
+        "amount": 40
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 3,
+    "texture": "knusprig",
+    "appetiteFriendly": true,
+    "steps": "Waffeln mit Marmelade bestreichen, Banane und Datteln dazu essen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [],
+    "tastes": [
+      "frisch",
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "pasta-tomatensauce-vortraining",
+    "name": "Pasta mit Tomatensauce",
+    "mealType": [
+      "vor_training",
+      "hauptmahlzeit"
+    ],
+    "items": [
+      {
+        "foodId": "nudeln",
+        "amount": 120
+      },
+      {
+        "foodId": "tomatensauce",
+        "amount": 150
+      },
+      {
+        "foodId": "parmesan",
+        "amount": 10
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 5
+      }
+    ],
+    "prepMinutes": 12,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Nudeln kochen, Sauce erhitzen, Parmesan und Öl darüber. 2-3 Stunden vor dem Training essen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "skyr-granola-nachtraining",
+    "name": "Skyr mit Granola und Beeren",
+    "mealType": [
+      "nach_training",
+      "fruehstueck",
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "skyr",
+        "amount": 250
+      },
+      {
+        "foodId": "granola",
+        "amount": 60
+      },
+      {
+        "foodId": "blaubeere",
+        "amount": 80
+      },
+      {
+        "foodId": "honig",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 2,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Skyr in eine Schale, Granola, Beeren und Honig darauf.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "thunfisch-reis-mais",
+    "name": "Thunfisch-Reis-Pfanne (Mikrowelle)",
+    "mealType": [
+      "nach_training",
+      "hauptmahlzeit"
+    ],
+    "items": [
+      {
+        "foodId": "reis-express",
+        "amount": 250
+      },
+      {
+        "foodId": "thunfisch-dose",
+        "amount": 130
+      },
+      {
+        "foodId": "mais-dose",
+        "amount": 50
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Reis erwärmen, Thunfisch und Mais unterrühren, Olivenöl darüber.",
+    "diet": [],
+    "contains": [
+      "fisch"
+    ],
+    "tastes": [
+      "herzhaft"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "haehnchen-reis-nachtraining",
+    "name": "Hähnchen-Reis-Teller",
+    "mealType": [
+      "nach_training",
+      "hauptmahlzeit"
+    ],
+    "items": [
+      {
+        "foodId": "haehnchenbrust-gegart",
+        "amount": 150
+      },
+      {
+        "foodId": "reis-express",
+        "amount": 250
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 4,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Reis und Hähnchen in der Mikrowelle erwärmen, mit Olivenöl beträufeln.",
+    "diet": [],
+    "contains": [],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "eiweiss-banane-hafer-shake",
+    "name": "Eiweiß-Banane-Hafer-Shake",
+    "mealType": [
+      "nach_training",
+      "shake"
+    ],
+    "items": [
+      {
+        "foodId": "eiweissdrink",
+        "amount": 330
+      },
+      {
+        "foodId": "banane",
+        "amount": 120
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 40
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "fluessig",
+    "appetiteFriendly": true,
+    "steps": "Alles in den Mixer, 30 Sekunden mixen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "frisch",
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "eier-kartoffel-pfanne",
+    "name": "Eier-Kartoffel-Pfanne",
+    "mealType": [
+      "nach_training",
+      "hauptmahlzeit"
+    ],
+    "items": [
+      {
+        "foodId": "ei",
+        "amount": 165
+      },
+      {
+        "foodId": "kartoffeln",
+        "amount": 250
+      },
+      {
+        "foodId": "butter",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 20,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Kartoffeln kochen und anbraten, Eier darüber stocken lassen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "ei"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "quark-honig-beeren-schale",
+    "name": "Magerquark mit Honig, Beeren und Haferflocken",
+    "mealType": [
+      "nach_training",
+      "snack",
+      "fruehstueck"
+    ],
+    "items": [
+      {
+        "foodId": "magerquark",
+        "amount": 250
+      },
+      {
+        "foodId": "honig",
+        "amount": 30
+      },
+      {
+        "foodId": "himbeere",
+        "amount": 100
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 40
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 2,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Quark mit Honig verrühren, Beeren und Haferflocken dazugeben.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "frisch",
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "skyr-mandelmus-snack",
+    "name": "Skyr mit Mandelmus und Honig",
+    "mealType": [
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "skyr",
+        "amount": 250
+      },
+      {
+        "foodId": "mandelmus",
+        "amount": 15
+      },
+      {
+        "foodId": "honig",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 1,
+    "volumeScore": 2,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Skyr in eine Schale, Mandelmus und Honig darüber.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "nuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "magerquark-erdbeer-snack",
+    "name": "Magerquark mit Erdbeeren",
+    "mealType": [
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "magerquark",
+        "amount": 250
+      },
+      {
+        "foodId": "erdbeere",
+        "amount": 100
+      },
+      {
+        "foodId": "honig",
+        "amount": 15
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 2,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Quark mit Honig glattrühren, Erdbeeren in Stücken unterheben.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose"
+    ],
+    "tastes": [
+      "frisch",
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "thunfisch-cracker-snack",
+    "name": "Thunfisch auf Crackern",
+    "mealType": [
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "thunfisch-dose",
+        "amount": 130
+      },
+      {
+        "foodId": "cracker",
+        "amount": 40
+      },
+      {
+        "foodId": "frischkaese",
+        "amount": 20
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 2,
+    "texture": "knusprig",
+    "appetiteFriendly": false,
+    "steps": "Cracker mit Frischkäse bestreichen, Thunfisch darauf verteilen.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "gluten",
+      "fisch"
+    ],
+    "tastes": [
+      "herzhaft"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "huettenkaese-walnuss-schale",
+    "name": "Hüttenkäse mit Walnüssen und Honig",
+    "mealType": [
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "huettenkaese",
+        "amount": 250
+      },
+      {
+        "foodId": "walnuesse",
+        "amount": 20
+      },
+      {
+        "foodId": "honig",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 2,
+    "texture": "weich",
+    "appetiteFriendly": true,
+    "steps": "Hüttenkäse in eine Schale, Walnüsse und Honig darüber.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "nuesse"
+    ],
+    "tastes": [
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "ei-schinken-brot",
+    "name": "Ei-Schinken-Brot",
+    "mealType": [
+      "snack",
+      "fruehstueck"
+    ],
+    "items": [
+      {
+        "foodId": "ei-gekocht",
+        "amount": 150
+      },
+      {
+        "foodId": "kochschinken",
+        "amount": 50
+      },
+      {
+        "foodId": "vollkornbrot",
+        "amount": 45
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Brot belegen mit Schinken und gekochten Eiern in Scheiben.",
+    "diet": [],
+    "contains": [
+      "gluten",
+      "ei"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "proteinriegel-eiweissdrink",
+    "name": "Proteinriegel mit Eiweißdrink",
+    "mealType": [
+      "snack",
+      "nach_training"
+    ],
+    "items": [
+      {
+        "foodId": "proteinriegel",
+        "amount": 55
+      },
+      {
+        "foodId": "eiweissdrink",
+        "amount": 250
+      }
+    ],
+    "prepMinutes": 0,
+    "volumeScore": 2,
+    "texture": "weich",
+    "appetiteFriendly": true,
+    "steps": "Riegel essen, Eiweißdrink dazu trinken.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "soja"
+    ],
+    "tastes": [
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "proteinpudding-granola",
+    "name": "High-Protein-Pudding mit Granola",
+    "mealType": [
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "proteinpudding",
+        "amount": 200
+      },
+      {
+        "foodId": "granola",
+        "amount": 40
+      },
+      {
+        "foodId": "mandelmus",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 2,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Pudding in ein Glas, Granola und Mandelmus obendrauf.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "nuesse"
+    ],
+    "tastes": [
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "gefluegel-kaese-wrap",
+    "name": "Geflügel-Käse-Wrap",
+    "mealType": [
+      "snack",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "gefluegel-aufschnitt",
+        "amount": 100
+      },
+      {
+        "foodId": "wrap",
+        "amount": 60
+      },
+      {
+        "foodId": "frischkaese",
+        "amount": 30
+      },
+      {
+        "foodId": "gouda",
+        "amount": 30
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Wrap mit Frischkäse bestreichen, Aufschnitt und Käse darauf, einrollen.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "gluten"
+    ],
+    "tastes": [
+      "herzhaft"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "skyr-whey-bowl",
+    "name": "Skyr-Whey-Bowl",
+    "mealType": [
+      "snack",
+      "nach_training"
+    ],
+    "items": [
+      {
+        "foodId": "skyr",
+        "amount": 200
+      },
+      {
+        "foodId": "whey",
+        "amount": 20
+      },
+      {
+        "foodId": "blaubeere",
+        "amount": 80
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 2,
+    "texture": "cremig",
+    "appetiteFriendly": true,
+    "steps": "Skyr mit Whey glattrühren, Beeren darüber.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose"
+    ],
+    "tastes": [
+      "frisch",
+      "suess"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "quark-erdnuss-brot",
+    "name": "Quark-Erdnussmus-Brot",
+    "mealType": [
+      "snack",
+      "fruehstueck"
+    ],
+    "items": [
+      {
+        "foodId": "magerquark",
+        "amount": 200
+      },
+      {
+        "foodId": "vollkornbrot",
+        "amount": 45
+      },
+      {
+        "foodId": "erdnussmus",
+        "amount": 15
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": true,
+    "steps": "Brot mit Erdnussmus bestreichen, mit Quark essen oder belegen.",
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "laktose",
+      "gluten",
+      "erdnuesse"
+    ],
+    "tastes": [
+      "frisch",
+      "herzhaft"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "lachs-ei-frischkaese-brot",
+    "name": "Lachs-Ei-Frischkäse-Brot",
+    "mealType": [
+      "snack",
+      "fruehstueck"
+    ],
+    "items": [
+      {
+        "foodId": "raeucherlachs",
+        "amount": 80
+      },
+      {
+        "foodId": "frischkaese",
+        "amount": 40
+      },
+      {
+        "foodId": "vollkornbrot",
+        "amount": 45
+      },
+      {
+        "foodId": "ei-gekocht",
+        "amount": 50
+      }
+    ],
+    "prepMinutes": 3,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Brot mit Frischkäse bestreichen, Lachs und Ei in Scheiben darauf.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "gluten",
+      "ei",
+      "fisch"
+    ],
+    "tastes": [
+      "herzhaft"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "mozzarella-schinken-teller",
+    "name": "Mozzarella-Rohschinken-Teller",
+    "mealType": [
+      "snack",
+      "abend"
+    ],
+    "items": [
+      {
+        "foodId": "mozzarella",
+        "amount": 125
+      },
+      {
+        "foodId": "rohschinken",
+        "amount": 40
+      },
+      {
+        "foodId": "tomate",
+        "amount": 100
+      }
+    ],
+    "prepMinutes": 2,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Mozzarella und Tomaten in Scheiben, Rohschinken dazu, mit Pfeffer würzen.",
+    "diet": [],
+    "contains": [
+      "laktose"
+    ],
+    "tastes": [
+      "herzhaft"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "beef-jerky-kaese-nuss",
+    "name": "Beef Jerky mit Käse und Mandeln",
+    "mealType": [
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "beef-jerky",
+        "amount": 50
+      },
+      {
+        "foodId": "mandeln",
+        "amount": 30
+      },
+      {
+        "foodId": "gouda",
+        "amount": 40
+      }
+    ],
+    "prepMinutes": 0,
+    "volumeScore": 1,
+    "texture": "fest",
+    "appetiteFriendly": true,
+    "steps": "Zusammen als Snackteller essen.",
+    "diet": [],
+    "contains": [
+      "laktose",
+      "nuesse"
+    ],
+    "tastes": [
+      "herzhaft"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "raeuchertofu-edamame-schale",
+    "name": "Räuchertofu-Edamame-Schale (vegan)",
+    "mealType": [
+      "snack"
+    ],
+    "items": [
+      {
+        "foodId": "edamame",
+        "amount": 150
+      },
+      {
+        "foodId": "raeuchertofu",
+        "amount": 100
+      },
+      {
+        "foodId": "sojasauce",
+        "amount": 10
+      }
+    ],
+    "prepMinutes": 5,
+    "volumeScore": 3,
+    "texture": "weich",
+    "appetiteFriendly": false,
+    "steps": "Edamame auftauen oder kurz erhitzen, mit Räuchertofu-Würfeln und Sojasauce mischen.",
+    "diet": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "soja"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  }
+]

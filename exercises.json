@@ -1,0 +1,3913 @@
+[
+  {
+    "id": "back-squat",
+    "name": "Langhantel-Kniebeuge",
+    "pattern": "squat",
+    "tier": "main",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "abs",
+      "lowerBack"
+    ],
+    "equipment": [
+      "barbell",
+      "rack"
+    ],
+    "needsSafeties": true,
+    "repMin": 5,
+    "repMax": 8,
+    "restSeconds": 150,
+    "loadType": "barbell",
+    "cues": [
+      "Brust hoch, Spannung im Rumpf",
+      "Knie über den Zehen, Tiefe bis Oberschenkel parallel",
+      "Fußmitte belasten, Fersen bleiben am Boden"
+    ],
+    "mistakes": [
+      "Knie fallen nach innen",
+      "Rücken rundet unten",
+      "Oberkörper kippt nach vorn"
+    ],
+    "alternatives": [
+      "goblet-squat",
+      "front-squat",
+      "barbell-hack-squat",
+      "bodyweight-squat"
+    ],
+    "description": "Die Grundübung für Beine und Gesäß, trainiert Oberschenkel und Hüftstrecker mit hoher Last."
+  },
+  {
+    "id": "front-squat",
+    "name": "Frontkniebeuge",
+    "pattern": "squat",
+    "tier": "main",
+    "primary": [
+      "quads"
+    ],
+    "secondary": [
+      "glutes",
+      "abs",
+      "upperBack"
+    ],
+    "equipment": [
+      "barbell",
+      "rack"
+    ],
+    "needsSafeties": true,
+    "repMin": 5,
+    "repMax": 8,
+    "restSeconds": 150,
+    "loadType": "barbell",
+    "cues": [
+      "Ellbogen hoch, Oberarme parallel zum Boden",
+      "Rumpf aufrecht, Brust hoch",
+      "Stange liegt auf den Schultern, nicht in den Händen"
+    ],
+    "mistakes": [
+      "Ellbogen sinken und die Stange rollt nach vorn",
+      "Oberkörper kippt nach vorn"
+    ],
+    "alternatives": [
+      "goblet-squat",
+      "back-squat",
+      "bodyweight-squat"
+    ],
+    "description": "Kniebeuge mit Stange vor dem Körper, betont die Oberschenkelvorderseite und den oberen Rücken."
+  },
+  {
+    "id": "goblet-squat",
+    "name": "Goblet-Kniebeuge",
+    "pattern": "squat",
+    "tier": "accessory",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "abs"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hantel eng vor der Brust halten",
+      "Ellbogen zwischen die Knie führen",
+      "Aufrechter Oberkörper, volle Tiefe"
+    ],
+    "mistakes": [
+      "Hantel driftet vom Körper weg",
+      "Fersen heben ab"
+    ],
+    "alternatives": [
+      "bodyweight-squat",
+      "bulgarian-split-squat",
+      "back-squat"
+    ],
+    "description": "Kniebeuge mit einer Kurzhantel vor der Brust, ideal zum Technik-Lernen und für Zuhause."
+  },
+  {
+    "id": "bodyweight-squat",
+    "name": "Kniebeuge (Körpergewicht)",
+    "pattern": "squat",
+    "tier": "accessory",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "abs"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 10,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "bodyweight",
+    "cues": [
+      "Füße etwa schulterbreit, Zehen leicht nach außen",
+      "Hüfte nach hinten und unten, Brust hoch",
+      "Knie folgen der Zehenrichtung"
+    ],
+    "mistakes": [
+      "Knie knicken nach innen",
+      "Fersen lösen sich vom Boden"
+    ],
+    "alternatives": [
+      "goblet-squat",
+      "split-squat-bodyweight"
+    ],
+    "description": "Kniebeuge ohne Zusatzgewicht für Aufwärmen, Einstieg oder reisefreundliches Training."
+  },
+  {
+    "id": "barbell-hack-squat",
+    "name": "Hack Squat mit Langhantel",
+    "pattern": "squat",
+    "tier": "accessory",
+    "primary": [
+      "quads"
+    ],
+    "secondary": [
+      "glutes",
+      "forearms"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 120,
+    "loadType": "barbell",
+    "cues": [
+      "Stange hinter den Beinen, Brust hoch",
+      "Gewicht auf der Fußmitte, Knie nach vorn schieben",
+      "Stange eng am Körper führen"
+    ],
+    "mistakes": [
+      "Rücken rundet beim Aufnehmen",
+      "Hüfte schießt zuerst nach oben"
+    ],
+    "alternatives": [
+      "goblet-squat",
+      "bodyweight-squat"
+    ],
+    "description": "Quadrizeps-betonte Kniebeugenvariante ohne Rack, die Langhantel hängt hinter den Beinen."
+  },
+  {
+    "id": "bulgarian-split-squat",
+    "name": "Bulgarian Split Squat",
+    "pattern": "lunge",
+    "tier": "accessory",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hinteren Fuß auf der Bank ablegen, vorderer Fuß weit genug vorn",
+      "Oberkörper leicht nach vorn geneigt für mehr Gesäßbeteiligung",
+      "Tief absenken, Vorderfuß bleibt voll am Boden"
+    ],
+    "mistakes": [
+      "Zu enger Stand, Knie schiebt weit nach vorn",
+      "Gewicht verlagert sich auf den hinteren Fuß"
+    ],
+    "alternatives": [
+      "split-squat-bodyweight",
+      "reverse-lunge",
+      "goblet-squat"
+    ],
+    "description": "Einbeinige Kniebeuge mit erhöhtem Hinterfuß, trainiert Beine und Gleichgewicht."
+  },
+  {
+    "id": "split-squat-bodyweight",
+    "name": "Split Squat (Körpergewicht)",
+    "pattern": "lunge",
+    "tier": "accessory",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "abs"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 60,
+    "loadType": "bodyweight",
+    "cues": [
+      "Schrittstellung halten, Hüfte gerade absenken",
+      "Vordere Ferse bleibt am Boden",
+      "Oberkörper aufrecht, Rumpf angespannt"
+    ],
+    "mistakes": [
+      "Zu kurzer Schritt, Knie schiebt weit über die Zehen",
+      "Schwung aus dem Oberkörper statt aus den Beinen"
+    ],
+    "alternatives": [
+      "bodyweight-squat",
+      "reverse-lunge"
+    ],
+    "description": "Ausfallschritt im Stand ohne Gewicht, einfache einbeinige Beinübung ohne Equipment."
+  },
+  {
+    "id": "walking-lunge",
+    "name": "Gehende Ausfallschritte",
+    "pattern": "lunge",
+    "tier": "accessory",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "dumbbell",
+    "cues": [
+      "Langer Schritt, Oberkörper aufrecht",
+      "Hinteres Knie sinkt kontrolliert Richtung Boden",
+      "Gewicht über der Fußmitte des vorderen Beins"
+    ],
+    "mistakes": [
+      "Zu kurze Schritte, Knie schiebt weit nach vorn",
+      "Oberkörper kippt zur Seite"
+    ],
+    "alternatives": [
+      "reverse-lunge",
+      "split-squat-bodyweight"
+    ],
+    "description": "Ausfallschritte mit Kurzhanteln in Gehrichtung, trainieren Beine, Gesäß und Balance."
+  },
+  {
+    "id": "reverse-lunge",
+    "name": "Ausfallschritt rückwärts",
+    "pattern": "lunge",
+    "tier": "accessory",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "dumbbell",
+    "cues": [
+      "Großer Schritt nach hinten, Rumpf aufrecht",
+      "Vorderes Bein macht die Arbeit, Fuß bleibt voll am Boden",
+      "Hinteres Knie berührt fast den Boden"
+    ],
+    "mistakes": [
+      "Gewicht rutscht auf den hinteren Fuß",
+      "Vorderes Knie fällt nach innen"
+    ],
+    "alternatives": [
+      "split-squat-bodyweight",
+      "walking-lunge"
+    ],
+    "description": "Rückwärts-Ausfallschritt, gelenkschonender als nach vorn und gut für Gesäß und Oberschenkel."
+  },
+  {
+    "id": "step-up",
+    "name": "Step-ups",
+    "pattern": "lunge",
+    "tier": "accessory",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "dumbbell",
+    "cues": [
+      "Ganzer Fuß steht auf der Bank",
+      "Mit dem vorderen Bein hochdrücken, nicht mit dem hinteren abstoßen",
+      "Oben aufrecht stehen, kontrolliert absenken"
+    ],
+    "mistakes": [
+      "Abstoßen mit dem Standbein am Boden",
+      "Bank zu hoch, Hüfte kippt"
+    ],
+    "alternatives": [
+      "reverse-lunge",
+      "split-squat-bodyweight"
+    ],
+    "description": "Einbeiniges Hochsteigen auf die Bank, baut Kraft für Beine und Gesäß auf."
+  },
+  {
+    "id": "conventional-deadlift",
+    "name": "Kreuzheben",
+    "pattern": "hinge",
+    "tier": "main",
+    "primary": [
+      "hamstrings",
+      "glutes",
+      "lowerBack"
+    ],
+    "secondary": [
+      "quads",
+      "traps",
+      "forearms",
+      "upperBack"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "needsSafeties": false,
+    "repMin": 5,
+    "repMax": 8,
+    "restSeconds": 180,
+    "loadType": "barbell",
+    "cues": [
+      "Stange über der Fußmitte, Schulterblätter nach hinten unten",
+      "Spannung aufbauen, dann Boden wegdrücken",
+      "Oben Hüfte strecken, nicht überstrecken"
+    ],
+    "mistakes": [
+      "Rücken rundet beim Anheben",
+      "Stange schwingt vom Körper weg",
+      "Hüfte steigt vor den Schultern"
+    ],
+    "alternatives": [
+      "romanian-deadlift",
+      "dumbbell-rdl",
+      "glute-bridge"
+    ],
+    "description": "Hebt die Stange vom Boden und trainiert die gesamte Rückseite."
+  },
+  {
+    "id": "romanian-deadlift",
+    "name": "Rumänisches Kreuzheben",
+    "pattern": "hinge",
+    "tier": "main",
+    "primary": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondary": [
+      "lowerBack",
+      "forearms",
+      "traps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "needsSafeties": false,
+    "repMin": 6,
+    "repMax": 10,
+    "restSeconds": 150,
+    "loadType": "barbell",
+    "cues": [
+      "Knie leicht gebeugt, Hüfte weit nach hinten schieben",
+      "Stange eng an den Beinen führen",
+      "Dehnung in den Oberschenkelrückseiten, dann Hüfte nach vorn"
+    ],
+    "mistakes": [
+      "Rücken rundet oder überstreckt",
+      "Stange hängt vor dem Körper"
+    ],
+    "alternatives": [
+      "dumbbell-rdl",
+      "single-leg-rdl",
+      "glute-bridge"
+    ],
+    "description": "Hüftbeugen mit fast gestreckten Beinen für Beinbeuger und Gesäß."
+  },
+  {
+    "id": "sumo-deadlift",
+    "name": "Sumo-Kreuzheben",
+    "pattern": "hinge",
+    "tier": "main",
+    "primary": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondary": [
+      "quads",
+      "lowerBack",
+      "forearms",
+      "traps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "needsSafeties": false,
+    "repMin": 5,
+    "repMax": 8,
+    "restSeconds": 180,
+    "loadType": "barbell",
+    "cues": [
+      "Breiter Stand, Zehen nach außen, Knie folgen den Zehen",
+      "Brust hoch, Stange eng am Körper",
+      "Mit den Beinen auseinander drücken, dann Hüfte strecken"
+    ],
+    "mistakes": [
+      "Hüfte zu tief, Stange startet zu weit vorn",
+      "Knie fallen nach innen"
+    ],
+    "alternatives": [
+      "conventional-deadlift",
+      "dumbbell-rdl",
+      "glute-bridge"
+    ],
+    "description": "Kreuzheben mit breitem Stand, etwas aufrechterer Rumpf und mehr Gesäß- und Adduktoreneinsatz."
+  },
+  {
+    "id": "rack-pull",
+    "name": "Rack Pull",
+    "pattern": "hinge",
+    "tier": "main",
+    "primary": [
+      "upperBack",
+      "traps",
+      "glutes"
+    ],
+    "secondary": [
+      "lowerBack",
+      "hamstrings",
+      "forearms"
+    ],
+    "equipment": [
+      "barbell",
+      "rack"
+    ],
+    "needsSafeties": false,
+    "repMin": 5,
+    "repMax": 8,
+    "restSeconds": 150,
+    "loadType": "barbell",
+    "cues": [
+      "Stange auf Knie- oder Schienbeinhöhe einstellen",
+      "Schulterblätter nach hinten, Rücken gerade",
+      "Oben Hüfte strecken und Schultern zurück"
+    ],
+    "mistakes": [
+      "Zu viel Rückenüberstreckung oben",
+      "Stange fällt unkontrolliert ab"
+    ],
+    "alternatives": [
+      "conventional-deadlift",
+      "barbell-shrug",
+      "dumbbell-shrug"
+    ],
+    "description": "Kreuzheben aus erhöhter Position, belastet oberen Rücken, Trapez und Gesäß stark."
+  },
+  {
+    "id": "dumbbell-rdl",
+    "name": "Kurzhantel-Rumänisches-Kreuzheben",
+    "pattern": "hinge",
+    "tier": "accessory",
+    "primary": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondary": [
+      "lowerBack",
+      "forearms"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 120,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hanteln an den Oberschenkeln entlang führen",
+      "Hüfte nach hinten schieben, Rücken gerade",
+      "Aufrichten durch Gesäßspannung"
+    ],
+    "mistakes": [
+      "Rücken rundet",
+      "Hanteln driften nach vorn"
+    ],
+    "alternatives": [
+      "glute-bridge",
+      "single-leg-rdl"
+    ],
+    "description": "RDL-Variante mit Kurzhanteln, gut für Heimtraining und Gesäß und Beinbeuger."
+  },
+  {
+    "id": "single-leg-rdl",
+    "name": "Einbeiniges Kreuzheben",
+    "pattern": "hinge",
+    "tier": "accessory",
+    "primary": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondary": [
+      "lowerBack",
+      "abs"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hüfte nach hinten, freies Bein bildet Verlängerung des Rückens",
+      "Becken bleibt parallel zum Boden",
+      "Standbein leicht gebeugt"
+    ],
+    "mistakes": [
+      "Becken dreht auf",
+      "Rücken rundet"
+    ],
+    "alternatives": [
+      "glute-bridge",
+      "dumbbell-rdl"
+    ],
+    "description": "Einbeiniges Hüftbeugen mit Kurzhantel für Beinbeuger, Gesäß und Balance."
+  },
+  {
+    "id": "good-morning",
+    "name": "Good Morning",
+    "pattern": "hinge",
+    "tier": "accessory",
+    "primary": [
+      "hamstrings",
+      "lowerBack"
+    ],
+    "secondary": [
+      "glutes"
+    ],
+    "equipment": [
+      "barbell",
+      "rack"
+    ],
+    "needsSafeties": true,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 120,
+    "loadType": "barbell",
+    "cues": [
+      "Stange stabil auf dem oberen Rücken",
+      "Hüfte nach hinten, Rücken bleibt neutral",
+      "Nur so tief, wie der Rücken gerade bleibt"
+    ],
+    "mistakes": [
+      "Zu viel Gewicht, Rücken rundet",
+      "Kniebeuge statt Hüftbeuge"
+    ],
+    "alternatives": [
+      "dumbbell-rdl",
+      "single-leg-rdl"
+    ],
+    "description": "Hüftbeugen mit Stange im Nacken, trainiert Beinbeuger und unteren Rücken."
+  },
+  {
+    "id": "hip-thrust",
+    "name": "Hip Thrust",
+    "pattern": "hinge",
+    "tier": "main",
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "quads"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 6,
+    "repMax": 10,
+    "restSeconds": 120,
+    "loadType": "barbell",
+    "cues": [
+      "Schulterblätter auf der Bankkante, Kinn zur Brust",
+      "Oben Hüfte vollständig strecken, Gesäß anspannen",
+      "Schienbeine stehen oben senkrecht"
+    ],
+    "mistakes": [
+      "Rücken überstreckt oben",
+      "Fersen zu weit weg, Zug kommt aus den Beinbeugern"
+    ],
+    "alternatives": [
+      "dumbbell-hip-thrust",
+      "glute-bridge"
+    ],
+    "description": "Hüftstreckung mit Stange auf der Hüfte, die direkteste Gesäßübung."
+  },
+  {
+    "id": "dumbbell-hip-thrust",
+    "name": "Kurzhantel-Hip-Thrust",
+    "pattern": "hinge",
+    "tier": "accessory",
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "quads"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hantel auf die Hüftbeuge legen und festhalten",
+      "Oben kurz halten und Gesäß fest anspannen",
+      "Kinn zur Brust, Rippen unten lassen"
+    ],
+    "mistakes": [
+      "Hantel rutscht, Hüfte kippt zur Seite",
+      "Rücken überstreckt oben"
+    ],
+    "alternatives": [
+      "glute-bridge",
+      "hip-thrust"
+    ],
+    "description": "Hip Thrust mit einer Kurzhantel, für alle ohne schwere Langhantel."
+  },
+  {
+    "id": "glute-bridge",
+    "name": "Glute Bridge",
+    "pattern": "hinge",
+    "tier": "isolation",
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "bodyweight",
+    "cues": [
+      "Füße hüftbreit, Fersen drücken in den Boden",
+      "Becken kippt leicht, oben Gesäß anspannen",
+      "Kurz halten, dann kontrolliert absenken"
+    ],
+    "mistakes": [
+      "Hohlkreuz oben",
+      "Zug aus dem unteren Rücken statt aus dem Gesäß"
+    ],
+    "alternatives": [
+      "single-leg-rdl",
+      "dumbbell-rdl"
+    ],
+    "description": "Hüftstreckung am Boden für Gesäß und Beinbeuger, sehr einsteigerfreundlich."
+  },
+  {
+    "id": "nordic-curl",
+    "name": "Nordic Curl",
+    "pattern": "hinge",
+    "tier": "accessory",
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "glutes",
+      "calves"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 5,
+    "repMax": 8,
+    "restSeconds": 120,
+    "loadType": "bodyweight",
+    "cues": [
+      "Füße fixieren (Sofa, Stange oder Partner), Hüfte bleibt gestreckt",
+      "Möglichst langsam nach vorn ablassen",
+      "Mit den Händen abfangen und hochdrücken"
+    ],
+    "mistakes": [
+      "Hüfte knickt ab",
+      "Fällt unkontrolliert nach vorn"
+    ],
+    "alternatives": [
+      "slider-leg-curl",
+      "dumbbell-leg-curl"
+    ],
+    "description": "Exzentrische Beinbeuger-Übung ohne Geräte, sehr intensiv."
+  },
+  {
+    "id": "slider-leg-curl",
+    "name": "Leg Curl mit Handtuch",
+    "pattern": "hinge",
+    "tier": "accessory",
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "glutes",
+      "calves"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "bodyweight",
+    "cues": [
+      "Rückenlage, Füße auf Handtuch auf glattem Boden",
+      "Becken oben halten, Fersen zum Gesäß ziehen",
+      "Langsam wieder ausstrecken"
+    ],
+    "mistakes": [
+      "Hüfte sinkt ab",
+      "Zu schnelles Ausstrecken"
+    ],
+    "alternatives": [
+      "dumbbell-leg-curl",
+      "nordic-curl"
+    ],
+    "description": "Beinbeuger-Training mit Gleithandtuch oder Slidern ohne Maschine."
+  },
+  {
+    "id": "dumbbell-leg-curl",
+    "name": "Kurzhantel-Beinbeuger",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "calves"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 75,
+    "loadType": "dumbbell",
+    "cues": [
+      "Bauchlage auf der Bank, Hantel zwischen den Füßen klemmen",
+      "Fersen kontrolliert zum Gesäß ziehen",
+      "Langsam absenken, Hüfte bleibt auf der Bank"
+    ],
+    "mistakes": [
+      "Hantel rutscht weg",
+      "Hüfte hebt ab"
+    ],
+    "alternatives": [
+      "slider-leg-curl",
+      "nordic-curl"
+    ],
+    "description": "Beinbeuger-Isolation mit einer Kurzhantel zwischen den Füßen."
+  },
+  {
+    "id": "cable-pull-through",
+    "name": "Kabel-Pull-Through",
+    "pattern": "hinge",
+    "tier": "accessory",
+    "primary": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondary": [
+      "lowerBack"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "needsSafeties": false,
+    "repMin": 10,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "cable/band",
+    "cues": [
+      "Seil durch die Beine, mit dem Rücken zum Kabel",
+      "Hüfte weit nach hinten schieben, Rücken gerade",
+      "Oben Gesäß anspannen"
+    ],
+    "mistakes": [
+      "Arme ziehen statt die Hüfte",
+      "Rücken rundet"
+    ],
+    "alternatives": [
+      "dumbbell-rdl",
+      "glute-bridge"
+    ],
+    "description": "Kabelgeführtes Hüftbeugen für Gesäß und Beinbeuger."
+  },
+  {
+    "id": "barbell-calf-raise",
+    "name": "Wadenheben mit Langhantel",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "calves"
+    ],
+    "secondary": [],
+    "equipment": [
+      "barbell",
+      "rack"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "barbell",
+    "cues": [
+      "Stange auf dem oberen Rücken, Fußballen auf einer Erhöhung",
+      "Unten voll dehnen, oben auf den Zehenspitzen halten",
+      "Langsames Tempo, kein Wippen"
+    ],
+    "mistakes": [
+      "Federn aus den Knien",
+      "Zu kleiner Bewegungsumfang"
+    ],
+    "alternatives": [
+      "dumbbell-calf-raise",
+      "single-leg-calf-raise"
+    ],
+    "description": "Wadenheben im Stehen mit schwerer Stange."
+  },
+  {
+    "id": "dumbbell-calf-raise",
+    "name": "Wadenheben mit Kurzhanteln",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "calves"
+    ],
+    "secondary": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "dumbbell",
+    "cues": [
+      "Auf einer Stufenkante stehen, Fersen hängen frei",
+      "Oben kurz halten, unten voll dehnen",
+      "Kontrolliertes Tempo"
+    ],
+    "mistakes": [
+      "Federn statt zu kontrollieren",
+      "Knie beugen sich mit"
+    ],
+    "alternatives": [
+      "single-leg-calf-raise",
+      "barbell-calf-raise"
+    ],
+    "description": "Wadenheben im Stehen mit Kurzhanteln, einbeinig besonders effektiv."
+  },
+  {
+    "id": "single-leg-calf-raise",
+    "name": "Einbeiniges Wadenheben",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "calves"
+    ],
+    "secondary": [],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "bodyweight",
+    "cues": [
+      "Auf einer Kante stehen, an der Wand abstützen",
+      "Fersen tief absenken, dann hoch auf die Zehenspitzen",
+      "Oben eine Sekunde halten"
+    ],
+    "mistakes": [
+      "Zu schnell und mit Schwung",
+      "Kein voller Bewegungsumfang"
+    ],
+    "alternatives": [
+      "dumbbell-calf-raise"
+    ],
+    "description": "Wadenheben auf einem Bein, ohne Equipment und gut steigerbar."
+  },
+  {
+    "id": "bench-press",
+    "name": "Bankdrücken (Langhantel)",
+    "pattern": "push",
+    "tier": "main",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "frontDelts"
+    ],
+    "equipment": [
+      "barbell",
+      "bench",
+      "rack"
+    ],
+    "needsSafeties": true,
+    "repMin": 5,
+    "repMax": 8,
+    "restSeconds": 150,
+    "loadType": "barbell",
+    "cues": [
+      "Schulterblätter zusammen und nach unten, Brust raus",
+      "Stange zur unteren Brust senken, Unterarme senkrecht",
+      "Füße fest am Boden, Gesäß bleibt auf der Bank"
+    ],
+    "mistakes": [
+      "Ellbogen zu weit abgespreizt (90 Grad zum Körper)",
+      "Gesäß hebt ab",
+      "Stange federt von der Brust"
+    ],
+    "alternatives": [
+      "dumbbell-bench-press",
+      "push-up",
+      "dumbbell-floor-press"
+    ],
+    "description": "Die klassische Brustübung, trainiert Brust, Trizeps und vordere Schulter mit hoher Last."
+  },
+  {
+    "id": "incline-bench-press",
+    "name": "Schrägbankdrücken (Langhantel)",
+    "pattern": "push",
+    "tier": "main",
+    "primary": [
+      "chest",
+      "frontDelts"
+    ],
+    "secondary": [
+      "triceps"
+    ],
+    "equipment": [
+      "barbell",
+      "inclineBench",
+      "rack"
+    ],
+    "needsSafeties": true,
+    "repMin": 6,
+    "repMax": 10,
+    "restSeconds": 150,
+    "loadType": "barbell",
+    "cues": [
+      "Bank auf etwa 30 bis 45 Grad, Schulterblätter fixiert",
+      "Stange zur oberen Brust führen",
+      "Ellbogen etwa 45 Grad zum Körper"
+    ],
+    "mistakes": [
+      "Bank zu steil, Schulter übernimmt alles",
+      "Stange zu weit vom Brustbein entfernt"
+    ],
+    "alternatives": [
+      "incline-dumbbell-press",
+      "decline-push-up"
+    ],
+    "description": "Betont die obere Brust und die vordere Schulter."
+  },
+  {
+    "id": "close-grip-bench-press",
+    "name": "Enges Bankdrücken",
+    "pattern": "push",
+    "tier": "accessory",
+    "primary": [
+      "triceps",
+      "chest"
+    ],
+    "secondary": [
+      "frontDelts"
+    ],
+    "equipment": [
+      "barbell",
+      "bench",
+      "rack"
+    ],
+    "needsSafeties": true,
+    "repMin": 8,
+    "repMax": 10,
+    "restSeconds": 120,
+    "loadType": "barbell",
+    "cues": [
+      "Griff etwa schulterbreit, Ellbogen nah am Körper",
+      "Stange zum unteren Brustbein senken",
+      "Handgelenke bleiben gerade"
+    ],
+    "mistakes": [
+      "Griff zu eng, Handgelenke belastet",
+      "Ellbogen weit abgespreizt"
+    ],
+    "alternatives": [
+      "diamond-push-up",
+      "tricep-dip",
+      "dumbbell-floor-press"
+    ],
+    "description": "Bankdrücken mit engem Griff für Trizeps und innere Brust."
+  },
+  {
+    "id": "dumbbell-bench-press",
+    "name": "Kurzhantel-Bankdrücken",
+    "pattern": "push",
+    "tier": "main",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "frontDelts"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 6,
+    "repMax": 10,
+    "restSeconds": 120,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hanteln über der Brust, Schulterblätter fixiert",
+      "Tief absenken, bis die Brust gedehnt ist",
+      "Hantel-Pfad leicht zueinander, nicht zusammenschlagen"
+    ],
+    "mistakes": [
+      "Ellbogen zu weit nach außen",
+      "Hanteln wandern nach vorn und der Rücken überstreckt"
+    ],
+    "alternatives": [
+      "dumbbell-floor-press",
+      "push-up"
+    ],
+    "description": "Flaches Drücken mit freierer Bewegung und größerem Bewegungsumfang als mit der Stange."
+  },
+  {
+    "id": "incline-dumbbell-press",
+    "name": "Schrägbank-Kurzhantel-Drücken",
+    "pattern": "push",
+    "tier": "accessory",
+    "primary": [
+      "chest",
+      "frontDelts"
+    ],
+    "secondary": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbells",
+      "inclineBench"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 105,
+    "loadType": "dumbbell",
+    "cues": [
+      "Bank auf 30 bis 45 Grad",
+      "Hanteln auf Höhe der oberen Brust starten",
+      "Oben nicht in die Schulter drücken, Brust bleibt offen"
+    ],
+    "mistakes": [
+      "Bank zu steil",
+      "Schultern rollen nach vorn"
+    ],
+    "alternatives": [
+      "dumbbell-floor-press",
+      "decline-push-up",
+      "push-up"
+    ],
+    "description": "Schrägbankdrücken mit Kurzhanteln für die obere Brust."
+  },
+  {
+    "id": "barbell-floor-press",
+    "name": "Langhantel-Floor-Press",
+    "pattern": "push",
+    "tier": "accessory",
+    "primary": [
+      "chest",
+      "triceps"
+    ],
+    "secondary": [
+      "frontDelts"
+    ],
+    "equipment": [
+      "barbell",
+      "rack"
+    ],
+    "needsSafeties": true,
+    "repMin": 8,
+    "repMax": 10,
+    "restSeconds": 120,
+    "loadType": "barbell",
+    "cues": [
+      "Rückenlage am Boden, Ellbogen berühren den Boden zwischen den Wiederholungen",
+      "Schulterblätter zusammen",
+      "Stange gerade nach oben drücken"
+    ],
+    "mistakes": [
+      "Ellbogen prallen vom Boden ab",
+      "Handgelenke knicken"
+    ],
+    "alternatives": [
+      "dumbbell-floor-press",
+      "push-up"
+    ],
+    "description": "Bankdrücken am Boden, schont die Schulter und betont den Trizeps."
+  },
+  {
+    "id": "dumbbell-floor-press",
+    "name": "Kurzhantel-Floor-Press",
+    "pattern": "push",
+    "tier": "accessory",
+    "primary": [
+      "chest",
+      "triceps"
+    ],
+    "secondary": [
+      "frontDelts"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "dumbbell",
+    "cues": [
+      "Rückenlage, Ellbogen etwa 45 Grad",
+      "Oberarme kurz am Boden ablegen",
+      "Hanteln kontrolliert über der Brust zusammenführen"
+    ],
+    "mistakes": [
+      "Ellbogen weit abgespreizt",
+      "Schwung aus dem Rücken"
+    ],
+    "alternatives": [
+      "push-up",
+      "diamond-push-up"
+    ],
+    "description": "Drücken am Boden mit Kurzhanteln, funktioniert ganz ohne Bank."
+  },
+  {
+    "id": "dumbbell-fly",
+    "name": "Kurzhantel-Fliegende",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "frontDelts"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 75,
+    "loadType": "dumbbell",
+    "cues": [
+      "Ellbogen leicht gebeugt und fixiert",
+      "Bogenförmig öffnen bis zur Dehnung in der Brust",
+      "Hanteln wie beim Umarmen zusammenführen"
+    ],
+    "mistakes": [
+      "Ellbogen strecken sich, es wird zum Drücken",
+      "Zu tief, Schulter überdehnt"
+    ],
+    "alternatives": [
+      "push-up",
+      "cable-fly"
+    ],
+    "description": "Isolationsübung für die Brust mit Dehnreiz."
+  },
+  {
+    "id": "incline-dumbbell-fly",
+    "name": "Schrägbank-Fliegende",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "frontDelts"
+    ],
+    "equipment": [
+      "dumbbells",
+      "inclineBench"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 75,
+    "loadType": "dumbbell",
+    "cues": [
+      "Bank leicht schräg, Brust raus",
+      "Weiter Bogen, Ellbogen leicht gebeugt",
+      "Oben die Brust zusammenziehen"
+    ],
+    "mistakes": [
+      "Hanteln zu schwer, Technik bricht",
+      "Zu steile Bank, Schulter übernimmt"
+    ],
+    "alternatives": [
+      "dumbbell-fly",
+      "push-up"
+    ],
+    "description": "Fliegende auf der Schrägbank für die obere Brust."
+  },
+  {
+    "id": "cable-fly",
+    "name": "Kabel-Fliegende",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "frontDelts"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "cable/band",
+    "cues": [
+      "Leicht nach vorn gelehnt, Brust raus",
+      "Ellbogen leicht gebeugt, Bogenbewegung",
+      "Oben kurz zusammenpressen"
+    ],
+    "mistakes": [
+      "Arme strecken und beugen sich ständig",
+      "Schultern ziehen nach vorn"
+    ],
+    "alternatives": [
+      "dumbbell-fly",
+      "push-up"
+    ],
+    "description": "Fliegende am Kabelzug mit konstanter Spannung."
+  },
+  {
+    "id": "push-up",
+    "name": "Liegestütze",
+    "pattern": "push",
+    "tier": "accessory",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "frontDelts",
+      "abs"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 75,
+    "loadType": "bodyweight",
+    "cues": [
+      "Körper bildet eine gerade Linie, Rumpf angespannt",
+      "Ellbogen etwa 45 Grad, Brust fast zum Boden",
+      "Schulterblätter bleiben stabil"
+    ],
+    "mistakes": [
+      "Hüfte hängt durch",
+      "Kopf sinkt nach vorn",
+      "Ellbogen weit abgespreizt"
+    ],
+    "alternatives": [
+      "incline-push-up",
+      "band-push-up"
+    ],
+    "description": "Grundübung ohne Equipment für Brust, Trizeps und Rumpf."
+  },
+  {
+    "id": "incline-push-up",
+    "name": "Liegestütze (erhöht)",
+    "pattern": "push",
+    "tier": "accessory",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "frontDelts",
+      "abs"
+    ],
+    "equipment": [
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 60,
+    "loadType": "bodyweight",
+    "cues": [
+      "Hände auf der Bank, Körper bleibt gerade",
+      "Brust zur Bankkante absenken",
+      "Rumpf angespannt"
+    ],
+    "mistakes": [
+      "Hüfte hängt durch",
+      "Nur Teilbewegung"
+    ],
+    "alternatives": [
+      "push-up",
+      "band-push-up"
+    ],
+    "description": "Leichtere Liegestütz-Variante für Einsteiger."
+  },
+  {
+    "id": "decline-push-up",
+    "name": "Liegestütze (Füße erhöht)",
+    "pattern": "push",
+    "tier": "accessory",
+    "primary": [
+      "chest",
+      "frontDelts"
+    ],
+    "secondary": [
+      "triceps",
+      "abs"
+    ],
+    "equipment": [
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 75,
+    "loadType": "bodyweight",
+    "cues": [
+      "Füße auf der Bank, Körper gerade",
+      "Brust zum Boden, Ellbogen etwa 45 Grad",
+      "Rumpf fest"
+    ],
+    "mistakes": [
+      "Hüfte sackt ab",
+      "Kopf hängt durch"
+    ],
+    "alternatives": [
+      "push-up",
+      "band-push-up"
+    ],
+    "description": "Schwerere Liegestütze mit erhöhten Füßen, betont obere Brust und Schulter."
+  },
+  {
+    "id": "diamond-push-up",
+    "name": "Diamant-Liegestütze",
+    "pattern": "push",
+    "tier": "accessory",
+    "primary": [
+      "triceps",
+      "chest"
+    ],
+    "secondary": [
+      "frontDelts",
+      "abs"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 75,
+    "loadType": "bodyweight",
+    "cues": [
+      "Hände bilden unter der Brust ein Dreieck",
+      "Ellbogen eng am Körper",
+      "Körper bleibt gerade"
+    ],
+    "mistakes": [
+      "Ellbogen weit abgespreizt",
+      "Handgelenke überlastet, Hüfte hängt durch"
+    ],
+    "alternatives": [
+      "push-up",
+      "close-grip-bench-press"
+    ],
+    "description": "Enge Liegestütze mit Fokus auf dem Trizeps."
+  },
+  {
+    "id": "band-push-up",
+    "name": "Liegestütze mit Band",
+    "pattern": "push",
+    "tier": "accessory",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "frontDelts"
+    ],
+    "equipment": [
+      "bands"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 75,
+    "loadType": "cable/band",
+    "cues": [
+      "Band über den oberen Rücken legen und mit den Händen fixieren",
+      "Körper gerade, Brust zum Boden",
+      "Oben vollständig strecken"
+    ],
+    "mistakes": [
+      "Band rutscht ab",
+      "Hüfte hängt durch"
+    ],
+    "alternatives": [
+      "push-up"
+    ],
+    "description": "Liegestütze mit Widerstandsband für höheren Widerstand oben in der Bewegung."
+  },
+  {
+    "id": "chest-dip",
+    "name": "Dips (Brust)",
+    "pattern": "push",
+    "tier": "accessory",
+    "primary": [
+      "chest",
+      "triceps"
+    ],
+    "secondary": [
+      "frontDelts"
+    ],
+    "equipment": [
+      "dipBars"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 105,
+    "loadType": "bodyweight",
+    "cues": [
+      "Oberkörper leicht nach vorn geneigt",
+      "Ellbogen leicht nach außen, bis Oberarme etwa parallel",
+      "Schultern bleiben unten"
+    ],
+    "mistakes": [
+      "Zu tief mit nach vorn gerollten Schultern",
+      "Beine schwingen"
+    ],
+    "alternatives": [
+      "push-up",
+      "decline-push-up"
+    ],
+    "description": "Dips mit Vorlage für Brust und Trizeps."
+  },
+  {
+    "id": "dumbbell-pullover",
+    "name": "Kurzhantel-Pullover",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "chest",
+      "lats"
+    ],
+    "secondary": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 75,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hantel mit beiden Händen über der Brust halten",
+      "Mit leicht gebeugten Armen im Bogen hinter den Kopf senken",
+      "Rippen bleiben unten"
+    ],
+    "mistakes": [
+      "Ellbogen beugen sich stark",
+      "Hohlkreuz beim Absenken"
+    ],
+    "alternatives": [
+      "straight-arm-pulldown",
+      "push-up"
+    ],
+    "description": "Dehnungsübung für Brust und Latissimus mit einer Hantel."
+  },
+  {
+    "id": "bent-over-row",
+    "name": "Langhantelrudern vorgebeugt",
+    "pattern": "pull",
+    "tier": "main",
+    "primary": [
+      "lats",
+      "upperBack"
+    ],
+    "secondary": [
+      "biceps",
+      "rearDelts",
+      "lowerBack",
+      "forearms"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "needsSafeties": false,
+    "repMin": 6,
+    "repMax": 10,
+    "restSeconds": 120,
+    "loadType": "barbell",
+    "cues": [
+      "Oberkörper etwa 45 Grad, Rücken gerade",
+      "Stange zum Bauchnabel ziehen",
+      "Schulterblätter am Ende zusammenziehen"
+    ],
+    "mistakes": [
+      "Rücken rundet",
+      "Schwung aus der Hüfte",
+      "Stange wird zu hoch zur Brust gezogen"
+    ],
+    "alternatives": [
+      "dumbbell-bent-over-row",
+      "one-arm-dumbbell-row",
+      "inverted-row"
+    ],
+    "description": "Zugübung für den gesamten Rücken mit Langhantel."
+  },
+  {
+    "id": "pendlay-row",
+    "name": "Pendlay-Rudern",
+    "pattern": "pull",
+    "tier": "main",
+    "primary": [
+      "lats",
+      "upperBack"
+    ],
+    "secondary": [
+      "biceps",
+      "rearDelts",
+      "lowerBack"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "needsSafeties": false,
+    "repMin": 5,
+    "repMax": 8,
+    "restSeconds": 120,
+    "loadType": "barbell",
+    "cues": [
+      "Oberkörper parallel zum Boden, Stange liegt zwischen den Wiederholungen am Boden",
+      "Explosiv zur unteren Brust ziehen",
+      "Rücken bleibt fest"
+    ],
+    "mistakes": [
+      "Oberkörper richtet sich beim Ziehen auf",
+      "Stange wird fallen gelassen"
+    ],
+    "alternatives": [
+      "bent-over-row",
+      "dumbbell-bent-over-row",
+      "one-arm-dumbbell-row"
+    ],
+    "description": "Explosives Rudern aus der Bodenposition für Rückenkraft."
+  },
+  {
+    "id": "one-arm-dumbbell-row",
+    "name": "Einarmiges Kurzhantelrudern",
+    "pattern": "pull",
+    "tier": "accessory",
+    "primary": [
+      "lats",
+      "upperBack"
+    ],
+    "secondary": [
+      "biceps",
+      "rearDelts"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "dumbbell",
+    "cues": [
+      "Eine Hand und ein Knie auf der Bank, Rücken parallel",
+      "Ellbogen zur Hüfte ziehen",
+      "Schulter unten, Brust bleibt zur Bank"
+    ],
+    "mistakes": [
+      "Oberkörper dreht auf",
+      "Ellbogen zieht seitlich zu hoch"
+    ],
+    "alternatives": [
+      "dumbbell-bent-over-row",
+      "inverted-row"
+    ],
+    "description": "Einseitiges Rudern für Latissimus und oberen Rücken."
+  },
+  {
+    "id": "dumbbell-bent-over-row",
+    "name": "Kurzhantelrudern vorgebeugt",
+    "pattern": "pull",
+    "tier": "accessory",
+    "primary": [
+      "lats",
+      "upperBack"
+    ],
+    "secondary": [
+      "biceps",
+      "rearDelts",
+      "lowerBack"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hüfte nach hinten, Rücken gerade, Blick zum Boden",
+      "Hanteln zu den Hüften ziehen",
+      "Schulterblätter zusammenziehen"
+    ],
+    "mistakes": [
+      "Rücken rundet",
+      "Schultern zucken zu den Ohren"
+    ],
+    "alternatives": [
+      "one-arm-dumbbell-row",
+      "band-row",
+      "band-pulldown"
+    ],
+    "description": "Beidseitiges Rudern mit Kurzhanteln, kommt ohne Bank aus."
+  },
+  {
+    "id": "chest-supported-dumbbell-row",
+    "name": "Brustgestütztes Kurzhantelrudern",
+    "pattern": "pull",
+    "tier": "accessory",
+    "primary": [
+      "upperBack",
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "rearDelts"
+    ],
+    "equipment": [
+      "dumbbells",
+      "inclineBench"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "dumbbell",
+    "cues": [
+      "Brust liegt an der schrägen Bank",
+      "Ellbogen schräg zur Seite ziehen",
+      "Oben Schulterblätter zusammenpressen"
+    ],
+    "mistakes": [
+      "Kopf hebt zu weit ab",
+      "Schwung aus dem Körper"
+    ],
+    "alternatives": [
+      "dumbbell-bent-over-row",
+      "one-arm-dumbbell-row"
+    ],
+    "description": "Rudern mit Brust auf der Bank, entlastet den unteren Rücken."
+  },
+  {
+    "id": "pull-up",
+    "name": "Klimmzüge",
+    "pattern": "pull",
+    "tier": "main",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "upperBack",
+      "forearms",
+      "abs"
+    ],
+    "equipment": [
+      "pullUpBar"
+    ],
+    "needsSafeties": false,
+    "repMin": 5,
+    "repMax": 10,
+    "restSeconds": 150,
+    "loadType": "bodyweight",
+    "cues": [
+      "Schulterblätter zuerst nach unten ziehen",
+      "Kinn über die Stange, Ellbogen zu den Hüften",
+      "Kontrolliert ablassen bis fast gestreckt"
+    ],
+    "mistakes": [
+      "Schwung aus den Beinen",
+      "Halbe Wiederholungen ohne volle Streckung",
+      "Schultern zucken nach oben"
+    ],
+    "alternatives": [
+      "band-assisted-pull-up",
+      "band-pulldown",
+      "band-row",
+      "inverted-row",
+      "dumbbell-bent-over-row"
+    ],
+    "description": "Der Klassiker für einen breiten Rücken."
+  },
+  {
+    "id": "chin-up",
+    "name": "Klimmzüge im Untergriff",
+    "pattern": "pull",
+    "tier": "main",
+    "primary": [
+      "lats",
+      "biceps"
+    ],
+    "secondary": [
+      "upperBack",
+      "forearms",
+      "abs"
+    ],
+    "equipment": [
+      "pullUpBar"
+    ],
+    "needsSafeties": false,
+    "repMin": 5,
+    "repMax": 10,
+    "restSeconds": 150,
+    "loadType": "bodyweight",
+    "cues": [
+      "Schulterbreiter Untergriff",
+      "Brust zur Stange ziehen",
+      "Oben kurz halten, unten voll strecken"
+    ],
+    "mistakes": [
+      "Zu viel Schwung",
+      "Kinn nach vorn gestreckt"
+    ],
+    "alternatives": [
+      "band-assisted-pull-up",
+      "inverted-row",
+      "band-row",
+      "band-pulldown"
+    ],
+    "description": "Klimmzug im Untergriff, stärkerer Bizepseinsatz."
+  },
+  {
+    "id": "band-assisted-pull-up",
+    "name": "Klimmzüge mit Band-Unterstützung",
+    "pattern": "pull",
+    "tier": "accessory",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "upperBack"
+    ],
+    "equipment": [
+      "pullUpBar",
+      "bands"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 105,
+    "loadType": "cable/band",
+    "cues": [
+      "Band um Stange und Fuß oder Knie legen",
+      "Schulterblätter zuerst nach unten",
+      "Nicht ins Band fallen lassen"
+    ],
+    "mistakes": [
+      "Band übernimmt die gesamte Arbeit",
+      "Schwung aus der Hüfte"
+    ],
+    "alternatives": [
+      "inverted-row",
+      "band-row",
+      "band-pulldown"
+    ],
+    "description": "Unterstützte Klimmzüge, ideal um die Kraft für freie Klimmzüge aufzubauen."
+  },
+  {
+    "id": "lat-pulldown",
+    "name": "Latzug",
+    "pattern": "pull",
+    "tier": "accessory",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "upperBack",
+      "rearDelts"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "cable/band",
+    "cues": [
+      "Brust raus, Stange zur oberen Brust ziehen",
+      "Ellbogen nach unten und zu den Hüften",
+      "Nicht mit dem Oberkörper schwingen"
+    ],
+    "mistakes": [
+      "Stange hinter den Nacken ziehen",
+      "Zu weit nach hinten lehnen"
+    ],
+    "alternatives": [
+      "band-pulldown",
+      "band-assisted-pull-up",
+      "pull-up"
+    ],
+    "description": "Zugübung am Kabel für den Latissimus."
+  },
+  {
+    "id": "band-pulldown",
+    "name": "Latzug mit Band",
+    "pattern": "pull",
+    "tier": "accessory",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "upperBack"
+    ],
+    "equipment": [
+      "bands",
+      "pullUpBar"
+    ],
+    "needsSafeties": false,
+    "repMin": 10,
+    "repMax": 12,
+    "restSeconds": 75,
+    "loadType": "cable/band",
+    "cues": [
+      "Band oben an der Klimmzugstange befestigen",
+      "Ellbogen zu den Hüften führen",
+      "Oberkörper bleibt stabil"
+    ],
+    "mistakes": [
+      "Band wird nur mit den Armen gezogen",
+      "Schultern rollen nach vorn"
+    ],
+    "alternatives": [
+      "band-row",
+      "inverted-row"
+    ],
+    "description": "Latzug-Alternative mit Widerstandsband."
+  },
+  {
+    "id": "seated-cable-row",
+    "name": "Rudern am Kabelzug",
+    "pattern": "pull",
+    "tier": "accessory",
+    "primary": [
+      "lats",
+      "upperBack"
+    ],
+    "secondary": [
+      "biceps",
+      "rearDelts"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "cable/band",
+    "cues": [
+      "Aufrechter Oberkörper, Brust raus",
+      "Griff zum Bauch ziehen, Schulterblätter zusammen",
+      "Rückwärts nicht überlehnen"
+    ],
+    "mistakes": [
+      "Oberkörper schaukelt",
+      "Schultern zucken hoch"
+    ],
+    "alternatives": [
+      "dumbbell-bent-over-row",
+      "inverted-row"
+    ],
+    "description": "Horizontales Rudern am Kabel mit konstanter Spannung."
+  },
+  {
+    "id": "inverted-row",
+    "name": "Umgekehrtes Rudern an der Stange",
+    "pattern": "pull",
+    "tier": "accessory",
+    "primary": [
+      "lats",
+      "upperBack"
+    ],
+    "secondary": [
+      "biceps",
+      "rearDelts",
+      "abs"
+    ],
+    "equipment": [
+      "barbell",
+      "rack"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "bodyweight",
+    "cues": [
+      "Stange im Rack auf Hüfthöhe, Körper bildet eine gerade Linie",
+      "Brust zur Stange ziehen",
+      "Schulterblätter am Ende zusammen"
+    ],
+    "mistakes": [
+      "Hüfte hängt durch",
+      "Nur die Arme ziehen"
+    ],
+    "alternatives": [
+      "dumbbell-bent-over-row",
+      "band-pulldown"
+    ],
+    "description": "Körpergewichts-Rudern an der Langhantel im Rack, entspricht einem Pull-up für Einsteiger."
+  },
+  {
+    "id": "band-row",
+    "name": "Rudern mit Band",
+    "pattern": "pull",
+    "tier": "accessory",
+    "primary": [
+      "lats",
+      "upperBack"
+    ],
+    "secondary": [
+      "biceps",
+      "rearDelts"
+    ],
+    "equipment": [
+      "bands"
+    ],
+    "needsSafeties": false,
+    "repMin": 10,
+    "repMax": 12,
+    "restSeconds": 75,
+    "loadType": "cable/band",
+    "cues": [
+      "Band an stabilem Punkt auf Brusthöhe befestigen oder um die Füße legen",
+      "Ellbogen zu den Rippen ziehen, Schulterblätter zusammen",
+      "Langsam zurückgehen, Rumpf bleibt ruhig"
+    ],
+    "mistakes": [
+      "Schultern ziehen zu den Ohren",
+      "Oberkörper lehnt weit zurück"
+    ],
+    "alternatives": [
+      "dumbbell-bent-over-row",
+      "inverted-row"
+    ],
+    "description": "Horizontales Rudern mit Widerstandsband, überall und ohne Gewichte machbar."
+  },
+  {
+    "id": "barbell-shrug",
+    "name": "Langhantel-Shrugs",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "traps"
+    ],
+    "secondary": [
+      "forearms",
+      "upperBack"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "barbell",
+    "cues": [
+      "Schultern senkrecht nach oben ziehen",
+      "Oben kurz halten",
+      "Arme bleiben gestreckt"
+    ],
+    "mistakes": [
+      "Schultern kreisen",
+      "Kopf wird nach vorn gestreckt"
+    ],
+    "alternatives": [
+      "dumbbell-shrug"
+    ],
+    "description": "Trainiert den oberen Trapezmuskel."
+  },
+  {
+    "id": "dumbbell-shrug",
+    "name": "Kurzhantel-Shrugs",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "traps"
+    ],
+    "secondary": [
+      "forearms",
+      "upperBack"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hanteln seitlich am Körper",
+      "Schultern gerade nach oben zu den Ohren",
+      "Oben kurz halten"
+    ],
+    "mistakes": [
+      "Schultern kreisen",
+      "Arme beugen sich"
+    ],
+    "alternatives": [
+      "barbell-shrug"
+    ],
+    "description": "Trapezmuskel-Training mit Kurzhanteln."
+  },
+  {
+    "id": "straight-arm-pulldown",
+    "name": "Gestreckter Armzug",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "triceps",
+      "abs"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "cable/band",
+    "cues": [
+      "Arme fast gestreckt, Oberkörper leicht nach vorn",
+      "Stange mit den Latissimus zu den Oberschenkeln ziehen",
+      "Rippen bleiben unten"
+    ],
+    "mistakes": [
+      "Arme beugen und strecken",
+      "Hohlkreuz"
+    ],
+    "alternatives": [
+      "dumbbell-pullover",
+      "band-pulldown"
+    ],
+    "description": "Isolationsübung für den Latissimus am Kabel."
+  },
+  {
+    "id": "superman",
+    "name": "Superman",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "lowerBack"
+    ],
+    "secondary": [
+      "glutes",
+      "upperBack"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "bodyweight",
+    "cues": [
+      "Bauchlage, Arme und Beine gleichzeitig heben",
+      "Oben kurz halten, Nacken neutral",
+      "Langsam wieder absenken"
+    ],
+    "mistakes": [
+      "Kopf wird in den Nacken gelegt",
+      "Mit Schwung aus dem Hohlkreuz"
+    ],
+    "alternatives": [
+      "good-morning",
+      "conventional-deadlift"
+    ],
+    "description": "Rückenstrecker-Training am Boden ohne Equipment."
+  },
+  {
+    "id": "overhead-press",
+    "name": "Überkopfdrücken (stehend)",
+    "pattern": "push",
+    "tier": "main",
+    "primary": [
+      "frontDelts",
+      "sideDelts"
+    ],
+    "secondary": [
+      "triceps",
+      "chest",
+      "abs"
+    ],
+    "equipment": [
+      "barbell",
+      "rack"
+    ],
+    "needsSafeties": false,
+    "repMin": 5,
+    "repMax": 8,
+    "restSeconds": 150,
+    "loadType": "barbell",
+    "cues": [
+      "Gesäß und Bauch anspannen, Rippen unten",
+      "Stange gerade nach oben, Kopf kurz zurück",
+      "Oben Kopf unter die Stange schieben"
+    ],
+    "mistakes": [
+      "Hohlkreuz beim Drücken",
+      "Stange wandert vom Körper weg"
+    ],
+    "alternatives": [
+      "dumbbell-shoulder-press",
+      "pike-push-up"
+    ],
+    "description": "Die Grundübung für kräftige Schultern."
+  },
+  {
+    "id": "dumbbell-shoulder-press",
+    "name": "Kurzhantel-Schulterdrücken (stehend)",
+    "pattern": "push",
+    "tier": "main",
+    "primary": [
+      "frontDelts",
+      "sideDelts"
+    ],
+    "secondary": [
+      "triceps",
+      "chest",
+      "abs"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 6,
+    "repMax": 10,
+    "restSeconds": 120,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hanteln auf Schulterhöhe, Ellbogen leicht vor dem Körper",
+      "Gerade nach oben drücken, oben nicht zusammenschlagen",
+      "Rumpf fest, Gesäß angespannt"
+    ],
+    "mistakes": [
+      "Hohlkreuz",
+      "Ellbogen zu weit nach außen"
+    ],
+    "alternatives": [
+      "pike-push-up",
+      "lateral-raise"
+    ],
+    "description": "Schulterdrücken im Stehen mit freiem Bewegungspfad."
+  },
+  {
+    "id": "seated-dumbbell-shoulder-press",
+    "name": "Kurzhantel-Schulterdrücken (sitzend)",
+    "pattern": "push",
+    "tier": "main",
+    "primary": [
+      "frontDelts",
+      "sideDelts"
+    ],
+    "secondary": [
+      "triceps",
+      "chest"
+    ],
+    "equipment": [
+      "dumbbells",
+      "inclineBench"
+    ],
+    "needsSafeties": false,
+    "repMin": 6,
+    "repMax": 10,
+    "restSeconds": 120,
+    "loadType": "dumbbell",
+    "cues": [
+      "Bank steil stellen, Rücken fest anlegen",
+      "Hanteln neben den Ohren starten",
+      "Gerade nach oben drücken"
+    ],
+    "mistakes": [
+      "Hohlkreuz, Gesäß hebt ab",
+      "Hanteln wandern nach hinten"
+    ],
+    "alternatives": [
+      "dumbbell-shoulder-press",
+      "pike-push-up"
+    ],
+    "description": "Stabiles Schulterdrücken mit Rückenlehne."
+  },
+  {
+    "id": "arnold-press",
+    "name": "Arnold Press",
+    "pattern": "push",
+    "tier": "accessory",
+    "primary": [
+      "frontDelts",
+      "sideDelts"
+    ],
+    "secondary": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "dumbbell",
+    "cues": [
+      "Start mit Handflächen zu dir, Hanteln vor der Brust",
+      "Beim Drücken die Handflächen nach vorn drehen",
+      "Kontrolliert zurück"
+    ],
+    "mistakes": [
+      "Zu schnell, Schwung aus dem Rücken",
+      "Schultern zucken"
+    ],
+    "alternatives": [
+      "dumbbell-shoulder-press",
+      "pike-push-up"
+    ],
+    "description": "Schulterdrücken mit Drehung, trainiert vordere und seitliche Schulter."
+  },
+  {
+    "id": "pike-push-up",
+    "name": "Pike-Liegestütze",
+    "pattern": "push",
+    "tier": "accessory",
+    "primary": [
+      "frontDelts",
+      "sideDelts"
+    ],
+    "secondary": [
+      "triceps",
+      "chest"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 75,
+    "loadType": "bodyweight",
+    "cues": [
+      "Hüfte hoch, Körper bildet ein umgekehrtes V",
+      "Kopf zwischen die Arme absenken",
+      "Ellbogen nach vorn, nicht zur Seite"
+    ],
+    "mistakes": [
+      "Hüfte sinkt ab",
+      "Kopf geht nach vorn statt nach unten"
+    ],
+    "alternatives": [
+      "dumbbell-shoulder-press",
+      "arnold-press"
+    ],
+    "description": "Liegestütz-Variante für die Schultern ohne Equipment."
+  },
+  {
+    "id": "lateral-raise",
+    "name": "Seitheben",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "sideDelts"
+    ],
+    "secondary": [
+      "traps"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "dumbbell",
+    "cues": [
+      "Ellbogen leicht gebeugt, Hanteln seitlich bis Schulterhöhe",
+      "Kleiner Finger leicht oben, Daumen nach unten gekippt",
+      "Langsam absenken"
+    ],
+    "mistakes": [
+      "Schwung aus dem Rücken",
+      "Hanteln über Schulterhöhe, Schultern zucken"
+    ],
+    "alternatives": [
+      "band-lateral-raise",
+      "cable-lateral-raise"
+    ],
+    "description": "Isolationsübung für den seitlichen Deltamuskel."
+  },
+  {
+    "id": "cable-lateral-raise",
+    "name": "Kabel-Seitheben",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "sideDelts"
+    ],
+    "secondary": [],
+    "equipment": [
+      "cable"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "cable/band",
+    "cues": [
+      "Seitlich zum Kabel stehen, Arm gestreckt",
+      "Bis auf Schulterhöhe führen",
+      "Konstante Spannung halten"
+    ],
+    "mistakes": [
+      "Oberkörper kippt weg",
+      "Zu schwer"
+    ],
+    "alternatives": [
+      "lateral-raise",
+      "band-lateral-raise"
+    ],
+    "description": "Seitheben am Kabel, mit durchgehender Spannung."
+  },
+  {
+    "id": "band-lateral-raise",
+    "name": "Seitheben mit Band",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "sideDelts"
+    ],
+    "secondary": [],
+    "equipment": [
+      "bands"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "cable/band",
+    "cues": [
+      "Auf das Band stellen, Arm seitlich anheben",
+      "Bis auf Schulterhöhe, Ellbogen leicht gebeugt",
+      "Langsam absenken"
+    ],
+    "mistakes": [
+      "Schwung, Band reißt aus",
+      "Schultern heben sich"
+    ],
+    "alternatives": [
+      "lateral-raise"
+    ],
+    "description": "Seitheben mit Widerstandsband für unterwegs."
+  },
+  {
+    "id": "front-raise",
+    "name": "Frontheben",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "frontDelts"
+    ],
+    "secondary": [
+      "chest"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hanteln abwechselnd bis auf Schulterhöhe heben",
+      "Arme leicht gebeugt, Oberkörper still",
+      "Kontrolliert absenken"
+    ],
+    "mistakes": [
+      "Schwung aus dem Rücken",
+      "Über Schulterhöhe heben"
+    ],
+    "alternatives": [
+      "pike-push-up"
+    ],
+    "description": "Isolation der vorderen Schulter, ergänzt Drückübungen."
+  },
+  {
+    "id": "reverse-fly",
+    "name": "Reverse Fly (vorgebeugt)",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "rearDelts",
+      "upperBack"
+    ],
+    "secondary": [
+      "traps"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hüfte nach hinten, Rücken gerade, Kopf in Verlängerung",
+      "Ellbogen leicht gebeugt, Hanteln seitlich nach oben",
+      "Schulterblätter zusammen"
+    ],
+    "mistakes": [
+      "Schwung aus dem Oberkörper",
+      "Hanteln zu schwer, Schultern ziehen hoch"
+    ],
+    "alternatives": [
+      "band-pull-apart",
+      "band-face-pull"
+    ],
+    "description": "Hintere Schulter und oberer Rücken, wichtig für gesunde Schultern."
+  },
+  {
+    "id": "incline-reverse-fly",
+    "name": "Reverse Fly auf Schrägbank",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "rearDelts",
+      "upperBack"
+    ],
+    "secondary": [
+      "traps"
+    ],
+    "equipment": [
+      "dumbbells",
+      "inclineBench"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "dumbbell",
+    "cues": [
+      "Brust liegt an der Bank, Arme hängen nach unten",
+      "Ellbogen leicht gebeugt, nach außen heben",
+      "Oben zusammenziehen"
+    ],
+    "mistakes": [
+      "Hantel zu schwer, Rundrücken",
+      "Arme werden gebeugt und gezogen"
+    ],
+    "alternatives": [
+      "reverse-fly",
+      "band-pull-apart"
+    ],
+    "description": "Reverse Fly mit Brustauflage, verhindert Schwung."
+  },
+  {
+    "id": "face-pull",
+    "name": "Face Pull",
+    "pattern": "pull",
+    "tier": "isolation",
+    "primary": [
+      "rearDelts",
+      "upperBack"
+    ],
+    "secondary": [
+      "traps",
+      "biceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "cable/band",
+    "cues": [
+      "Seil auf Gesichtshöhe zu den Augen ziehen",
+      "Ellbogen hoch, Hände auseinander",
+      "Schulterblätter zusammen"
+    ],
+    "mistakes": [
+      "Zu viel Gewicht, Oberkörper lehnt zurück",
+      "Ellbogen hängen unter den Händen"
+    ],
+    "alternatives": [
+      "band-face-pull",
+      "band-pull-apart",
+      "reverse-fly"
+    ],
+    "description": "Stärkt hintere Schulter und Schulterblattmuskulatur."
+  },
+  {
+    "id": "band-face-pull",
+    "name": "Face Pull mit Band",
+    "pattern": "pull",
+    "tier": "isolation",
+    "primary": [
+      "rearDelts",
+      "upperBack"
+    ],
+    "secondary": [
+      "traps",
+      "biceps"
+    ],
+    "equipment": [
+      "bands"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "cable/band",
+    "cues": [
+      "Band auf Gesichtshöhe fixieren",
+      "Hände zu den Ohren ziehen, Ellbogen hoch",
+      "Kurz halten"
+    ],
+    "mistakes": [
+      "Zug nur mit den Armen",
+      "Oberkörper lehnt zurück"
+    ],
+    "alternatives": [
+      "band-pull-apart"
+    ],
+    "description": "Face Pull mit Widerstandsband, überall machbar."
+  },
+  {
+    "id": "band-pull-apart",
+    "name": "Band Pull-Apart",
+    "pattern": "pull",
+    "tier": "isolation",
+    "primary": [
+      "rearDelts",
+      "upperBack"
+    ],
+    "secondary": [
+      "traps"
+    ],
+    "equipment": [
+      "bands"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "cable/band",
+    "cues": [
+      "Band auf Brusthöhe mit gestreckten Armen halten",
+      "Auseinanderziehen bis die Arme seitlich sind",
+      "Schulterblätter zusammen"
+    ],
+    "mistakes": [
+      "Schultern ziehen hoch",
+      "Band wird mit gebeugten Armen gezogen"
+    ],
+    "alternatives": [
+      "reverse-fly",
+      "band-face-pull"
+    ],
+    "description": "Einfache Übung für die hintere Schulter."
+  },
+  {
+    "id": "barbell-curl",
+    "name": "Langhantel-Curl",
+    "pattern": "isolation",
+    "tier": "accessory",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 75,
+    "loadType": "barbell",
+    "cues": [
+      "Ellbogen fest an den Rippen",
+      "Stange hochführen, oben kurz anspannen",
+      "Kontrolliert absenken, kein Schwung"
+    ],
+    "mistakes": [
+      "Schwung aus Hüfte und Rücken",
+      "Ellbogen wandern nach vorn"
+    ],
+    "alternatives": [
+      "dumbbell-curl",
+      "hammer-curl"
+    ],
+    "description": "Die Grundübung für den Bizeps."
+  },
+  {
+    "id": "ez-bar-curl",
+    "name": "SZ-Stangen-Curl",
+    "pattern": "isolation",
+    "tier": "accessory",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 75,
+    "loadType": "barbell",
+    "cues": [
+      "Griff an den Biegungen, Handgelenke entspannt",
+      "Ellbogen am Körper",
+      "Oben kurz anspannen"
+    ],
+    "mistakes": [
+      "Schwung aus dem Rücken",
+      "Handgelenke knicken ab"
+    ],
+    "alternatives": [
+      "barbell-curl",
+      "dumbbell-curl"
+    ],
+    "description": "Curl mit SZ-Stange, schonender für die Handgelenke. Ohne SZ-Stange mit gerader Langhantel."
+  },
+  {
+    "id": "dumbbell-curl",
+    "name": "Kurzhantel-Curl",
+    "pattern": "isolation",
+    "tier": "accessory",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 75,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hände im Untergriff, Handgelenke gerade",
+      "Ellbogen bleiben fix",
+      "Oben die Hand leicht nach außen drehen"
+    ],
+    "mistakes": [
+      "Schwung aus dem Rücken",
+      "Ellbogen schwingen nach vorn"
+    ],
+    "alternatives": [
+      "hammer-curl",
+      "band-curl",
+      "concentration-curl"
+    ],
+    "description": "Bizeps-Curl mit Kurzhanteln, ein- oder beidseitig."
+  },
+  {
+    "id": "hammer-curl",
+    "name": "Hammer-Curl",
+    "pattern": "isolation",
+    "tier": "accessory",
+    "primary": [
+      "biceps",
+      "forearms"
+    ],
+    "secondary": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 75,
+    "loadType": "dumbbell",
+    "cues": [
+      "Neutraler Griff, Daumen zeigen nach oben",
+      "Ellbogen am Körper",
+      "Langsam absenken"
+    ],
+    "mistakes": [
+      "Schwung",
+      "Handgelenk knickt ab"
+    ],
+    "alternatives": [
+      "dumbbell-curl",
+      "band-curl",
+      "concentration-curl"
+    ],
+    "description": "Curl im neutralen Griff für Brachialis und Unterarme."
+  },
+  {
+    "id": "incline-dumbbell-curl",
+    "name": "Schrägbank-Curl",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "equipment": [
+      "dumbbells",
+      "inclineBench"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "dumbbell",
+    "cues": [
+      "Bank auf etwa 45 bis 60 Grad, Arme hängen nach hinten",
+      "Ellbogen bleiben unter den Schultern",
+      "Voller Bewegungsumfang"
+    ],
+    "mistakes": [
+      "Ellbogen wandern nach vorn",
+      "Zu viel Schwung"
+    ],
+    "alternatives": [
+      "dumbbell-curl",
+      "concentration-curl"
+    ],
+    "description": "Curl mit langer Dehnung des Bizeps."
+  },
+  {
+    "id": "concentration-curl",
+    "name": "Konzentrations-Curl",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "dumbbell",
+    "cues": [
+      "Ellbogen an der Innenseite des Oberschenkels abstützen",
+      "Langsam hochführen, oben anspannen",
+      "Voll ausstrecken"
+    ],
+    "mistakes": [
+      "Schwung aus der Schulter",
+      "Oberkörper wippt"
+    ],
+    "alternatives": [
+      "dumbbell-curl",
+      "band-curl",
+      "hammer-curl"
+    ],
+    "description": "Isolierter Curl im Sitzen für maximale Konzentration."
+  },
+  {
+    "id": "cable-curl",
+    "name": "Kabel-Curl",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "cable/band",
+    "cues": [
+      "Ellbogen am Körper",
+      "Gleichmäßig hochziehen, oben anspannen",
+      "Langsam ablassen"
+    ],
+    "mistakes": [
+      "Oberkörper schwingt",
+      "Ellbogen nach vorn"
+    ],
+    "alternatives": [
+      "dumbbell-curl",
+      "band-curl"
+    ],
+    "description": "Curl am Kabelzug, mit konstanter Spannung."
+  },
+  {
+    "id": "band-curl",
+    "name": "Curl mit Band",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "equipment": [
+      "bands"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "cable/band",
+    "cues": [
+      "Auf das Band stellen, Ellbogen am Körper",
+      "Oben kurz anspannen",
+      "Langsam absenken"
+    ],
+    "mistakes": [
+      "Band reißt Ellbogen nach hinten",
+      "Schwung"
+    ],
+    "alternatives": [
+      "dumbbell-curl"
+    ],
+    "description": "Bizeps-Curl mit Widerstandsband."
+  },
+  {
+    "id": "skullcrusher",
+    "name": "Skullcrusher (Langhantel)",
+    "pattern": "isolation",
+    "tier": "accessory",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [
+      "chest"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "barbell",
+    "cues": [
+      "Ellbogen zeigen zur Decke und bleiben fix",
+      "Stange zur Stirn oder hinter den Kopf senken",
+      "Oben vollständig strecken"
+    ],
+    "mistakes": [
+      "Ellbogen weichen nach außen",
+      "Stange sinkt zu schnell"
+    ],
+    "alternatives": [
+      "dumbbell-skullcrusher",
+      "overhead-triceps-extension",
+      "triceps-kickback"
+    ],
+    "description": "Trizepsstrecken liegend, klassische Masseübung."
+  },
+  {
+    "id": "dumbbell-skullcrusher",
+    "name": "Kurzhantel-Skullcrusher",
+    "pattern": "isolation",
+    "tier": "accessory",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hanteln über der Brust, Ellbogen fix",
+      "Hanteln neben den Kopf absenken",
+      "Oben strecken"
+    ],
+    "mistakes": [
+      "Ellbogen wandern",
+      "Zu tief, Schulter kippt"
+    ],
+    "alternatives": [
+      "overhead-triceps-extension",
+      "triceps-kickback"
+    ],
+    "description": "Skullcrusher mit Kurzhanteln, schont die Handgelenke."
+  },
+  {
+    "id": "overhead-triceps-extension",
+    "name": "Trizepsstrecken über Kopf",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hantel mit beiden Händen über dem Kopf",
+      "Ellbogen nah am Kopf, hinter den Kopf absenken",
+      "Voll strecken"
+    ],
+    "mistakes": [
+      "Ellbogen weichen zur Seite",
+      "Hohlkreuz"
+    ],
+    "alternatives": [
+      "triceps-kickback",
+      "band-pushdown"
+    ],
+    "description": "Trizeps mit Dehnung über Kopf, trainiert den langen Trizepskopf."
+  },
+  {
+    "id": "triceps-kickback",
+    "name": "Trizeps-Kickback",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "dumbbell",
+    "cues": [
+      "Oberarm parallel zum Rücken, Ellbogen fix",
+      "Unterarm nach hinten durchstrecken",
+      "Oben kurz anspannen"
+    ],
+    "mistakes": [
+      "Oberarm sinkt ab",
+      "Schwung aus der Schulter"
+    ],
+    "alternatives": [
+      "band-pushdown",
+      "overhead-triceps-extension"
+    ],
+    "description": "Isolationsübung für den Trizeps."
+  },
+  {
+    "id": "cable-pushdown",
+    "name": "Trizepsdrücken am Kabel",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [],
+    "equipment": [
+      "cable"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "cable/band",
+    "cues": [
+      "Ellbogen fest an den Rippen",
+      "Nach unten voll strecken",
+      "Kontrolliert zurück"
+    ],
+    "mistakes": [
+      "Oberkörper drückt mit",
+      "Ellbogen heben ab"
+    ],
+    "alternatives": [
+      "band-pushdown",
+      "triceps-kickback"
+    ],
+    "description": "Trizepsdrücken am Kabelzug."
+  },
+  {
+    "id": "band-pushdown",
+    "name": "Trizepsdrücken mit Band",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [],
+    "equipment": [
+      "bands"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "cable/band",
+    "cues": [
+      "Band oben an einer Stange befestigen",
+      "Ellbogen am Körper, nach unten strecken",
+      "Langsam zurückgehen"
+    ],
+    "mistakes": [
+      "Ellbogen wandern nach vorn",
+      "Schwung"
+    ],
+    "alternatives": [
+      "triceps-kickback"
+    ],
+    "description": "Trizepsdrücken mit Widerstandsband."
+  },
+  {
+    "id": "bench-dip",
+    "name": "Dips an der Bank",
+    "pattern": "push",
+    "tier": "isolation",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [
+      "chest",
+      "frontDelts"
+    ],
+    "equipment": [
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "bodyweight",
+    "cues": [
+      "Hände an der Bankkante, Gesäß dicht an der Bank",
+      "Ellbogen zeigen nach hinten, bis etwa 90 Grad",
+      "Schultern bleiben unten"
+    ],
+    "mistakes": [
+      "Schultern rollen nach vorn",
+      "Zu tief, Schultergelenk belastet"
+    ],
+    "alternatives": [
+      "diamond-push-up",
+      "triceps-kickback"
+    ],
+    "description": "Trizepsübung am Bankrand ohne Equipment."
+  },
+  {
+    "id": "tricep-dip",
+    "name": "Dips (Trizeps)",
+    "pattern": "push",
+    "tier": "accessory",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [
+      "chest",
+      "frontDelts"
+    ],
+    "equipment": [
+      "dipBars"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "bodyweight",
+    "cues": [
+      "Oberkörper aufrecht, Ellbogen eng am Körper",
+      "Bis etwa 90 Grad beugen",
+      "Oben voll strecken"
+    ],
+    "mistakes": [
+      "Schultern ziehen hoch",
+      "Zu tief, Schulter belastet"
+    ],
+    "alternatives": [
+      "bench-dip",
+      "diamond-push-up"
+    ],
+    "description": "Dips mit aufrechtem Oberkörper für den Trizeps."
+  },
+  {
+    "id": "wrist-curl",
+    "name": "Handgelenkcurl",
+    "pattern": "isolation",
+    "tier": "isolation",
+    "primary": [
+      "forearms"
+    ],
+    "secondary": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "dumbbell",
+    "cues": [
+      "Unterarme auf Oberschenkeln oder Bank ablegen",
+      "Nur aus dem Handgelenk beugen",
+      "Langsam absenken"
+    ],
+    "mistakes": [
+      "Arme heben ab",
+      "Zu schwer, kein Umfang"
+    ],
+    "alternatives": [
+      "hammer-curl"
+    ],
+    "description": "Unterarm-Training mit Kurzhanteln."
+  },
+  {
+    "id": "hanging-leg-raise",
+    "name": "Beinheben im Hang",
+    "pattern": "core",
+    "tier": "accessory",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "equipment": [
+      "pullUpBar"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 75,
+    "loadType": "bodyweight",
+    "cues": [
+      "Schultern aktiv nach unten ziehen",
+      "Becken einrollen, Beine bis Hüfthöhe oder höher heben",
+      "Kontrolliert absenken ohne Schwung"
+    ],
+    "mistakes": [
+      "Schwingen mit dem Körper",
+      "Beine werden nur mit der Hüfte gehoben"
+    ],
+    "alternatives": [
+      "hanging-knee-raise",
+      "lying-leg-raise"
+    ],
+    "description": "Anspruchsvolle Bauchübung, betont den unteren Bauch."
+  },
+  {
+    "id": "hanging-knee-raise",
+    "name": "Kniehebe im Hang",
+    "pattern": "core",
+    "tier": "accessory",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "equipment": [
+      "pullUpBar"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 60,
+    "loadType": "bodyweight",
+    "cues": [
+      "Schultern unten, Körper ruhig",
+      "Knie zur Brust ziehen, Becken kippen",
+      "Langsam absenken"
+    ],
+    "mistakes": [
+      "Schwingen",
+      "Nur die Hüftbeuger arbeiten"
+    ],
+    "alternatives": [
+      "lying-leg-raise",
+      "crunch"
+    ],
+    "description": "Einfachere Variante des Beinhebens im Hang."
+  },
+  {
+    "id": "lying-leg-raise",
+    "name": "Beinheben im Liegen",
+    "pattern": "core",
+    "tier": "accessory",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 60,
+    "loadType": "bodyweight",
+    "cues": [
+      "Unterer Rücken bleibt am Boden",
+      "Beine fast gestreckt langsam heben",
+      "Kontrolliert absenken, nicht ablegen"
+    ],
+    "mistakes": [
+      "Hohlkreuz",
+      "Zu schnell"
+    ],
+    "alternatives": [
+      "crunch",
+      "dead-bug"
+    ],
+    "description": "Bauchübung am Boden, ohne Equipment."
+  },
+  {
+    "id": "plank",
+    "name": "Unterarmstütz (Plank)",
+    "pattern": "core",
+    "tier": "isolation",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "lowerBack"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 30,
+    "repMax": 60,
+    "restSeconds": 60,
+    "loadType": "bodyweight",
+    "cues": [
+      "Körper bildet eine gerade Linie",
+      "Gesäß und Bauch anspannen",
+      "Schultern über den Ellbogen, Wiederholungen = Sekunden"
+    ],
+    "mistakes": [
+      "Hüfte hängt durch",
+      "Hüfte zu hoch"
+    ],
+    "alternatives": [
+      "dead-bug"
+    ],
+    "description": "Statische Rumpfstabilität, Wiederholungen entsprechen Haltezeit in Sekunden."
+  },
+  {
+    "id": "ab-rollout",
+    "name": "Ab-Rollout",
+    "pattern": "core",
+    "tier": "accessory",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "lats",
+      "lowerBack"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "bodyweight",
+    "cues": [
+      "Rücken rund halten, Bauch fest",
+      "Nur so weit ausrollen, wie das Becken kontrolliert bleibt",
+      "Mit dem Bauch zurückziehen"
+    ],
+    "mistakes": [
+      "Hohlkreuz beim Ausrollen",
+      "Hüfte sackt zuerst ab"
+    ],
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ],
+    "description": "Rollout mit Ab-Wheel oder mit einer beladenen Langhantel."
+  },
+  {
+    "id": "russian-twist",
+    "name": "Russian Twist",
+    "pattern": "core",
+    "tier": "isolation",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "dumbbell",
+    "cues": [
+      "Oberkörper leicht zurückgelehnt, Rücken gerade",
+      "Aus dem Rumpf rotieren, nicht nur Arme",
+      "Füße am Boden oder angehoben"
+    ],
+    "mistakes": [
+      "Nur die Arme schwingen",
+      "Rücken rundet"
+    ],
+    "alternatives": [
+      "dead-bug",
+      "crunch"
+    ],
+    "description": "Rotationsübung für die schrägen Bauchmuskeln."
+  },
+  {
+    "id": "farmers-carry",
+    "name": "Farmers Carry",
+    "pattern": "carry",
+    "tier": "accessory",
+    "primary": [
+      "forearms",
+      "traps"
+    ],
+    "secondary": [
+      "abs",
+      "glutes"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 90,
+    "loadType": "dumbbell",
+    "cues": [
+      "Aufrecht gehen, Schultern nach hinten unten",
+      "Kleine, kontrollierte Schritte",
+      "Rumpf fest, kein Ausweichen zur Seite"
+    ],
+    "mistakes": [
+      "Schultern ziehen hoch",
+      "Oberkörper kippt zur Seite"
+    ],
+    "alternatives": [
+      "dumbbell-shrug",
+      "barbell-shrug"
+    ],
+    "description": "Tragen schwerer Hanteln, trainiert Griff, Rumpf und oberen Rücken. Wiederholungen entsprechen etwa 5 Schritten."
+  },
+  {
+    "id": "pallof-press",
+    "name": "Pallof Press",
+    "pattern": "core",
+    "tier": "isolation",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "equipment": [
+      "bands"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "cable/band",
+    "cues": [
+      "Seitlich zum Band stehen, Band vor der Brust halten",
+      "Arme gerade nach vorn drücken, nicht drehen lassen",
+      "Kurz halten, zurückholen"
+    ],
+    "mistakes": [
+      "Oberkörper dreht mit",
+      "Hüfte weicht aus"
+    ],
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ],
+    "description": "Anti-Rotationsübung für den Rumpf."
+  },
+  {
+    "id": "crunch",
+    "name": "Crunch",
+    "pattern": "core",
+    "tier": "isolation",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "bodyweight",
+    "cues": [
+      "Unterer Rücken bleibt am Boden",
+      "Rippen zum Becken ziehen",
+      "Nacken locker, Hände nur stützen"
+    ],
+    "mistakes": [
+      "An den Kopf ziehen",
+      "Mit Schwung aus der Hüfte"
+    ],
+    "alternatives": [
+      "dead-bug",
+      "lying-leg-raise"
+    ],
+    "description": "Klassische Bauchübung für den geraden Bauchmuskel."
+  },
+  {
+    "id": "dead-bug",
+    "name": "Dead Bug",
+    "pattern": "core",
+    "tier": "isolation",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "bodyweight",
+    "cues": [
+      "Unterer Rücken bleibt am Boden",
+      "Gegenseitig Arm und Bein langsam ausstrecken",
+      "Atmen und Bauch fest halten"
+    ],
+    "mistakes": [
+      "Hohlkreuz",
+      "Zu schnell"
+    ],
+    "alternatives": [
+      "plank",
+      "crunch"
+    ],
+    "description": "Rumpfstabilität am Boden, einfach und rückenfreundlich."
+  },
+  {
+    "id": "jump-rope",
+    "name": "Seilspringen",
+    "pattern": "conditioning",
+    "tier": "accessory",
+    "primary": [
+      "calves",
+      "quads"
+    ],
+    "secondary": [
+      "abs",
+      "forearms"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 50,
+    "repMax": 100,
+    "restSeconds": 30,
+    "loadType": "bodyweight",
+    "cues": [
+      "Aus den Handgelenken drehen, Ellbogen nah am Körper",
+      "Nur kleine Sprünge auf dem Fußballen",
+      "Aufrecht bleiben, Blick geradeaus"
+    ],
+    "mistakes": [
+      "Zu hoch springen",
+      "Arme schwingen weit",
+      "Auf den Fersen landen"
+    ],
+    "alternatives": [
+      "jumping-jack",
+      "high-knees"
+    ],
+    "description": "Kalorienintensiv und gelenkschonend, wenn du auf den Fußballen bleibst. Ohne Seil gehen Hampelmann oder hohe Knie. Wiederholungen entsprechen den Sprüngen."
+  },
+  {
+    "id": "burpee",
+    "name": "Burpees",
+    "pattern": "conditioning",
+    "tier": "accessory",
+    "primary": [
+      "quads",
+      "chest"
+    ],
+    "secondary": [
+      "glutes",
+      "triceps",
+      "abs",
+      "frontDelts"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 15,
+    "restSeconds": 30,
+    "loadType": "bodyweight",
+    "cues": [
+      "Hände unter den Schultern, Füße nach hinten springen",
+      "Rumpf bleibt in einer Linie",
+      "Mit Schwung aufstehen und kurz hochspringen"
+    ],
+    "mistakes": [
+      "Hüfte hängt durch",
+      "Rücken rundet",
+      "Zu hektisch, die Technik leidet"
+    ],
+    "alternatives": [
+      "squat-jump",
+      "mountain-climber"
+    ],
+    "description": "Ganzkörperübung mit hohem Kalorienverbrauch. Wer es ruhiger will, lässt den Liegestütz und den Sprung weg."
+  },
+  {
+    "id": "dumbbell-swing",
+    "name": "Kurzhantel-Swing",
+    "pattern": "hinge",
+    "tier": "accessory",
+    "primary": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondary": [
+      "lowerBack",
+      "frontDelts",
+      "abs"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 20,
+    "restSeconds": 45,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hüfte nach hinten schieben, Rücken bleibt gerade",
+      "Die Hantel entsteht aus dem Hüftstoß, nicht aus den Armen",
+      "Oben Gesäß fest, Körper bildet eine Linie"
+    ],
+    "mistakes": [
+      "Die Hantel wird hochgehoben",
+      "Rücken rundet",
+      "Knie beugen zu tief (Kniebeuge statt Hüftstoß)"
+    ],
+    "alternatives": [
+      "dumbbell-rdl",
+      "glute-bridge"
+    ],
+    "description": "Explosiver Hüftstoß mit einer Kurzhantel in beiden Händen. Trainiert Gesäß und Rücken und treibt den Puls hoch."
+  },
+  {
+    "id": "mountain-climber",
+    "name": "Mountain Climbers",
+    "pattern": "conditioning",
+    "tier": "accessory",
+    "primary": [
+      "abs",
+      "quads"
+    ],
+    "secondary": [
+      "frontDelts",
+      "triceps",
+      "glutes"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 20,
+    "repMax": 40,
+    "restSeconds": 30,
+    "loadType": "bodyweight",
+    "cues": [
+      "Hände unter den Schultern, Körper in einer Linie",
+      "Knie abwechselnd schnell zur Brust",
+      "Hüfte bleibt unten, Rumpf fest"
+    ],
+    "mistakes": [
+      "Hüfte schießt nach oben",
+      "Schultern wandern nach hinten",
+      "Zu schnell mit kleiner Bewegung"
+    ],
+    "alternatives": [
+      "plank",
+      "burpee"
+    ],
+    "description": "Schnelles Laufen im Stütz für Rumpf und Puls. Wiederholungen zählen beide Beine zusammen."
+  },
+  {
+    "id": "high-knees",
+    "name": "Hohe Knie (Sprint auf der Stelle)",
+    "pattern": "conditioning",
+    "tier": "accessory",
+    "primary": [
+      "quads",
+      "abs"
+    ],
+    "secondary": [
+      "calves",
+      "glutes"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 30,
+    "repMax": 60,
+    "restSeconds": 30,
+    "loadType": "bodyweight",
+    "cues": [
+      "Knie bis etwa Hüfthöhe, Arme laufen mit",
+      "Auf dem Fußballen bleiben",
+      "Aufrecht, Rumpf leicht angespannt"
+    ],
+    "mistakes": [
+      "Oberkörper lehnt zurück",
+      "Zu flache Kniehebung",
+      "Auf den Fersen landen"
+    ],
+    "alternatives": [
+      "jumping-jack",
+      "jump-rope"
+    ],
+    "description": "Sprinten auf der Stelle, geeignet als kurzes Intervall. Wiederholungen zählen jeden Schritt."
+  },
+  {
+    "id": "dumbbell-thruster",
+    "name": "Kurzhantel-Thruster",
+    "pattern": "squat",
+    "tier": "accessory",
+    "primary": [
+      "quads",
+      "glutes",
+      "frontDelts"
+    ],
+    "secondary": [
+      "triceps",
+      "abs",
+      "hamstrings"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 45,
+    "loadType": "dumbbell",
+    "cues": [
+      "Hanteln an den Schultern, Ellbogen vorn",
+      "Tief in die Kniebeuge, Rücken gerade",
+      "Aus dem Aufstehen die Hanteln über den Kopf drücken"
+    ],
+    "mistakes": [
+      "Knie fallen nach innen",
+      "Hanteln fallen nach vorn",
+      "Arme drücken ohne Beinschwung"
+    ],
+    "alternatives": [
+      "goblet-squat",
+      "dumbbell-shoulder-press"
+    ],
+    "description": "Kniebeuge und Schulterdrücken in einer Bewegung: Ganzkörper, hoher Verbrauch, gut als Finisher."
+  },
+  {
+    "id": "jumping-jack",
+    "name": "Hampelmann",
+    "pattern": "conditioning",
+    "tier": "accessory",
+    "primary": [
+      "calves",
+      "sideDelts"
+    ],
+    "secondary": [
+      "quads",
+      "glutes",
+      "abs"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 30,
+    "repMax": 60,
+    "restSeconds": 30,
+    "loadType": "bodyweight",
+    "cues": [
+      "Sanft auf den Fußballen landen",
+      "Arme bis über den Kopf",
+      "Gleichmäßiger Rhythmus, Rumpf leicht angespannt"
+    ],
+    "mistakes": [
+      "Hart auf den Fersen landen",
+      "Schultern hochziehen"
+    ],
+    "alternatives": [
+      "high-knees",
+      "jump-rope"
+    ],
+    "description": "Einfaches Aufwärmen oder lockeres Intervall, ohne Geräte."
+  },
+  {
+    "id": "squat-jump",
+    "name": "Sprungkniebeuge",
+    "pattern": "squat",
+    "tier": "accessory",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "calves",
+      "hamstrings",
+      "abs"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "bodyweight",
+    "cues": [
+      "Kniebeuge bis etwa parallel",
+      "Explosiv hochspringen, Arme schwingen mit",
+      "Weich landen und sofort in die nächste Beuge"
+    ],
+    "mistakes": [
+      "Knie fallen nach innen",
+      "Hart und steif landen",
+      "Zu flache Beuge"
+    ],
+    "alternatives": [
+      "bodyweight-squat",
+      "burpee"
+    ],
+    "description": "Explosive Kniebeuge für Beine und Puls. Bei Knieproblemen lieber die normale Kniebeuge."
+  }
+]

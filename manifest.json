@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "version": 2611052013,
+  "files": {
+    "foods.json": {
+      "sha256": "172ab69135f41527f58b13c3f7367f0418f04852172e2dcb1ea6b4a25f2a90c3",
+      "bytes": 111887
+    },
+    "meals.json": {
+      "sha256": "a3a0330d9e3d8d556ebdb814dea0d0a3a7f17f2a2395a65495af580a45422ff4",
+      "bytes": 75518
+    },
+    "exercises.json": {
+      "sha256": "87cf999ab3b3747c0fd96a381b0b25891d9259dcbf3c476927f9d9a1d0ef010f",
+      "bytes": 89021
+    },
+    "programs.json": {
+      "sha256": "bfbb180c4090fccd43efd9bc2a128ba47417f8bf489b3abd36be351b5acb9328",
+      "bytes": 55384
+    },
+    "recipes.json": {
+      "sha256": "e616494304becad83f1c43bbe8b43f32b982a4e02c992f7f862836afed5e4fac",
+      "bytes": 203501
+    }
+  }
+}
