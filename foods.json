@@ -1144,7 +1144,7 @@
     "micros": {
       "b3": 1.61,
       "b6": 0.249,
-      "sugar": 66.5,
+      "sugar": 65.0,
       "calcium": 64.0,
       "potassium": 696,
       "zinc": 0.44,
@@ -2100,7 +2100,7 @@
     "quick": false,
     "booster": false,
     "micros": {
-      "sugar": 1.98,
+      "sugar": 1.0,
       "satFat": 0.05,
       "b12": 0.04,
       "fiber": 1.0,
@@ -4906,7 +4906,7 @@
     "quick": true,
     "booster": false,
     "micros": {
-      "sugar": 7.04,
+      "sugar": 4.7,
       "vitE": 0.03,
       "vitA": 14.0,
       "vitD": 0.0,
@@ -5692,7 +5692,7 @@
     "quick": true,
     "booster": false,
     "micros": {
-      "sugar": 2.22,
+      "sugar": 0.1,
       "vitE": 0.24,
       "vitK": 2.3,
       "folate": 21.0,
@@ -6206,7 +6206,7 @@
       "vitA": 250,
       "folate": 18.0,
       "satFat": 8.85,
-      "sugar": 8.02,
+      "sugar": 6.0,
       "salt": 3.0
     }
   },
@@ -10178,7 +10178,7 @@
       "zinc": 0.22,
       "b3": 0.121,
       "b6": 0.024,
-      "sugar": 82.1,
+      "sugar": 75.0,
       "vitK": 0.0,
       "vitD": 0.0,
       "selenium": 0.8,
@@ -13067,7 +13067,7 @@
       "b1": 0.022,
       "b2": 0.0,
       "b12": 0.0,
-      "satFat": 18.9,
+      "satFat": 17.5,
       "salt": 0.0325
     }
   },

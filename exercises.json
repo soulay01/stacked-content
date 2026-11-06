@@ -525,7 +525,7 @@
   },
   {
     "id": "dumbbell-rdl",
-    "name": "Kurzhantel-Rumänisches-Kreuzheben",
+    "name": "Kurzhantel-Rumänisches Kreuzheben",
     "pattern": "hinge",
     "tier": "accessory",
     "primary": [
@@ -2165,7 +2165,7 @@
     "loadType": "cable/band",
     "cues": [
       "Arme fast gestreckt, Oberkörper leicht nach vorn",
-      "Stange mit den Latissimus zu den Oberschenkeln ziehen",
+      "Stange mit dem Latissimus zu den Oberschenkeln ziehen",
       "Rippen bleiben unten"
     ],
     "mistakes": [

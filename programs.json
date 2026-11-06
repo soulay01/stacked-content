@@ -200,7 +200,7 @@
     "description": "Komplettes Ganzkörpertraining nur mit Kurzhanteln und einer Bank. Einbeinige Beinübungen, Drücken und Rudern halten die Belastung hoch, ohne dass Rack oder Langhantel nötig sind.",
     "level": "beginner",
     "daysPerWeek": 3,
-    "sessionMinutes": 60,
+    "sessionMinutes": 56,
     "requiresEquipment": [
       "dumbbells",
       "bench"
@@ -659,7 +659,7 @@
     "description": "Fünf Trainingstage: Push, Pull und Beine, dazu ein gemischter Oberkörper- und ein Unterkörpertag. Brust, Rücken und Beine kommen jeweils zweimal pro Woche mit hohem Volumen dran. Für Fortgeschrittene mit Zeit.",
     "level": "advanced",
     "daysPerWeek": 5,
-    "sessionMinutes": 70,
+    "sessionMinutes": 63,
     "requiresEquipment": [
       "barbell",
       "dumbbells",
@@ -961,11 +961,11 @@
   },
   {
     "id": "short-strong-3",
-    "name": "Kurz & Stark 3×45",
-    "description": "Drei effiziente Einheiten à 45 Minuten: wenige, dafür schwere Grundübungen, kurze Pausen bei den Zusatzübungen. Für alle, die wenig Zeit haben und trotzdem zweimal pro Woche jede Muskelgruppe belasten wollen.",
+    "name": "Kurz & Stark 3×50",
+    "description": "Drei effiziente Einheiten à etwa 50 Minuten: wenige, dafür schwere Grundübungen, kurze Pausen bei den Zusatzübungen. Für alle, die wenig Zeit haben und trotzdem zweimal pro Woche jede Muskelgruppe belasten wollen.",
     "level": "intermediate",
     "daysPerWeek": 3,
-    "sessionMinutes": 45,
+    "sessionMinutes": 50,
     "requiresEquipment": [
       "barbell",
       "dumbbells",
@@ -1082,7 +1082,7 @@
         "exercises": [
           {
             "exerciseId": "front-squat",
-            "sets": 4,
+            "sets": 3,
             "repMin": 5,
             "repMax": 8,
             "restSeconds": 120,
@@ -1146,7 +1146,7 @@
     "description": "Zugeschnitten auf das klassische Heim-Setup: Langhantel, Kurzhanteln, verstellbare Bank, Power Rack mit Safeties, Klimmzugstange und Dip-Griffe. Vier Tage Oberkörper und Unterkörper, jede Muskelgruppe zweimal pro Woche.",
     "level": "intermediate",
     "daysPerWeek": 4,
-    "sessionMinutes": 70,
+    "sessionMinutes": 74,
     "requiresEquipment": [
       "barbell",
       "dumbbells",
@@ -1406,7 +1406,7 @@
     "description": "Für die Diät: drei Ganzkörper-Einheiten mit schweren Grundübungen halten deine Muskeln, danach ein kurzer Finisher (8 bis 12 Minuten) treibt den Verbrauch hoch. Schwer heben, sauber bleiben, nicht bis zum Muskelversagen.",
     "level": "beginner",
     "daysPerWeek": 3,
-    "sessionMinutes": 55,
+    "sessionMinutes": 46,
     "requiresEquipment": [
       "barbell",
       "dumbbells",
@@ -1589,7 +1589,7 @@
     "description": "Die Abnehm-Variante mit Kurzhanteln und Bank: schwere Beinübungen, Drücken und Rudern halten die Muskeln, ein kurzer Zirkel am Ende den Verbrauch. Kein Rack und keine Langhantel nötig.",
     "level": "beginner",
     "daysPerWeek": 3,
-    "sessionMinutes": 50,
+    "sessionMinutes": 38,
     "requiresEquipment": [
       "dumbbells",
       "bench"
@@ -1720,7 +1720,7 @@
             "targetRIR": 2
           },
           {
-            "exerciseId": "incline-dumbbell-press",
+            "exerciseId": "dumbbell-bench-press",
             "sets": 3,
             "repMin": 8,
             "repMax": 10,
@@ -1867,7 +1867,7 @@
             "targetRIR": 2
           },
           {
-            "exerciseId": "one-arm-dumbbell-row",
+            "exerciseId": "dumbbell-bent-over-row",
             "sets": 3,
             "repMin": 10,
             "repMax": 12,
@@ -1974,10 +1974,10 @@
             "targetRIR": 2
           },
           {
-            "exerciseId": "incline-push-up",
+            "exerciseId": "push-up",
             "sets": 3,
-            "repMin": 10,
-            "repMax": 15,
+            "repMin": 8,
+            "repMax": 12,
             "restSeconds": 45,
             "targetRIR": 2
           },
@@ -2077,7 +2077,7 @@
     "description": "Ausgewogen zum Gewicht halten: drei Ganzkörper-Einheiten mit mittlerem Volumen, dazu je ein kurzer Konditionsteil. Du bleibst kräftig und fit, ohne dich zu überlasten.",
     "level": "beginner",
     "daysPerWeek": 3,
-    "sessionMinutes": 50,
+    "sessionMinutes": 33,
     "requiresEquipment": [
       "dumbbells",
       "bench"
@@ -2191,7 +2191,7 @@
             "targetRIR": 2
           },
           {
-            "exerciseId": "incline-dumbbell-press",
+            "exerciseId": "dumbbell-bench-press",
             "sets": 3,
             "repMin": 8,
             "repMax": 12,

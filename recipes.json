@@ -10343,5 +10343,851 @@
       "lose",
       "maintain"
     ]
+  },
+  {
+    "id": "suhoor-overnight-oats-chia",
+    "name": "Overnight Oats mit Chia und Datteln",
+    "category": "fruehstueck",
+    "items": [
+      {
+        "foodId": "haferflocken",
+        "amount": 50.0
+      },
+      {
+        "foodId": "skyr",
+        "amount": 150.0
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 100.0
+      },
+      {
+        "foodId": "chiasamen",
+        "amount": 12.0
+      },
+      {
+        "foodId": "datteln",
+        "amount": 20.0
+      },
+      {
+        "foodId": "mandeln",
+        "amount": 10.0
+      }
+    ],
+    "prepMinutes": 5,
+    "cookMinutes": 0,
+    "steps": [
+      "Abends Haferflocken, Skyr, Milch und Chiasamen in ein Glas rühren.",
+      "Datteln klein schneiden und unterheben.",
+      "Über Nacht in den Kühlschrank stellen.",
+      "Morgens Mandeln darüber geben und direkt essen."
+    ],
+    "tip": "Chia und Hafer quellen über Nacht auf und halten viele Stunden satt. Dazu ein großes Glas Wasser.",
+    "tags": [
+      "suhoor",
+      "sattmacher",
+      "ohne-kochen",
+      "vorbereiten"
+    ],
+    "texture": "cremig",
+    "volumeScore": 4,
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "laktose",
+      "nuesse"
+    ],
+    "tastes": [
+      "suess",
+      "frisch"
+    ],
+    "goals": [
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "suhoor-haferbrei-datteln-nuesse",
+    "name": "Warmer Haferbrei mit Datteln und Walnüssen",
+    "category": "fruehstueck",
+    "items": [
+      {
+        "foodId": "haferflocken",
+        "amount": 60.0
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 200.0
+      },
+      {
+        "foodId": "skyr",
+        "amount": 100.0
+      },
+      {
+        "foodId": "datteln",
+        "amount": 30.0
+      },
+      {
+        "foodId": "walnuesse",
+        "amount": 15.0
+      },
+      {
+        "foodId": "leinsamen",
+        "amount": 10.0
+      }
+    ],
+    "prepMinutes": 2,
+    "cookMinutes": 6,
+    "steps": [
+      "Haferflocken mit Milch und Leinsamen aufkochen und 4 Minuten köcheln lassen.",
+      "Vom Herd nehmen und den Skyr unterrühren.",
+      "Datteln klein schneiden, unterrühren und mit gehackten Walnüssen toppen."
+    ],
+    "tip": "Langsame Kohlenhydrate und gesunde Fette: Der Brei gibt über Stunden gleichmäßig Energie. Datteln brechen traditionell das Fasten und passen auch davor.",
+    "tags": [
+      "suhoor",
+      "sattmacher",
+      "warm"
+    ],
+    "texture": "cremig",
+    "volumeScore": 4,
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "laktose",
+      "nuesse"
+    ],
+    "tastes": [
+      "suess",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "suhoor-skyr-bowl",
+    "name": "Skyr-Bowl mit Haferflocken und Banane",
+    "category": "fruehstueck",
+    "items": [
+      {
+        "foodId": "skyr",
+        "amount": 250.0
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 40.0
+      },
+      {
+        "foodId": "banane",
+        "amount": 100.0
+      },
+      {
+        "foodId": "mandeln",
+        "amount": 20.0
+      },
+      {
+        "foodId": "chiasamen",
+        "amount": 10.0
+      }
+    ],
+    "prepMinutes": 4,
+    "cookMinutes": 0,
+    "steps": [
+      "Skyr in eine Schüssel geben.",
+      "Haferflocken und Chiasamen unterrühren.",
+      "Banane in Scheiben schneiden und mit Mandeln darauf verteilen."
+    ],
+    "tip": "Viel Eiweiß für lange Sättigung. Wer es länger quellen lassen will, rührt den Hafer schon abends unter.",
+    "tags": [
+      "suhoor",
+      "sattmacher",
+      "protein",
+      "ohne-kochen"
+    ],
+    "texture": "cremig",
+    "volumeScore": 4,
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "laktose",
+      "nuesse"
+    ],
+    "tastes": [
+      "suess",
+      "frisch"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "suhoor-quark-beeren-hafer",
+    "name": "Quark mit Beeren, Hafer und Leinsamen",
+    "category": "fruehstueck",
+    "items": [
+      {
+        "foodId": "magerquark",
+        "amount": 250.0
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 50.0
+      },
+      {
+        "foodId": "beerenmix-tk",
+        "amount": 100.0
+      },
+      {
+        "foodId": "leinsamen",
+        "amount": 10.0
+      },
+      {
+        "foodId": "mandeln",
+        "amount": 15.0
+      }
+    ],
+    "prepMinutes": 4,
+    "cookMinutes": 0,
+    "steps": [
+      "Beeren auftauen lassen oder kurz antauen.",
+      "Quark mit Haferflocken und Leinsamen glatt rühren.",
+      "Beeren und gehackte Mandeln darübergeben."
+    ],
+    "tip": "Magerquark liefert langsam verdauliches Eiweiß, die Leinsamen Ballaststoffe. Nichts davon macht durstig.",
+    "tags": [
+      "suhoor",
+      "sattmacher",
+      "protein",
+      "ohne-kochen"
+    ],
+    "texture": "cremig",
+    "volumeScore": 4,
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "laktose",
+      "nuesse"
+    ],
+    "tastes": [
+      "suess",
+      "frisch"
+    ],
+    "goals": [
+      "gain",
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "suhoor-casein-pudding",
+    "name": "Casein-Pudding mit Haferflocken",
+    "category": "fruehstueck",
+    "items": [
+      {
+        "foodId": "casein",
+        "amount": 30.0
+      },
+      {
+        "foodId": "vollmilch-3-5",
+        "amount": 200.0
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 40.0
+      },
+      {
+        "foodId": "beerenmix-tk",
+        "amount": 80.0
+      }
+    ],
+    "prepMinutes": 4,
+    "cookMinutes": 0,
+    "steps": [
+      "Casein mit kalter Milch glatt rühren, bis es andickt.",
+      "Haferflocken unterrühren und 3 Minuten quellen lassen.",
+      "Beeren darauf geben."
+    ],
+    "tip": "Casein wird besonders langsam verdaut. Ideal, wenn der Magen vor dem Fasten wenig verträgt, aber der Tag lang wird.",
+    "tags": [
+      "suhoor",
+      "sattmacher",
+      "protein",
+      "ohne-kochen"
+    ],
+    "texture": "cremig",
+    "volumeScore": 3,
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "laktose"
+    ],
+    "tastes": [
+      "suess",
+      "frisch"
+    ],
+    "goals": [
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "suhoor-ei-avocado-vollkorn",
+    "name": "Rührei mit Avocado auf Vollkornbrot",
+    "category": "fruehstueck",
+    "items": [
+      {
+        "foodId": "ei",
+        "amount": 180.0
+      },
+      {
+        "foodId": "avocado",
+        "amount": 80.0
+      },
+      {
+        "foodId": "vollkornbrot",
+        "amount": 80.0
+      },
+      {
+        "foodId": "tomate",
+        "amount": 100.0
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 5.0
+      }
+    ],
+    "prepMinutes": 3,
+    "cookMinutes": 6,
+    "steps": [
+      "Eier mit einer Prise Pfeffer verquirlen und im Öl stocken lassen.",
+      "Brot toasten und mit Avocado bestreichen.",
+      "Rührei und Tomatenscheiben darauf legen."
+    ],
+    "tip": "Eiweiß, gesundes Fett und Vollkorn in einem Teller. Sparsam salzen, sonst kommt der Durst am Nachmittag.",
+    "tags": [
+      "suhoor",
+      "sattmacher",
+      "protein",
+      "herzhaft",
+      "warm"
+    ],
+    "texture": "weich",
+    "volumeScore": 3,
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "ei",
+      "gluten"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "suhoor-shakshuka-leicht",
+    "name": "Leichte Shakshuka mit Vollkornbrot",
+    "category": "hauptgericht",
+    "items": [
+      {
+        "foodId": "ei",
+        "amount": 180.0
+      },
+      {
+        "foodId": "tomatensauce",
+        "amount": 200.0
+      },
+      {
+        "foodId": "paprika",
+        "amount": 100.0
+      },
+      {
+        "foodId": "zwiebel",
+        "amount": 50.0
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 10.0
+      },
+      {
+        "foodId": "vollkornbrot",
+        "amount": 70.0
+      }
+    ],
+    "prepMinutes": 5,
+    "cookMinutes": 12,
+    "steps": [
+      "Zwiebel und Paprika würfeln und im Öl 3 Minuten anbraten.",
+      "Tomatensauce zugeben und 4 Minuten köcheln lassen.",
+      "Mulden formen, Eier hineingleiten lassen und zugedeckt stocken lassen.",
+      "Mit dem Vollkornbrot essen."
+    ],
+    "tip": "Abends vorbereiten und morgens nur erwärmen und die Eier hinzugeben. Wenig Salz verwenden, die Sauce bringt schon etwas mit.",
+    "tags": [
+      "suhoor",
+      "sattmacher",
+      "protein",
+      "herzhaft",
+      "warm",
+      "vorbereiten"
+    ],
+    "texture": "weich",
+    "volumeScore": 4,
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "ei",
+      "gluten"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "suhoor-bohnen-teller",
+    "name": "Weiße-Bohnen-Teller mit Ei und Fladenbrot",
+    "category": "hauptgericht",
+    "items": [
+      {
+        "foodId": "weisse-bohnen-dose",
+        "amount": 200.0
+      },
+      {
+        "foodId": "ei-gekocht",
+        "amount": 110.0
+      },
+      {
+        "foodId": "tomate",
+        "amount": 100.0
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 10.0
+      },
+      {
+        "foodId": "pita",
+        "amount": 60.0
+      }
+    ],
+    "prepMinutes": 5,
+    "cookMinutes": 3,
+    "steps": [
+      "Bohnen abspülen und kurz erwärmen.",
+      "Mit Olivenöl und gewürfelten Tomaten mischen.",
+      "Mit geviertelten gekochten Eiern und Fladenbrot servieren."
+    ],
+    "tip": "Angelehnt an das klassische Ful. Bohnen vorher gut abspülen: spart Salz und damit Durst. Die Eier schon am Vorabend kochen.",
+    "tags": [
+      "suhoor",
+      "sattmacher",
+      "protein",
+      "herzhaft",
+      "warm"
+    ],
+    "texture": "weich",
+    "volumeScore": 4,
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "ei",
+      "gluten"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "suhoor-linsensuppe-brot",
+    "name": "Rote-Linsen-Suppe mit Vollkornbrot",
+    "category": "hauptgericht",
+    "items": [
+      {
+        "foodId": "linsen-rot",
+        "amount": 80.0
+      },
+      {
+        "foodId": "karotte",
+        "amount": 80.0
+      },
+      {
+        "foodId": "zwiebel",
+        "amount": 40.0
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 10.0
+      },
+      {
+        "foodId": "vollkornbrot",
+        "amount": 60.0
+      },
+      {
+        "foodId": "joghurt-griechisch",
+        "amount": 50.0
+      }
+    ],
+    "prepMinutes": 5,
+    "cookMinutes": 18,
+    "steps": [
+      "Zwiebel und Karotte klein schneiden und im Öl anschwitzen.",
+      "Linsen und 500 ml Wasser zugeben, 15 Minuten köcheln lassen.",
+      "Pürieren und mit einem Klecks Joghurt servieren.",
+      "Das Brot dazu essen."
+    ],
+    "tip": "Am Abend kochen und morgens nur erwärmen. Linsen halten durch Eiweiß und Ballaststoffe sehr lange satt.",
+    "tags": [
+      "suhoor",
+      "sattmacher",
+      "protein",
+      "herzhaft",
+      "warm",
+      "vorbereiten"
+    ],
+    "texture": "cremig",
+    "volumeScore": 5,
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "laktose"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "suhoor-huettenkaese-fladenbrot",
+    "name": "Hüttenkäse-Fladenbrot mit Gurke und Tomate",
+    "category": "fruehstueck",
+    "items": [
+      {
+        "foodId": "huettenkaese",
+        "amount": 200.0
+      },
+      {
+        "foodId": "pita",
+        "amount": 70.0
+      },
+      {
+        "foodId": "gurke",
+        "amount": 120.0
+      },
+      {
+        "foodId": "tomate",
+        "amount": 100.0
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 5.0
+      }
+    ],
+    "prepMinutes": 5,
+    "cookMinutes": 0,
+    "steps": [
+      "Fladenbrot aufschneiden oder kurz toasten.",
+      "Hüttenkäse daraufstreichen.",
+      "Gurke und Tomate in Scheiben darauf legen und mit Olivenöl beträufeln."
+    ],
+    "tip": "Gurke und Tomate bringen viel Wasser mit. Hüttenkäse ist salzig: ungesalzenes Fladenbrot und kein zusätzliches Salz wählen.",
+    "tags": [
+      "suhoor",
+      "sattmacher",
+      "protein",
+      "herzhaft",
+      "ohne-kochen"
+    ],
+    "texture": "weich",
+    "volumeScore": 4,
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "laktose"
+    ],
+    "tastes": [
+      "herzhaft",
+      "frisch"
+    ],
+    "goals": [
+      "maintain",
+      "lose"
+    ]
+  },
+  {
+    "id": "suhoor-hummus-teller",
+    "name": "Hummus-Teller mit Hähnchen und Fladenbrot",
+    "category": "hauptgericht",
+    "items": [
+      {
+        "foodId": "hummus",
+        "amount": 100.0
+      },
+      {
+        "foodId": "pita",
+        "amount": 60.0
+      },
+      {
+        "foodId": "haehnchenbrust-gegart",
+        "amount": 100.0
+      },
+      {
+        "foodId": "gurke",
+        "amount": 100.0
+      },
+      {
+        "foodId": "tomate",
+        "amount": 100.0
+      }
+    ],
+    "prepMinutes": 6,
+    "cookMinutes": 0,
+    "steps": [
+      "Hummus auf einem Teller verstreichen.",
+      "Hähnchen in Streifen schneiden und daraufgeben.",
+      "Mit Gurke und Tomate servieren, Fladenbrot dazu."
+    ],
+    "tip": "Vorgegartes Hähnchen am Vortag zubereiten. Beim Fleisch auf Halal-Qualität achten. Dazu viel Wasser trinken.",
+    "tags": [
+      "suhoor",
+      "sattmacher",
+      "protein",
+      "herzhaft",
+      "ohne-kochen"
+    ],
+    "texture": "weich",
+    "volumeScore": 4,
+    "diet": [],
+    "contains": [
+      "gluten",
+      "sesam"
+    ],
+    "tastes": [
+      "herzhaft",
+      "frisch"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "suhoor-wrap-ei-haehnchen",
+    "name": "Vollkorn-Wrap mit Ei, Hähnchen und Avocado",
+    "category": "hauptgericht",
+    "items": [
+      {
+        "foodId": "vollkorn-wrap",
+        "amount": 70.0
+      },
+      {
+        "foodId": "ei",
+        "amount": 120.0
+      },
+      {
+        "foodId": "haehnchenbrust-gegart",
+        "amount": 80.0
+      },
+      {
+        "foodId": "avocado",
+        "amount": 50.0
+      },
+      {
+        "foodId": "salat",
+        "amount": 40.0
+      }
+    ],
+    "prepMinutes": 4,
+    "cookMinutes": 5,
+    "steps": [
+      "Eier verquirlen und in einer Pfanne zu einem Rührei stocken lassen.",
+      "Wrap mit Avocado bestreichen.",
+      "Rührei, Hähnchen und Salat einlegen und einrollen."
+    ],
+    "tip": "Lässt sich vorbereiten und mitnehmen, wenn nach dem Aufstehen kaum Zeit bleibt. Hähnchen in Halal-Qualität wählen.",
+    "tags": [
+      "suhoor",
+      "sattmacher",
+      "protein",
+      "herzhaft",
+      "warm"
+    ],
+    "texture": "weich",
+    "volumeScore": 3,
+    "diet": [],
+    "contains": [
+      "ei",
+      "gluten"
+    ],
+    "tastes": [
+      "herzhaft",
+      "warm"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "suhoor-datteln-kefir-smoothie",
+    "name": "Datteln-Kefir-Smoothie mit Hafer",
+    "category": "shake",
+    "items": [
+      {
+        "foodId": "kefir",
+        "amount": 250.0
+      },
+      {
+        "foodId": "magerquark",
+        "amount": 100.0
+      },
+      {
+        "foodId": "datteln",
+        "amount": 30.0
+      },
+      {
+        "foodId": "banane",
+        "amount": 80.0
+      },
+      {
+        "foodId": "mandelmus",
+        "amount": 15.0
+      },
+      {
+        "foodId": "haferflocken",
+        "amount": 25.0
+      }
+    ],
+    "prepMinutes": 3,
+    "cookMinutes": 0,
+    "steps": [
+      "Alle Zutaten in den Mixer geben.",
+      "45 Sekunden mixen, bis alles cremig ist.",
+      "Langsam trinken und ein Glas Wasser dazu."
+    ],
+    "tip": "Flüssig, sättigend und mild für den Magen. Hafer und Mandelmus sorgen für lange Energie, Kefir für Eiweiß und Flüssigkeit.",
+    "tags": [
+      "suhoor",
+      "sattmacher",
+      "ohne-kochen",
+      "trinken"
+    ],
+    "texture": "fluessig",
+    "volumeScore": 3,
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "laktose",
+      "nuesse"
+    ],
+    "tastes": [
+      "suess",
+      "trinken"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
+  },
+  {
+    "id": "suhoor-bulgur-feta-bowl",
+    "name": "Bulgur-Bowl mit Kichererbsen und Joghurt",
+    "category": "hauptgericht",
+    "items": [
+      {
+        "foodId": "bulgur",
+        "amount": 80.0
+      },
+      {
+        "foodId": "kichererbsen-dose",
+        "amount": 120.0
+      },
+      {
+        "foodId": "gurke",
+        "amount": 100.0
+      },
+      {
+        "foodId": "tomate",
+        "amount": 100.0
+      },
+      {
+        "foodId": "joghurt-griechisch",
+        "amount": 100.0
+      },
+      {
+        "foodId": "olivenoel",
+        "amount": 8.0
+      }
+    ],
+    "prepMinutes": 8,
+    "cookMinutes": 10,
+    "steps": [
+      "Bulgur nach Packungsanleitung quellen lassen.",
+      "Kichererbsen abspülen, Gurke und Tomate würfeln.",
+      "Alles mischen, Joghurt darübergeben und mit Olivenöl beträufeln."
+    ],
+    "tip": "Bulgur gehört zu den langsamsten Kohlenhydraten. Am Vorabend zubereiten, morgens nur den Joghurt zugeben.",
+    "tags": [
+      "suhoor",
+      "sattmacher",
+      "protein",
+      "herzhaft",
+      "vorbereiten"
+    ],
+    "texture": "weich",
+    "volumeScore": 5,
+    "diet": [
+      "vegetarisch"
+    ],
+    "contains": [
+      "gluten",
+      "laktose"
+    ],
+    "tastes": [
+      "herzhaft",
+      "frisch"
+    ],
+    "goals": [
+      "gain",
+      "maintain"
+    ]
   }
 ]
