@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 2611062326,
+  "version": 2611071144,
   "files": {
     "foods.json": {
       "sha256": "9854a20fad6eeb51464a6c4a651ec2b569450d82f50b3772071ce35f4aac6d8f",
@@ -19,8 +19,8 @@
       "bytes": 55378
     },
     "recipes.json": {
-      "sha256": "a6ca610cdd6ee59fcb8ae0995810c3b3e5074b6e4c66bfdb73a324721e638d6f",
-      "bytes": 221336
+      "sha256": "a80a1a1b30734aaea18c16fb5854d2b76e7337edb978e27e9d2ee1bf0b9e80b7",
+      "bytes": 281391
     }
   }
 }
