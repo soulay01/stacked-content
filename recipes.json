@@ -11275,13 +11275,12 @@
         "amount": 6.0
       }
     ],
-    "prepMinutes": 10,
-    "cookMinutes": 15,
+    "prepMinutes": 5,
+    "cookMinutes": 10,
     "steps": [
-      "Zwiebel würfeln und mit dem Hack im Öl krümelig braten.",
-      "Tomatensauce zugeben und 8 Minuten köcheln lassen.",
-      "Zucchini mit dem Spiralschneider oder Sparschäler zu Streifen schneiden.",
-      "Kurz 2 Minuten in der Sauce erwärmen und mit Parmesan servieren."
+      "Zwiebel würfeln und mit dem Hack im Öl 5 Minuten krümelig braten.",
+      "Tomatensauce zugeben und 4 Minuten köcheln lassen.",
+      "Zucchini mit dem Spiralschneider oder Sparschäler zu Streifen schneiden, 1 Minute in der Sauce erwärmen und mit Parmesan servieren."
     ],
     "tip": "Zucchini nicht zu lange garen, sonst wird sie wässrig.",
     "tags": [
@@ -11730,11 +11729,11 @@
         "amount": 150.0
       }
     ],
-    "prepMinutes": 6,
-    "cookMinutes": 12,
+    "prepMinutes": 5,
+    "cookMinutes": 10,
     "steps": [
-      "Zucchini und Tomaten würfeln und im Öl 5 Minuten braten.",
-      "Kabeljau und Oliven daraufgeben und zugedeckt 7 Minuten garen.",
+      "Zucchini und Tomaten würfeln und im Öl 4 Minuten braten.",
+      "Kabeljau und Oliven daraufgeben und zugedeckt 6 Minuten garen.",
       "Mit dem erwärmten Reis servieren."
     ],
     "tip": "Kabeljau hat fast kein Fett und sehr viel Eiweiß.",
