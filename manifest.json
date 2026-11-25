@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 2611251443,
+  "version": 2611252147,
   "files": {
     "foods.json": {
       "sha256": "9854a20fad6eeb51464a6c4a651ec2b569450d82f50b3772071ce35f4aac6d8f",
@@ -11,12 +11,12 @@
       "bytes": 75518
     },
     "exercises.json": {
-      "sha256": "e2b527135d60520d279a0159375908728b96974153ef0c97e5ae4b89c35b4e19",
-      "bytes": 89021
+      "sha256": "cade0f704ba7609bfa28c7d67407385c445c59634d67f0889c421e248fadbcf1",
+      "bytes": 95812
     },
     "programs.json": {
-      "sha256": "cf7bfd4eea30be59a9b82652276addfdd75dd1d6c755c470fc7722e7cce21aa1",
-      "bytes": 55378
+      "sha256": "0a5987c825b81dc3cc6216ddbd1f94fb899e0ac355f8a30ed17e9515f37b077d",
+      "bytes": 59959
     },
     "recipes.json": {
       "sha256": "128e4801e21c55c6b93a64ab9644c27c9c8052f2be0f1025a5106bc355beefd1",

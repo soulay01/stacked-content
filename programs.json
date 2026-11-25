@@ -5,7 +5,7 @@
     "description": "Der klassische Einstieg: dreimal pro Woche der ganze Körper mit Langhantel-Grundübungen. Jede Muskelgruppe wird mehrfach pro Woche trainiert, ideal zum Kraft- und Muskelaufbau für Anfänger.",
     "level": "beginner",
     "daysPerWeek": 3,
-    "sessionMinutes": 60,
+    "sessionMinutes": 63,
     "requiresEquipment": [
       "barbell",
       "dumbbells",
@@ -189,6 +189,14 @@
             "repMax": 12,
             "restSeconds": 75,
             "targetRIR": 2
+          },
+          {
+            "exerciseId": "bicycle-crunch",
+            "sets": 3,
+            "repMin": 16,
+            "repMax": 24,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       }
@@ -200,7 +208,7 @@
     "description": "Komplettes Ganzkörpertraining nur mit Kurzhanteln und einer Bank. Einbeinige Beinübungen, Drücken und Rudern halten die Belastung hoch, ohne dass Rack oder Langhantel nötig sind.",
     "level": "beginner",
     "daysPerWeek": 3,
-    "sessionMinutes": 56,
+    "sessionMinutes": 59,
     "requiresEquipment": [
       "dumbbells",
       "bench"
@@ -257,6 +265,14 @@
             "repMax": 12,
             "restSeconds": 75,
             "targetRIR": 2
+          },
+          {
+            "exerciseId": "reverse-crunch",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       },
@@ -327,6 +343,14 @@
             "repMax": 15,
             "restSeconds": 60,
             "targetRIR": 1
+          },
+          {
+            "exerciseId": "side-plank",
+            "sets": 3,
+            "repMin": 30,
+            "repMax": 45,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       },
@@ -389,6 +413,14 @@
             "repMax": 15,
             "restSeconds": 60,
             "targetRIR": 1
+          },
+          {
+            "exerciseId": "heel-touch",
+            "sets": 3,
+            "repMin": 20,
+            "repMax": 30,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       }
@@ -400,7 +432,7 @@
     "description": "Zweimal Oberkörper, zweimal Unterkörper pro Woche. Jede Muskelgruppe wird zweimal belastet, Tag A mit schweren Grundübungen, Tag B mit mehr Volumen. Der Allrounder für Muskelaufbau.",
     "level": "intermediate",
     "daysPerWeek": 4,
-    "sessionMinutes": 70,
+    "sessionMinutes": 73,
     "requiresEquipment": [
       "barbell",
       "dumbbells",
@@ -470,6 +502,14 @@
             "repMax": 12,
             "restSeconds": 90,
             "targetRIR": 2
+          },
+          {
+            "exerciseId": "crunch",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       },
@@ -586,6 +626,14 @@
             "repMax": 15,
             "restSeconds": 60,
             "targetRIR": 1
+          },
+          {
+            "exerciseId": "sit-up",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       },
@@ -659,7 +707,7 @@
     "description": "Fünf Trainingstage: Push, Pull und Beine, dazu ein gemischter Oberkörper- und ein Unterkörpertag. Brust, Rücken und Beine kommen jeweils zweimal pro Woche mit hohem Volumen dran. Für Fortgeschrittene mit Zeit.",
     "level": "advanced",
     "daysPerWeek": 5,
-    "sessionMinutes": 63,
+    "sessionMinutes": 66,
     "requiresEquipment": [
       "barbell",
       "dumbbells",
@@ -722,6 +770,14 @@
             "repMax": 15,
             "restSeconds": 60,
             "targetRIR": 1
+          },
+          {
+            "exerciseId": "bicycle-crunch",
+            "sets": 3,
+            "repMin": 16,
+            "repMax": 24,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       },
@@ -775,6 +831,14 @@
             "repMin": 8,
             "repMax": 12,
             "restSeconds": 75,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "reverse-crunch",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 15,
+            "restSeconds": 45,
             "targetRIR": 1
           }
         ]
@@ -892,6 +956,14 @@
             "repMax": 12,
             "restSeconds": 75,
             "targetRIR": 1
+          },
+          {
+            "exerciseId": "side-plank",
+            "sets": 3,
+            "repMin": 30,
+            "repMax": 45,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       },
@@ -965,7 +1037,7 @@
     "description": "Drei effiziente Einheiten à etwa 50 Minuten: wenige, dafür schwere Grundübungen, kurze Pausen bei den Zusatzübungen. Für alle, die wenig Zeit haben und trotzdem zweimal pro Woche jede Muskelgruppe belasten wollen.",
     "level": "intermediate",
     "daysPerWeek": 3,
-    "sessionMinutes": 50,
+    "sessionMinutes": 53,
     "requiresEquipment": [
       "barbell",
       "dumbbells",
@@ -1017,6 +1089,14 @@
             "sets": 3,
             "repMin": 12,
             "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "heel-touch",
+            "sets": 3,
+            "repMin": 20,
+            "repMax": 30,
             "restSeconds": 45,
             "targetRIR": 1
           }
@@ -1071,6 +1151,14 @@
             "sets": 2,
             "repMin": 8,
             "repMax": 12,
+            "restSeconds": 45,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "crunch",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
             "restSeconds": 45,
             "targetRIR": 1
           }
@@ -1135,6 +1223,14 @@
             "repMax": 15,
             "restSeconds": 45,
             "targetRIR": 1
+          },
+          {
+            "exerciseId": "sit-up",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       }
@@ -1146,7 +1242,7 @@
     "description": "Zugeschnitten auf das klassische Heim-Setup: Langhantel, Kurzhanteln, verstellbare Bank, Power Rack mit Safeties, Klimmzugstange und Dip-Griffe. Vier Tage Oberkörper und Unterkörper, jede Muskelgruppe zweimal pro Woche.",
     "level": "intermediate",
     "daysPerWeek": 4,
-    "sessionMinutes": 74,
+    "sessionMinutes": 77,
     "requiresEquipment": [
       "barbell",
       "dumbbells",
@@ -1217,6 +1313,14 @@
             "repMax": 12,
             "restSeconds": 90,
             "targetRIR": 2
+          },
+          {
+            "exerciseId": "bicycle-crunch",
+            "sets": 3,
+            "repMin": 16,
+            "repMax": 24,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       },
@@ -1333,6 +1437,14 @@
             "repMax": 12,
             "restSeconds": 75,
             "targetRIR": 1
+          },
+          {
+            "exerciseId": "reverse-crunch",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       },
@@ -1406,7 +1518,7 @@
     "description": "Für die Diät: drei Ganzkörper-Einheiten mit schweren Grundübungen halten deine Muskeln, danach ein kurzer Finisher (8 bis 12 Minuten) treibt den Verbrauch hoch. Schwer heben, sauber bleiben, nicht bis zum Muskelversagen.",
     "level": "beginner",
     "daysPerWeek": 3,
-    "sessionMinutes": 46,
+    "sessionMinutes": 49,
     "requiresEquipment": [
       "barbell",
       "dumbbells",
@@ -1524,6 +1636,14 @@
             "repMax": 100,
             "restSeconds": 30,
             "targetRIR": 1
+          },
+          {
+            "exerciseId": "side-plank",
+            "sets": 3,
+            "repMin": 30,
+            "repMax": 45,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       },
@@ -1578,6 +1698,14 @@
             "repMax": 45,
             "restSeconds": 30,
             "targetRIR": 1
+          },
+          {
+            "exerciseId": "heel-touch",
+            "sets": 3,
+            "repMin": 20,
+            "repMax": 30,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       }
@@ -1589,7 +1717,7 @@
     "description": "Die Abnehm-Variante mit Kurzhanteln und Bank: schwere Beinübungen, Drücken und Rudern halten die Muskeln, ein kurzer Zirkel am Ende den Verbrauch. Kein Rack und keine Langhantel nötig.",
     "level": "beginner",
     "daysPerWeek": 3,
-    "sessionMinutes": 38,
+    "sessionMinutes": 41,
     "requiresEquipment": [
       "dumbbells",
       "bench"
@@ -1704,6 +1832,14 @@
             "repMax": 12,
             "restSeconds": 30,
             "targetRIR": 1
+          },
+          {
+            "exerciseId": "crunch",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       },
@@ -1758,6 +1894,14 @@
             "repMax": 45,
             "restSeconds": 30,
             "targetRIR": 1
+          },
+          {
+            "exerciseId": "sit-up",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       }
@@ -1765,11 +1909,11 @@
   },
   {
     "id": "lose-short-25-3",
-    "name": "Kurz & Straff 3×25",
-    "description": "Wenig Zeit, trotzdem Kraft halten: Drei Einheiten à etwa 25 Minuten mit wenigen Grundübungen und kurzen Pausen. Gut für Tage, an denen die Energie im Defizit niedrig ist.",
+    "name": "Kurz & Straff 3×30",
+    "description": "Wenig Zeit, trotzdem Kraft halten: Drei Einheiten à etwa 30 Minuten mit wenigen Grundübungen, dazu eine Bauchübung und kurzen Pausen. Gut für Tage, an denen die Energie im Defizit niedrig ist.",
     "level": "beginner",
     "daysPerWeek": 3,
-    "sessionMinutes": 25,
+    "sessionMinutes": 28,
     "requiresEquipment": [
       "dumbbells"
     ],
@@ -1813,6 +1957,14 @@
             "repMax": 20,
             "restSeconds": 30,
             "targetRIR": 1
+          },
+          {
+            "exerciseId": "bicycle-crunch",
+            "sets": 3,
+            "repMin": 16,
+            "repMax": 24,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       },
@@ -1851,6 +2003,14 @@
             "repMax": 30,
             "restSeconds": 30,
             "targetRIR": 1
+          },
+          {
+            "exerciseId": "reverse-crunch",
+            "sets": 3,
+            "repMin": 10,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       },
@@ -1888,6 +2048,14 @@
             "repMin": 8,
             "repMax": 12,
             "restSeconds": 30,
+            "targetRIR": 1
+          },
+          {
+            "exerciseId": "side-plank",
+            "sets": 3,
+            "repMin": 30,
+            "repMax": 45,
+            "restSeconds": 45,
             "targetRIR": 1
           }
         ]
@@ -2077,7 +2245,7 @@
     "description": "Ausgewogen zum Gewicht halten: drei Ganzkörper-Einheiten mit mittlerem Volumen, dazu je ein kurzer Konditionsteil. Du bleibst kräftig und fit, ohne dich zu überlasten.",
     "level": "beginner",
     "daysPerWeek": 3,
-    "sessionMinutes": 33,
+    "sessionMinutes": 36,
     "requiresEquipment": [
       "dumbbells",
       "bench"
@@ -2175,6 +2343,14 @@
             "repMax": 30,
             "restSeconds": 30,
             "targetRIR": 2
+          },
+          {
+            "exerciseId": "heel-touch",
+            "sets": 3,
+            "repMin": 20,
+            "repMax": 30,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       },
@@ -2221,6 +2397,14 @@
             "repMax": 12,
             "restSeconds": 30,
             "targetRIR": 2
+          },
+          {
+            "exerciseId": "crunch",
+            "sets": 3,
+            "repMin": 12,
+            "repMax": 15,
+            "restSeconds": 45,
+            "targetRIR": 1
           }
         ]
       }

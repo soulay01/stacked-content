@@ -3909,5 +3909,297 @@
       "burpee"
     ],
     "description": "Explosive Kniebeuge für Beine und Puls. Bei Knieproblemen lieber die normale Kniebeuge."
+  },
+  {
+    "id": "bicycle-crunch",
+    "name": "Fahrrad-Crunch",
+    "pattern": "core",
+    "tier": "isolation",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 16,
+    "repMax": 24,
+    "restSeconds": 45,
+    "loadType": "bodyweight",
+    "cues": [
+      "Unterer Rücken bleibt am Boden",
+      "Ellbogen zum gegenüberliegenden Knie drehen",
+      "Langsam wechseln, Beine strecken sich dabei ganz"
+    ],
+    "mistakes": [
+      "Mit den Händen am Nacken ziehen",
+      "Zu schnell strampeln"
+    ],
+    "alternatives": [
+      "crunch",
+      "russian-twist"
+    ],
+    "description": "Schräge und gerade Bauchmuskeln in einer Bewegung. Wiederholungen zählen beide Seiten zusammen."
+  },
+  {
+    "id": "reverse-crunch",
+    "name": "Reverse Crunch",
+    "pattern": "core",
+    "tier": "isolation",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 10,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "bodyweight",
+    "cues": [
+      "Knie angewinkelt über der Hüfte",
+      "Becken vom Boden rollen, nicht die Beine schwingen",
+      "Langsam absenken, Rücken bleibt flach"
+    ],
+    "mistakes": [
+      "Mit Schwung aus den Beinen",
+      "Hohlkreuz beim Absenken"
+    ],
+    "alternatives": [
+      "lying-leg-raise",
+      "crunch"
+    ],
+    "description": "Trainiert den unteren Bauch, schonender für den Rücken als gestreckte Beinheber."
+  },
+  {
+    "id": "side-plank",
+    "name": "Seitstütz",
+    "pattern": "core",
+    "tier": "isolation",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "lowerBack"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 30,
+    "repMax": 45,
+    "restSeconds": 45,
+    "loadType": "bodyweight",
+    "cues": [
+      "Ellbogen unter der Schulter",
+      "Hüfte hoch, Körper bildet eine Linie",
+      "Pro Seite halten, Wiederholungen = Sekunden"
+    ],
+    "mistakes": [
+      "Hüfte sinkt ab",
+      "Oberkörper kippt nach vorn"
+    ],
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ],
+    "description": "Statische Übung für die seitlichen Bauchmuskeln und stabile Hüften, Wiederholungen entsprechen Haltezeit in Sekunden."
+  },
+  {
+    "id": "cable-crunch",
+    "name": "Kabel-Crunch",
+    "pattern": "core",
+    "tier": "accessory",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "equipment": [
+      "cable"
+    ],
+    "needsSafeties": false,
+    "repMin": 10,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "cable",
+    "cues": [
+      "Kniend, Seil neben dem Kopf",
+      "Wirbelsäule einrollen, Hüfte bleibt oben",
+      "Unten kurz die Bauchmuskeln spannen"
+    ],
+    "mistakes": [
+      "Mit den Armen ziehen",
+      "Aus der Hüfte statt aus dem Bauch beugen"
+    ],
+    "alternatives": [
+      "crunch",
+      "reverse-crunch"
+    ],
+    "description": "Der Crunch mit Gewicht: ideal, um den Bauch mit steigender Last zu trainieren."
+  },
+  {
+    "id": "sit-up",
+    "name": "Sit-up",
+    "pattern": "core",
+    "tier": "accessory",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "quads"
+    ],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 10,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "bodyweight",
+    "cues": [
+      "Füße fest, Knie angewinkelt",
+      "Oberkörper kontrolliert ganz aufrichten",
+      "Langsam wieder ablegen"
+    ],
+    "mistakes": [
+      "Am Nacken reißen",
+      "Schwung aus dem Rücken"
+    ],
+    "alternatives": [
+      "crunch",
+      "reverse-crunch"
+    ],
+    "description": "Klassische Bauchübung über den vollen Bewegungsweg, trainiert auch die Hüftbeuger."
+  },
+  {
+    "id": "jackknife-sit-up",
+    "name": "V-Up",
+    "pattern": "core",
+    "tier": "accessory",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 8,
+    "repMax": 12,
+    "restSeconds": 60,
+    "loadType": "bodyweight",
+    "cues": [
+      "Arme und Beine gleichzeitig zur Mitte",
+      "Gestreckte Beine, Rücken lang",
+      "Kontrolliert absenken"
+    ],
+    "mistakes": [
+      "Zu viel Schwung",
+      "Beine hängen durch"
+    ],
+    "alternatives": [
+      "lying-leg-raise",
+      "crunch"
+    ],
+    "description": "Anspruchsvolle Bauchübung für den ganzen geraden Bauchmuskel und die Hüftbeuger."
+  },
+  {
+    "id": "heel-touch",
+    "name": "Fersenberührer",
+    "pattern": "core",
+    "tier": "isolation",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "equipment": [
+      "floor"
+    ],
+    "needsSafeties": false,
+    "repMin": 20,
+    "repMax": 30,
+    "restSeconds": 45,
+    "loadType": "bodyweight",
+    "cues": [
+      "Schulterblätter leicht vom Boden",
+      "Seitlich Richtung Ferse beugen",
+      "Unterer Rücken bleibt am Boden"
+    ],
+    "mistakes": [
+      "Nur mit den Armen wackeln",
+      "Nacken überstrecken"
+    ],
+    "alternatives": [
+      "bicycle-crunch",
+      "crunch"
+    ],
+    "description": "Einfache Übung für die seitlichen Bauchmuskeln, auch gut für Anfänger. Wiederholungen zählen beide Seiten zusammen."
+  },
+  {
+    "id": "dumbbell-side-bend",
+    "name": "Seitbeuge mit Kurzhantel",
+    "pattern": "core",
+    "tier": "isolation",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "needsSafeties": false,
+    "repMin": 12,
+    "repMax": 15,
+    "restSeconds": 45,
+    "loadType": "dumbbell",
+    "cues": [
+      "Aufrecht stehen, Hantel an einer Seite",
+      "Seitlich beugen, nicht nach vorn kippen",
+      "Oben die Bauchseite anspannen"
+    ],
+    "mistakes": [
+      "Mit zu viel Gewicht arbeiten",
+      "Vor- und Rückwärts schaukeln"
+    ],
+    "alternatives": [
+      "russian-twist",
+      "side-plank"
+    ],
+    "description": "Kräftigt die seitlichen Bauchmuskeln und macht den Rumpf stabil."
+  },
+  {
+    "id": "decline-crunch",
+    "name": "Crunch auf der Schrägbank",
+    "pattern": "core",
+    "tier": "accessory",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "equipment": [
+      "bench"
+    ],
+    "needsSafeties": false,
+    "repMin": 10,
+    "repMax": 15,
+    "restSeconds": 60,
+    "loadType": "bodyweight",
+    "cues": [
+      "Füße fixieren, Hände vor der Brust",
+      "Langsam einrollen, Rippen zum Becken",
+      "Nicht ganz ablegen, Spannung halten"
+    ],
+    "mistakes": [
+      "Mit Schwung hochreißen",
+      "Am Kopf ziehen"
+    ],
+    "alternatives": [
+      "crunch",
+      "cable-crunch"
+    ],
+    "description": "Der Crunch mit mehr Bewegungsweg und Widerstand für den Bauch."
   }
 ]
